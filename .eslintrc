@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "eslint-config-via-profit"
+  ],
+  "settings": {
+    "import/resolver": {
+      "node": {},
+      "webpack": {
+        "config": "./webpack/webpack.config.base.js"
+      }
+    }
+  }
+}
