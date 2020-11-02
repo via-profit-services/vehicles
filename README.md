@@ -24,10 +24,10 @@
 ### Установка
 
 ```bash
-yarn add ssh://git@gitlab.com:via-profit-services/vehicles.git#semver:^0.1.0
+yarn add ssh://git@github.com:via-profit-services/vehicles.git#semver:^0.1.0
 ```
 
-Список версий [см. здесь](https://gitlab.com/via-profit-services/vehicles/-/tags)
+Список версий [см. здесь](https://github.com/via-profit-services/vehicles/-/tags)
 
 ### Миграции
 

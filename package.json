@@ -37,12 +37,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@gitlab.com:via-profit-services/vehicles.git"
+        "url": "git@github.com:via-profit-services/vehicles.git"
     },
     "author": "Via Profit <promo@via-profit.ru>",
     "license": "MIT",
     "dependencies": {
-        "@via-profit-services/core": "ssh://git@gitlab.com:via-profit-services/core.git#semver:^0.30.0",
+        "@via-profit-services/core": "ssh://git@github.com:via-profit-services/core.git#semver:^0.30.0",
         "graphql": "^14.6.0",
         "graphql-import-node": "^0.0.4",
         "graphql-tools": "^4.0.7"
@@ -68,7 +68,7 @@
         "eslint": "^7.9.0",
         "eslint-config-prettier": "^6.11.0",
         "eslint-config-standard": "^14.1.1",
-        "eslint-config-via-profit": "ssh://git@gitlab.com:via-profit/eslint-config-via-profit.git#semver:^0.2.15",
+        "eslint-config-via-profit": "ssh://git@github.com:via-profit/eslint-config-via-profit.git#semver:^0.2.15",
         "eslint-import-resolver-webpack": "^0.12.2",
         "eslint-plugin-import": "^2.22.0",
         "eslint-plugin-node": "^11.1.0",
