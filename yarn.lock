@@ -899,9 +899,9 @@
     "@typescript-eslint/types" "4.2.0"
     eslint-visitor-keys "^2.0.0"
 
-"@via-profit-services/core@ssh://git@gitlab.com:via-profit-services/core.git#semver:^0.30.0":
+"@via-profit-services/core@ssh://git@github.com:via-profit-services/core.git#semver:^0.30.0":
   version "0.30.1"
-  resolved "ssh://git@gitlab.com:via-profit-services/core.git#69304983268596f2042510e897dd4f97f78df287"
+  resolved "ssh://git@github.com:via-profit-services/core.git#69304983268596f2042510e897dd4f97f78df287"
   dependencies:
     "@graphql-toolkit/core" "^0.9.1"
     "@graphql-toolkit/schema-merging" "^0.9.1"
@@ -3438,9 +3438,9 @@ eslint-config-standard@^14.1.1:
   resolved "https://registry.yarnpkg.com/eslint-config-standard/-/eslint-config-standard-14.1.1.tgz#830a8e44e7aef7de67464979ad06b406026c56ea"
   integrity sha512-Z9B+VR+JIXRxz21udPTL9HpFMyoMUEeX1G251EQ6e05WD9aPVtVBn09XUmZ259wCMlCDmYDSZG62Hhm+ZTJcUg==
 
-"eslint-config-via-profit@ssh://git@gitlab.com:via-profit/eslint-config-via-profit.git#semver:^0.2.15":
+"eslint-config-via-profit@ssh://git@github.com:via-profit/eslint-config-via-profit.git#semver:^0.2.15":
   version "0.2.15"
-  resolved "ssh://git@gitlab.com:via-profit/eslint-config-via-profit.git#821edba4ecf5167db7e668b919e6b000f5f44545"
+  resolved "ssh://git@github.com:via-profit/eslint-config-via-profit.git#821edba4ecf5167db7e668b919e6b000f5f44545"
 
 eslint-import-resolver-node@^0.3.3:
   version "0.3.4"

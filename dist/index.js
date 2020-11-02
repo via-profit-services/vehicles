@@ -2,7 +2,7 @@
  * 
  *  Via Profit Services / Vehicles
  * 
- *  Repository https://gitlab.com/via-profit-services/vehicles
+ *  Repository https://github.com/via-profit-services/vehicles
  *  Contact    promo@via-profit.ru
  *  Website    https://via-profit.ru
  *       
