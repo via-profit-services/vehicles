@@ -82,7 +82,6 @@
         "eslint": "^7.12.1",
         "eslint-config-prettier": "^6.15.0",
         "eslint-config-standard": "^16.0.1",
-        "eslint-config-via-profit": "ssh://git@github.com:via-profit/eslint-config-via-profit.git#semver:^0.2.15",
         "eslint-import-resolver-webpack": "^0.13.0",
         "eslint-plugin-import": "^2.22.1",
         "eslint-plugin-node": "^11.1.0",

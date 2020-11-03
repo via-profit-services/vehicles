@@ -3450,10 +3450,6 @@ eslint-config-standard@^16.0.1:
   resolved "https://registry.yarnpkg.com/eslint-config-standard/-/eslint-config-standard-16.0.1.tgz#9a385eea27f96b7918cb53f07e01e9d10cc56401"
   integrity sha512-WBBiQQZdaPyL+4sPkGWhWrHCDtvJoU195B9j8yXE9uFQnX34gMXI5CeBRm95gx3PMEZPM5OpwET10hH4F4SxCA==
 
-"eslint-config-via-profit@ssh://git@github.com:via-profit/eslint-config-via-profit.git#semver:^0.2.15":
-  version "0.2.15"
-  resolved "ssh://git@github.com:via-profit/eslint-config-via-profit.git#821edba4ecf5167db7e668b919e6b000f5f44545"
-
 eslint-import-resolver-node@^0.3.4:
   version "0.3.4"
   resolved "https://registry.yarnpkg.com/eslint-import-resolver-node/-/eslint-import-resolver-node-0.3.4.tgz#85ffa81942c25012d8231096ddf679c03042c717"
