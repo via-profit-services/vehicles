@@ -20,7 +20,6 @@ export interface VehicleModel {
 }
 
 
-
 export type VehicleMakeInput = Omit<VehicleMake, 'id' | 'createdAt' | 'updatedAt'> & {
   id?: string;
   createdAt?: string;

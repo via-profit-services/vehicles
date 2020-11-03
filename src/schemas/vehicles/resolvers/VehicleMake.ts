@@ -1,9 +1,9 @@
-import { IResolverObject, IFieldResolver } from 'graphql-tools';
+import { IObjectTypeResolver, IFieldResolver } from '@via-profit-services/core';
 
 import createDataloaders from '../loaders';
 import { Context, VehicleMake } from '../types';
 
-type VehicleMakeResolver = IResolverObject<{ id: string }, Context>;
+type VehicleMakeResolver = IObjectTypeResolver<{ id: string }, Context>;
 interface IParent {
   id: string;
 }
