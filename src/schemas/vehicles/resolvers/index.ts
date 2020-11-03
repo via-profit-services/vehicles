@@ -1,4 +1,4 @@
-import { IResolvers } from 'graphql-tools';
+import { IResolvers } from '@via-profit-services/core';
 
 import createLoaders from '../loaders';
 import { Context } from '../types';
@@ -6,7 +6,6 @@ import VehicleMake from './VehicleMake';
 import VehicleModel from './VehicleModel';
 import VehicleMakesListConnection from './VehicleMakesListConnection';
 import VehicleModelsListConnection from './VehicleModelsListConnection';
-
 
 
 const resolvers: IResolvers<any, Context> = {

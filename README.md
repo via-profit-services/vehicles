@@ -4,6 +4,9 @@
 
 > Via Profit services / **Vehicles** - это пакет, который является частью сервиса, базирующегося на `via-profit-services` и представляет собой реализацию схемы работы с городами.
 
+![npm (scoped)](https://img.shields.io/npm/v/@via-profit-services/vehicles?color=blue)
+![Libraries.io dependency status for latest release, scoped npm package](https://img.shields.io/librariesio/release/npm/@via-profit-services/vehicles?color=red)
+
 
 ## TODO
 
@@ -24,10 +27,8 @@
 ### Установка
 
 ```bash
-yarn add ssh://git@github.com:via-profit-services/vehicles.git#semver:^0.1.0
+yarn add @via-profit-services/vehicles
 ```
-
-Список версий [см. здесь](https://github.com/via-profit-services/vehicles/-/tags)
 
 ### Миграции
 

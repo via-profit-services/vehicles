@@ -21,7 +21,8 @@ class Vehicles {
     this.props = props;
   }
 
-  public async getVehacleMakes(filter: Partial<TOutputFilter>): Promise<IListResponse<VehicleMake>> {
+  public async getVehacleMakes(
+    filter: Partial<TOutputFilter>): Promise<IListResponse<VehicleMake>> {
     const { context } = this.props;
     const { knex } = context;
     const {
@@ -42,9 +43,9 @@ class Vehicles {
         // This is a temporary solution until the «Search» module is implemented
         if (search) {
           search.forEach(({ field, query }) => {
-            query.split(' ').map((subquery) => 
+            query.split(' ').map((subquery) =>
               // Note: Set type ::text forcibly
-               builder.orWhereRaw(`"${field}"::text ${TWhereAction.ILIKE} '%${subquery}%'`)
+               builder.orWhereRaw(`"${field}"::text ${TWhereAction.ILIKE} '%${subquery}%'`),
             );
           });
         }
@@ -76,7 +77,8 @@ class Vehicles {
   }
 
 
-public async getVehacleModels(filter: Partial<TOutputFilter>): Promise<IListResponse<VehicleModel>> {
+public async getVehacleModels(
+  filter: Partial<TOutputFilter>): Promise<IListResponse<VehicleModel>> {
     const { context } = this.props;
     const { knex } = context;
     const {
@@ -97,9 +99,9 @@ public async getVehacleModels(filter: Partial<TOutputFilter>): Promise<IListResp
         // This is a temporary solution until the «Search» module is implemented
         if (search) {
           search.forEach(({ field, query }) => {
-            query.split(' ').map((subquery) => 
+            query.split(' ').map((subquery) =>
               // Note: Set type ::text forcibly
-               builder.orWhereRaw(`"${field}"::text ${TWhereAction.ILIKE} '%${subquery}%'`)
+               builder.orWhereRaw(`"${field}"::text ${TWhereAction.ILIKE} '%${subquery}%'`),
             );
           });
         }
@@ -112,7 +114,7 @@ public async getVehacleModels(filter: Partial<TOutputFilter>): Promise<IListResp
           // eslint-disable-next-line @typescript-eslint/no-unused-vars
           nodes: nodes.map(({ totalCount, ...nodeData }) => ({
               ...nodeData,
-              make: {id: nodeData.make},
+              make: { id: nodeData.make },
               createdAt,
               updatedAt: createdAt,
             })),
@@ -153,14 +155,14 @@ public async getVehacleModels(filter: Partial<TOutputFilter>): Promise<IListResp
 
   public async getVehicleMake(id: string): Promise<VehicleMake | false> {
     const nodes = await this.getVehacleMakesByIds([id]);
-    
+
     return nodes.length ? nodes[0] : false;
   }
 
 
   public async getVehicleModel(id: string): Promise<VehicleModel | false> {
     const nodes = await this.getVehacleModelsByIds([id]);
-    
+
     return nodes.length ? nodes[0] : false;
   }
 }

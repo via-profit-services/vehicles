@@ -90,6 +90,5 @@ const configureApp = (props?: IProps): IInitProps => {
 };
 
 
-
 export default configureApp;
 export { configureApp };
