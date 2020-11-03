@@ -1,6 +1,5 @@
 {
     "name": "@via-profit-services/vehicles",
-    "private": true,
     "support": "https://via-profit.ru",
     "version": "0.1.0",
     "description": "Via Profit Vehicles Schema",
