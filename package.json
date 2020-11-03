@@ -5,6 +5,17 @@
     "version": "0.1.0",
     "description": "Via Profit Vehicles Schema",
     "main": "dist/index.js",
+    "engines": {
+        "node": ">= 12.8.3",
+        "npm": ">= 6.14.8"
+    },
+    "keywords": [
+        "graphql",
+        "via-profit",
+        "vehicles",
+        "cars",
+        "transport"
+    ],
     "scripts": {
         "make": "node ./scripts/makeMigration.js",
         "split": "node ./scripts/split.js",
@@ -27,9 +38,7 @@
         "knex:migrate:rollback:all": "yarn via-profit-core:knex migrate rollback-all",
         "knex:seed:make": "yarn via-profit-core:knex seed make --name",
         "knex:seed:run": "yarn via-profit-core:knex seed run --name",
-        "preversion": "yarn dist && git add --all && git commit -m \"Build\"",
-        "postversion:readme": "yarn replace '/vehicles\\.git#semver:\\^\\d+\\.\\d+\\.\\d+' \"/vehicles.git#semver:^$npm_package_version\" ./README.md",
-        "postversion": "yarn postversion:readme && git add --all && git commit -m \" Bump README.md\" && git push --tags",
+        "postversion": "git push --tags",
         "release:patch": "yarn version --patch",
         "release:minor": "yarn version --minor",
         "release:major": "yarn version --major",
@@ -39,7 +48,15 @@
         "type": "git",
         "url": "git@github.com:via-profit-services/vehicles.git"
     },
-    "author": "Via Profit <promo@via-profit.ru>",
+    "author": {
+        "name": "Via Profit",
+        "email": "promo@via-profit.ru",
+        "url": "https://dev.via-profit.ru"
+    },
+    "contributors": [
+        "Vaily Novosad <delhsmail@gmail.com>",
+        "Pavel Natalin <trubonru@gmail.com>"
+    ],
     "license": "MIT",
     "dependencies": {
         "@via-profit-services/core": "^0.30.10"
