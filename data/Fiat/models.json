@@ -1,0 +1,332 @@
+[
+  {
+    "id": "c54f6cd2-f218-4c77-8860-630d8c37d98f",
+    "name": "124",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "db54aeb9-ae53-4ec0-8dab-7e44818cc7ec",
+    "name": "124 Spider",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "fa18e111-0370-4bd0-8789-c605fffd8a2b",
+    "name": "124 Sport Spider",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "761b9b6c-060c-47e5-b707-61d90e886854",
+    "name": "126",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "ff1b184e-5c29-48a3-9f47-1ed6b426c544",
+    "name": "127",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "89cfb829-20e4-4c6a-b048-1fb9d90445c4",
+    "name": "128",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "12d62118-b1fe-48e3-bfd0-28b306622504",
+    "name": "130",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "296f0a34-1ab0-4f62-9d04-04da6941ddf7",
+    "name": "131",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "70bfe03f-adb3-4c0e-a269-f80130d6868c",
+    "name": "132",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "f3dc120d-2d73-4211-8569-379504b29442",
+    "name": "147",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "443f8189-3cd9-4cef-9f1a-089f183bc758",
+    "name": "238",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "42383363-3336-4802-bb8a-9f0666fcf8ec",
+    "name": "500",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "fddd5900-dde5-4faf-969b-58fdf565f142",
+    "name": "500L",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "d720b5f0-9dbd-44e3-acf9-b7389a2ee641",
+    "name": "500X",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "380a227d-2704-466c-ba47-0795d9dcb5cc",
+    "name": "508",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "62b692ba-bfa0-4e36-8664-0e23ba5b4e15",
+    "name": "600",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "e49bb144-a18d-442c-9b4d-5f23f4399bad",
+    "name": "697",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "9b8af3ae-3724-4669-9d6b-e5c9cdbf6111",
+    "name": "900T",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "ff65b5ca-31df-4da8-8aef-6124af9dec9e",
+    "name": "Albea",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "aa878955-86e0-454e-88de-1133cf719e91",
+    "name": "Argenta",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "f075a1d7-16de-436c-82d1-42de3ffbcde1",
+    "name": "Argo",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "b0b38739-2cd5-487a-ad71-133cc4321058",
+    "name": "Avventura",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "026eda9b-3c66-4c81-adaf-2f3bc6b68fcd",
+    "name": "Barchetta",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "895324b3-b590-40fa-8879-1196de043c8e",
+    "name": "Brava",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "15dff1f0-d070-46f2-aa39-ddd8104dbf69",
+    "name": "Bravo",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "d22753e7-bc14-45c9-8c6b-e7e32d92700b",
+    "name": "Cinquecento",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "d9149bf3-e6ea-422e-8fbe-77bbe20c458b",
+    "name": "Coupe",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "55f2ae30-9ced-40d7-8bd8-00907e982cbb",
+    "name": "Croma",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "69304562-f756-4e17-8ca2-de50d1587b93",
+    "name": "Cronos",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "1e12076c-afd9-4bb0-933b-e2223f65ae76",
+    "name": "Doblo",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "af5f74f8-7106-4507-9eec-c5e9243900ba",
+    "name": "Ducato",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "00e25758-e1fb-4239-8876-f7936352c5b1",
+    "name": "Duna",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "62e4dc72-34e6-44d0-88d6-53938e1e37cc",
+    "name": "Egea",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "7f84fba0-6dc3-4d80-a2f7-fe92a76ef89b",
+    "name": "Fiorino",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "fe277829-6240-47f7-b933-238614fa439b",
+    "name": "Freemont",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "0e77e531-234d-4130-a11d-dfae84f3035a",
+    "name": "Fullback",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "7c752497-e139-44e8-b77c-473fc3ae27cb",
+    "name": "Idea",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "4eb165e0-4c4b-4fde-8577-92adac313303",
+    "name": "Linea",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "0fd93175-b09e-4956-8bf4-8e8b9cadad1e",
+    "name": "Marea",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "c89dbe17-3707-4e38-ab9a-bc7bbce262c1",
+    "name": "Marengo",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "da93a944-ff38-45f3-ba12-7cc4aedf01dd",
+    "name": "Mobi",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "96a7a151-802e-41ad-913b-260624c88e92",
+    "name": "Multipla",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "79c65c65-f80a-4dad-9bf7-c44c50e31bd8",
+    "name": "Ottimo",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "0aa64c74-290a-4ee8-a082-576f891ba1d4",
+    "name": "Palio",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "c921b961-702b-41d1-8d91-66796e721e88",
+    "name": "Panda",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "bf085b0a-c636-4066-b580-a061b974a813",
+    "name": "Perla",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "99826e46-7b53-4bdc-87dc-6c738b5d03d0",
+    "name": "Pratico",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "c47befa1-c238-4262-adae-a3759421fa77",
+    "name": "Punto",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "9140f88a-3f4e-4dd1-b5c0-5b349765156a",
+    "name": "Qubo",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "f6252c42-0440-412a-8a7a-5459c8794fac",
+    "name": "Regata",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "8c808bbd-a29f-404d-a731-e5b7092faf73",
+    "name": "Ritmo",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "7b468c31-93cc-46a1-88d0-a176681674b4",
+    "name": "Scudo",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "96cb42c4-57a7-420d-8765-e5dd1cc993ac",
+    "name": "Sedici",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "a4eca9b2-82be-47e4-a90a-4c48c164b545",
+    "name": "Seicento",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "78288b4b-a412-4d0b-8c27-e80b6f284298",
+    "name": "Siena",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "716f0991-11f5-44c1-af83-d99bf6a493ce",
+    "name": "Spider",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "adab7aa4-eb09-47e1-915a-be0d6d5a47c8",
+    "name": "Stilo",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "00708052-7437-4334-bbc8-b41511c88b3c",
+    "name": "Strada",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "ae80b4b6-2adb-4b27-abfe-3af167bda528",
+    "name": "Talento",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "e578979c-3022-4e54-8b8e-6f2f7898da66",
+    "name": "Tempra",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "1069ea98-886a-4173-b154-05ba8093298c",
+    "name": "Tipo",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "046e9602-9f03-4da4-89c7-0c1ccec83174",
+    "name": "Toro",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "a439953d-1ffc-4e99-8371-3a50b347c730",
+    "name": "Ulysse",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "19bba75f-3e51-42ab-b6f0-3cba03f13826",
+    "name": "Uno",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "717f4243-b3c6-4441-8a38-9631e8503076",
+    "name": "Viaggio",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  },
+  {
+    "id": "25812cba-26b7-4612-b033-7568a07ce1e3",
+    "name": "X 1/9",
+    "brand": "de2578cf-7023-43c6-86bb-f72b27e13cde"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "6e7ec140-aea7-4da5-a4a5-c584369fce3d",
+    "name": "350/400 GT",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "c1892e66-2fca-4865-a719-35cb833e17f3",
+    "name": "Aventador",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "715fd5b1-bdd3-4aca-8cdd-5ad003b98451",
+    "name": "Centenario",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "8364c8a3-99f8-42d3-839a-862b864dbfb8",
+    "name": "Countach",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "d3e91890-550f-408b-b637-da76fcc9146c",
+    "name": "Diablo",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "8ee9faa5-6a74-4c96-b1ce-c5034d1cb4f6",
+    "name": "Egoista",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "47df1686-057b-442f-82ff-bc3b3195b030",
+    "name": "Espada",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "c61e605e-0ab7-4a63-a9c5-4f47a4d2ea14",
+    "name": "Essenza",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "be0dbf5e-a238-466c-acc4-0de8a82bd88e",
+    "name": "Gallardo",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "0ae40a14-5918-485f-91dd-4170e9143230",
+    "name": "Huracan",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "f1e70f65-d3e6-435e-ab38-66850d74fde4",
+    "name": "Islero",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "c0707567-4a71-4042-8f21-e190ed1f761c",
+    "name": "Jalpa",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "b915ae48-41d3-4535-96fd-508433d072df",
+    "name": "Jarama",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "f8793e94-c585-4061-b83d-dff48f999693",
+    "name": "LM001",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "fc35fd8a-62b6-4565-83dc-3aa17a2f9208",
+    "name": "LM002",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "61f1fef3-640e-4333-89aa-9780b0fbdc31",
+    "name": "Miura",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "7c016f96-be43-488d-a7ac-f3b2f47e9e02",
+    "name": "Murcielago",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "d1c73739-ef93-4950-b5f5-2419e0a060b8",
+    "name": "Reventon",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "72ced905-f41a-4c26-a9bd-6930de566b31",
+    "name": "Sesto Elemento",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "5b290800-4a48-406a-8b9d-778a8733c879",
+    "name": "Sian",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "a4934032-fa43-4516-a51c-882b7f5dc023",
+    "name": "Silhouette",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "6402b770-daa3-43d6-8a27-020f8002402f",
+    "name": "Urraco",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "88bc9383-f9d2-4ec9-bda2-36e7276f024b",
+    "name": "Urus",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  },
+  {
+    "id": "d3ddc862-90a5-44ba-abde-beb8e92038a1",
+    "name": "Veneno",
+    "brand": "58eb9ce4-f561-49f5-9fb5-2baa1166ce42"
+  }
+]

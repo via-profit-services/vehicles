@@ -1,0 +1,62 @@
+[
+  {
+    "id": "e246a69c-8edc-4745-8e5d-635b320edcc4",
+    "name": "Alero",
+    "brand": "9a0067d5-57c6-46d2-aded-af6f5e75f90c"
+  },
+  {
+    "id": "6225f0ca-9a90-45b1-ac34-b0af1efba444",
+    "name": "Bonito",
+    "brand": "9a0067d5-57c6-46d2-aded-af6f5e75f90c"
+  },
+  {
+    "id": "fba905fb-318a-4eef-adfb-cfa44ec40fd6",
+    "name": "MetroCity",
+    "brand": "9a0067d5-57c6-46d2-aded-af6f5e75f90c"
+  },
+  {
+    "id": "0d2d200b-26bf-4411-bf25-c53db1a7fb0e",
+    "name": "MetroDecker",
+    "brand": "9a0067d5-57c6-46d2-aded-af6f5e75f90c"
+  },
+  {
+    "id": "d40bba6b-a760-4066-a291-bf7f9801087b",
+    "name": "MetroRider",
+    "brand": "9a0067d5-57c6-46d2-aded-af6f5e75f90c"
+  },
+  {
+    "id": "722e23c3-990d-44da-9707-da382d8721e7",
+    "name": "Olympus IDD",
+    "brand": "9a0067d5-57c6-46d2-aded-af6f5e75f90c"
+  },
+  {
+    "id": "43b80e8f-aa2d-4843-a379-d8d3ac0ec770",
+    "name": "Solera HD",
+    "brand": "9a0067d5-57c6-46d2-aded-af6f5e75f90c"
+  },
+  {
+    "id": "e23ac00a-e8c6-44c5-ae06-b49d74ddd59f",
+    "name": "Solo",
+    "brand": "9a0067d5-57c6-46d2-aded-af6f5e75f90c"
+  },
+  {
+    "id": "87410dc9-09f0-4e39-9265-d1ba30bb9af5",
+    "name": "Soroco",
+    "brand": "9a0067d5-57c6-46d2-aded-af6f5e75f90c"
+  },
+  {
+    "id": "10d733e1-2a8c-4d98-a7a6-5a68f1493c08",
+    "name": "Tempo",
+    "brand": "9a0067d5-57c6-46d2-aded-af6f5e75f90c"
+  },
+  {
+    "id": "4011ada4-bfdc-4d49-a1e6-650802b74a84",
+    "name": "Versa",
+    "brand": "9a0067d5-57c6-46d2-aded-af6f5e75f90c"
+  },
+  {
+    "id": "59de09b2-aa30-43f0-b959-1a0db923fbaa",
+    "name": "Visionaire",
+    "brand": "9a0067d5-57c6-46d2-aded-af6f5e75f90c"
+  }
+]

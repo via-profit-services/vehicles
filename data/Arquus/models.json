@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4e8c7ab6-cc2e-4a48-92e0-453e9d562ff1",
+    "name": "Armis",
+    "brand": "7db468a7-b81f-440a-866d-388720e3364c"
+  },
+  {
+    "id": "69a2ffad-354d-4688-a842-6097c33be1ec",
+    "name": "Bastion",
+    "brand": "7db468a7-b81f-440a-866d-388720e3364c"
+  },
+  {
+    "id": "e69a2bb2-db8d-4d31-8efc-f46788655d2f",
+    "name": "Dagger",
+    "brand": "7db468a7-b81f-440a-866d-388720e3364c"
+  },
+  {
+    "id": "0c3020cc-7b55-4b90-9e5c-405979bd784b",
+    "name": "Fortress",
+    "brand": "7db468a7-b81f-440a-866d-388720e3364c"
+  },
+  {
+    "id": "22e17ce0-435b-4ba2-99cf-beef1caee2ec",
+    "name": "MIDS",
+    "brand": "7db468a7-b81f-440a-866d-388720e3364c"
+  },
+  {
+    "id": "3fb599d4-aa6c-4117-96cb-60dc160b6f95",
+    "name": "Patsas",
+    "brand": "7db468a7-b81f-440a-866d-388720e3364c"
+  },
+  {
+    "id": "1dff72d6-5017-40d1-ac1e-3cc393c1898b",
+    "name": "Sherpa",
+    "brand": "7db468a7-b81f-440a-866d-388720e3364c"
+  },
+  {
+    "id": "3d19ea3b-3b00-4694-ad6e-b15e386a51c1",
+    "name": "Torpedo",
+    "brand": "7db468a7-b81f-440a-866d-388720e3364c"
+  },
+  {
+    "id": "d8562500-df14-452b-8930-00ff00cd65c8",
+    "name": "Trapper",
+    "brand": "7db468a7-b81f-440a-866d-388720e3364c"
+  },
+  {
+    "id": "5aa83c6b-8164-4b64-8d17-af9b46e008a2",
+    "name": "Trigger",
+    "brand": "7db468a7-b81f-440a-866d-388720e3364c"
+  },
+  {
+    "id": "7c6fc96b-2873-4ff2-ab54-e74c176f4550",
+    "name": "VAB",
+    "brand": "7db468a7-b81f-440a-866d-388720e3364c"
+  },
+  {
+    "id": "6608340d-a1f2-492b-a218-0e924408ba4e",
+    "name": "VLRA",
+    "brand": "7db468a7-b81f-440a-866d-388720e3364c"
+  }
+]

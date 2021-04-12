@@ -1,0 +1,22 @@
+[
+  {
+    "id": "b0eb7722-bbfc-4f78-90c7-a8294956c04f",
+    "name": "Hawk",
+    "brand": "9bc34ca6-34b7-49c8-9320-2eef7f5bc349"
+  },
+  {
+    "id": "6ac59f89-dcfa-4ea0-8bd8-bb40777371f4",
+    "name": "Humberette",
+    "brand": "9bc34ca6-34b7-49c8-9320-2eef7f5bc349"
+  },
+  {
+    "id": "2295d9a6-aeaa-4ee1-8110-9fe994a80a60",
+    "name": "Sceptre",
+    "brand": "9bc34ca6-34b7-49c8-9320-2eef7f5bc349"
+  },
+  {
+    "id": "859631f7-ed8c-40bb-813f-bd4f9d7677d8",
+    "name": "Super Snipe",
+    "brand": "9bc34ca6-34b7-49c8-9320-2eef7f5bc349"
+  }
+]

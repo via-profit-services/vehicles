@@ -1,0 +1,107 @@
+[
+  {
+    "id": "c803f4ec-f435-4f7c-b3c1-76e08ae3b3a3",
+    "name": "EX",
+    "brand": "3bb730f5-b159-47e0-b690-7c4f5214fb27"
+  },
+  {
+    "id": "593205f2-63a0-4010-b210-2ad3471ec5d8",
+    "name": "FX",
+    "brand": "3bb730f5-b159-47e0-b690-7c4f5214fb27"
+  },
+  {
+    "id": "3c829002-c58d-4ef0-b7f3-272e72088895",
+    "name": "G",
+    "brand": "3bb730f5-b159-47e0-b690-7c4f5214fb27"
+  },
+  {
+    "id": "e53440e3-78c9-47f9-ad92-4dd308604bc5",
+    "name": "I",
+    "brand": "3bb730f5-b159-47e0-b690-7c4f5214fb27"
+  },
+  {
+    "id": "b45f1bf5-b276-4d48-ba0f-92f9a44c666c",
+    "name": "J",
+    "brand": "3bb730f5-b159-47e0-b690-7c4f5214fb27"
+  },
+  {
+    "id": "2e75568b-e3ba-423a-8308-a41c61121388",
+    "name": "JX",
+    "brand": "3bb730f5-b159-47e0-b690-7c4f5214fb27"
+  },
+  {
+    "id": "284e6f39-2190-4eee-acdd-6ee1c3a482ea",
+    "name": "M",
+    "brand": "3bb730f5-b159-47e0-b690-7c4f5214fb27"
+  },
+  {
+    "id": "f5e0efda-1a6d-4eee-85a3-69f3b6221d57",
+    "name": "Q",
+    "brand": "3bb730f5-b159-47e0-b690-7c4f5214fb27"
+  },
+  {
+    "id": "a8c062c2-bee0-4879-8fe0-faf37ed3727d",
+    "name": "Q30",
+    "brand": "3bb730f5-b159-47e0-b690-7c4f5214fb27"
+  },
+  {
+    "id": "3f9e636a-c635-455c-9ae9-dc2dab5b9a71",
+    "name": "Q40",
+    "brand": "3bb730f5-b159-47e0-b690-7c4f5214fb27"
+  },
+  {
+    "id": "97f31691-da17-49df-9a42-2958c2f86f6c",
+    "name": "Q50",
+    "brand": "3bb730f5-b159-47e0-b690-7c4f5214fb27"
+  },
+  {
+    "id": "aea33463-684d-4ad5-8387-bb6a5fa84ecc",
+    "name": "Q60",
+    "brand": "3bb730f5-b159-47e0-b690-7c4f5214fb27"
+  },
+  {
+    "id": "e8c926db-7b53-42e0-9df2-54d86e0ce89e",
+    "name": "Q70",
+    "brand": "3bb730f5-b159-47e0-b690-7c4f5214fb27"
+  },
+  {
+    "id": "73b38c99-0923-4352-ab52-5e165ddda1c9",
+    "name": "QX",
+    "brand": "3bb730f5-b159-47e0-b690-7c4f5214fb27"
+  },
+  {
+    "id": "4ade0075-e646-4794-acf6-b836241325f6",
+    "name": "QX30",
+    "brand": "3bb730f5-b159-47e0-b690-7c4f5214fb27"
+  },
+  {
+    "id": "77e48da0-9130-4de0-a31d-d3c619b3b262",
+    "name": "QX4",
+    "brand": "3bb730f5-b159-47e0-b690-7c4f5214fb27"
+  },
+  {
+    "id": "6ffb6756-87e9-4166-b633-b3042d23a400",
+    "name": "QX50",
+    "brand": "3bb730f5-b159-47e0-b690-7c4f5214fb27"
+  },
+  {
+    "id": "71726237-bb5c-4ecd-8a9c-02c84df7f923",
+    "name": "QX56",
+    "brand": "3bb730f5-b159-47e0-b690-7c4f5214fb27"
+  },
+  {
+    "id": "2ac522ba-4ad6-4f57-8deb-bab680f77e68",
+    "name": "QX60",
+    "brand": "3bb730f5-b159-47e0-b690-7c4f5214fb27"
+  },
+  {
+    "id": "05bfd531-4b59-4af0-b8d8-f2cde132d2f1",
+    "name": "QX70",
+    "brand": "3bb730f5-b159-47e0-b690-7c4f5214fb27"
+  },
+  {
+    "id": "6ec0a4e2-21fc-42b4-bd93-0882c971c35e",
+    "name": "QX80",
+    "brand": "3bb730f5-b159-47e0-b690-7c4f5214fb27"
+  }
+]

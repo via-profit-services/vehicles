@@ -1,0 +1,72 @@
+[
+  {
+    "id": "fc369103-882e-4307-bdde-4ef9610c1771",
+    "name": "Astra",
+    "brand": "47536725-8a42-443a-9c56-92f7f6ba8b83"
+  },
+  {
+    "id": "e1cd68f3-0d16-441b-85c1-acb3bed9bf12",
+    "name": "Aura",
+    "brand": "47536725-8a42-443a-9c56-92f7f6ba8b83"
+  },
+  {
+    "id": "362cc1b5-f95c-4e17-b90b-17390bcd895f",
+    "name": "ION",
+    "brand": "47536725-8a42-443a-9c56-92f7f6ba8b83"
+  },
+  {
+    "id": "fdc9b286-9f79-46a3-989f-c3315eb6e1cb",
+    "name": "L-Series",
+    "brand": "47536725-8a42-443a-9c56-92f7f6ba8b83"
+  },
+  {
+    "id": "5cf1dc75-c9be-41be-9212-ad69f0b37aa3",
+    "name": "LS",
+    "brand": "47536725-8a42-443a-9c56-92f7f6ba8b83"
+  },
+  {
+    "id": "442ddc62-4d80-4a71-9aad-d3944a34515d",
+    "name": "LW",
+    "brand": "47536725-8a42-443a-9c56-92f7f6ba8b83"
+  },
+  {
+    "id": "beb95464-fba7-4ca9-a16f-1fc250cf43df",
+    "name": "Outlook",
+    "brand": "47536725-8a42-443a-9c56-92f7f6ba8b83"
+  },
+  {
+    "id": "4c3956e1-9246-47cc-9fad-31165b5f51f3",
+    "name": "Relay",
+    "brand": "47536725-8a42-443a-9c56-92f7f6ba8b83"
+  },
+  {
+    "id": "6649a6e8-e317-404e-a3ec-a23815a3700c",
+    "name": "S-Series",
+    "brand": "47536725-8a42-443a-9c56-92f7f6ba8b83"
+  },
+  {
+    "id": "56d3a182-3bd8-406d-8126-5af910a1e518",
+    "name": "SC",
+    "brand": "47536725-8a42-443a-9c56-92f7f6ba8b83"
+  },
+  {
+    "id": "47d4a0b7-d0b6-4c42-986f-fbbe56404a42",
+    "name": "Sky",
+    "brand": "47536725-8a42-443a-9c56-92f7f6ba8b83"
+  },
+  {
+    "id": "202b057a-04af-4043-bc64-52f466808c68",
+    "name": "SL",
+    "brand": "47536725-8a42-443a-9c56-92f7f6ba8b83"
+  },
+  {
+    "id": "3f43cc96-b2e9-4fee-a3d6-908dc44d777e",
+    "name": "SW",
+    "brand": "47536725-8a42-443a-9c56-92f7f6ba8b83"
+  },
+  {
+    "id": "30dd66bb-7d2d-46d6-ad5c-95d71b1b1405",
+    "name": "VUE",
+    "brand": "47536725-8a42-443a-9c56-92f7f6ba8b83"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "fed65222-92f4-4827-a5f4-f22cfcefe454",
+    "name": "Accordo",
+    "brand": "9b5d6b43-82cb-4433-8e4b-b2d8cc3c90c0"
+  },
+  {
+    "id": "d3280ccb-e996-4a23-8242-dd61b245e67b",
+    "name": "Aspire",
+    "brand": "9b5d6b43-82cb-4433-8e4b-b2d8cc3c90c0"
+  },
+  {
+    "id": "7814cc05-4fc1-45df-9675-c31cb9120500",
+    "name": "Autoquest",
+    "brand": "9b5d6b43-82cb-4433-8e4b-b2d8cc3c90c0"
+  },
+  {
+    "id": "56457305-491e-41d6-9118-7e13713174af",
+    "name": "Autostratus RG",
+    "brand": "9b5d6b43-82cb-4433-8e4b-b2d8cc3c90c0"
+  },
+  {
+    "id": "91b42a09-a325-4c9d-934c-496c3e0d2733",
+    "name": "Encore",
+    "brand": "9b5d6b43-82cb-4433-8e4b-b2d8cc3c90c0"
+  },
+  {
+    "id": "18e2f725-f076-437f-93d8-0e6640532087",
+    "name": "Majestic",
+    "brand": "9b5d6b43-82cb-4433-8e4b-b2d8cc3c90c0"
+  }
+]

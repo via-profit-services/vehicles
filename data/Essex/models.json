@@ -1,0 +1,57 @@
+[
+  {
+    "id": "dd48ee0f-e00e-4c70-a1d7-35a728dc4169",
+    "name": "Cabriolet",
+    "brand": "f44bbfea-5c81-43f4-ac83-fbacf334b3d6"
+  },
+  {
+    "id": "3f50ba94-de6f-4c06-81be-b1f24ff6caa4",
+    "name": "Challenger",
+    "brand": "f44bbfea-5c81-43f4-ac83-fbacf334b3d6"
+  },
+  {
+    "id": "1ac038a2-f9c6-450a-b18a-35a7469585fa",
+    "name": "Coach",
+    "brand": "f44bbfea-5c81-43f4-ac83-fbacf334b3d6"
+  },
+  {
+    "id": "c02c2ccc-5198-43d5-96ee-ebff6707b3a7",
+    "name": "Coupe",
+    "brand": "f44bbfea-5c81-43f4-ac83-fbacf334b3d6"
+  },
+  {
+    "id": "0ccf6c8a-9dce-49a6-a18c-7d537ac6b05d",
+    "name": "Roadster",
+    "brand": "f44bbfea-5c81-43f4-ac83-fbacf334b3d6"
+  },
+  {
+    "id": "19b3c319-61fd-4d6a-8e0c-b3bba26a8aa2",
+    "name": "Sedan",
+    "brand": "f44bbfea-5c81-43f4-ac83-fbacf334b3d6"
+  },
+  {
+    "id": "c24532d5-4f80-4ddc-8018-ca7d50ae4039",
+    "name": "Series A",
+    "brand": "f44bbfea-5c81-43f4-ac83-fbacf334b3d6"
+  },
+  {
+    "id": "4ae7bc46-5224-4e18-9d18-30f7a402f513",
+    "name": "Speedster",
+    "brand": "f44bbfea-5c81-43f4-ac83-fbacf334b3d6"
+  },
+  {
+    "id": "3b278b04-bbd2-4a0e-890a-df45f66f9e13",
+    "name": "Super Six",
+    "brand": "f44bbfea-5c81-43f4-ac83-fbacf334b3d6"
+  },
+  {
+    "id": "a03a7357-a832-4b16-9ccb-e7cd9a0e36b2",
+    "name": "Terraplane",
+    "brand": "f44bbfea-5c81-43f4-ac83-fbacf334b3d6"
+  },
+  {
+    "id": "662ccade-7606-4d5d-8e46-4791594cdcac",
+    "name": "Touring",
+    "brand": "f44bbfea-5c81-43f4-ac83-fbacf334b3d6"
+  }
+]

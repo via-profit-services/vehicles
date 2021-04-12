@@ -1,0 +1,117 @@
+[
+  {
+    "id": "5065bc80-054f-42e2-a4d9-630d87154342",
+    "name": "D-Series",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  },
+  {
+    "id": "e0b76200-92b4-475e-948a-d0e23247e0e2",
+    "name": "F-Series",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  },
+  {
+    "id": "b463c845-4aa4-41e3-be0f-734e9b1ba9ad",
+    "name": "FMTV",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  },
+  {
+    "id": "6a174255-e47f-486a-9911-2b3c0c8d54b5",
+    "name": "HEMTT",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  },
+  {
+    "id": "529a7254-0987-4d71-bf2f-441225567265",
+    "name": "HET",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  },
+  {
+    "id": "84baf323-8ce8-4440-907a-87001551a9c2",
+    "name": "L-ATV",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  },
+  {
+    "id": "425ad64e-fd78-445f-94da-af57f211479a",
+    "name": "LCTV",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  },
+  {
+    "id": "fe91befe-4449-4c4c-b295-76689c3cb5a3",
+    "name": "LVS",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  },
+  {
+    "id": "055ed897-415d-4c99-93e3-5b0ca2bd1a6e",
+    "name": "LVSR",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  },
+  {
+    "id": "50024872-ad4d-4028-b926-624cdbf456d5",
+    "name": "M-ATV",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  },
+  {
+    "id": "490d3948-f204-4431-8bbc-505be18dd072",
+    "name": "M911",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  },
+  {
+    "id": "d786bbb6-16ea-4774-8aaf-a6ddac64668b",
+    "name": "MB-Series",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  },
+  {
+    "id": "941fc262-f2f0-4331-8f92-8e9d8f4c90f8",
+    "name": "MTT",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  },
+  {
+    "id": "9e885fe5-4290-40ed-bc70-5cfd40938135",
+    "name": "MTVR",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  },
+  {
+    "id": "0efce682-ce18-43a6-9c11-585adc809cd4",
+    "name": "P-Series ARFF",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  },
+  {
+    "id": "359d22ec-2adc-4b41-8087-4cc8ce102699",
+    "name": "PLS",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  },
+  {
+    "id": "e4cbcbab-3a5f-49b5-9512-de2da6350078",
+    "name": "S-ATV",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  },
+  {
+    "id": "a1df20c1-615c-4579-a6f8-1a065e1b17ff",
+    "name": "Sand Cat",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  },
+  {
+    "id": "37edb740-ce32-4f46-9690-9da71061784a",
+    "name": "Stinger",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  },
+  {
+    "id": "9488d058-0c59-4235-816b-6176f90757c7",
+    "name": "Storm",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  },
+  {
+    "id": "3052f22e-7bb6-434e-8ce9-28b4e83b0e4e",
+    "name": "Striker",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  },
+  {
+    "id": "4a20eff6-d958-4ccd-96f5-a5979cc1e40a",
+    "name": "W-Series",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  },
+  {
+    "id": "69053d0e-c419-4cf6-8548-49b64f90f79b",
+    "name": "XP",
+    "brand": "d73a1191-a84a-4723-b8b6-504bdaad6763"
+  }
+]

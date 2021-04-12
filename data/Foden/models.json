@@ -1,0 +1,97 @@
+[
+  {
+    "id": "a160292d-7086-4e12-b7b1-568bccd633fe",
+    "name": "Alpha",
+    "brand": "35e6eef9-990b-49f1-bc85-467eae9a3405"
+  },
+  {
+    "id": "bb87f114-684b-46ed-bf82-b3bdb70e19c5",
+    "name": "DG",
+    "brand": "35e6eef9-990b-49f1-bc85-467eae9a3405"
+  },
+  {
+    "id": "9747c505-abc3-4089-9e1d-a74d18e690c5",
+    "name": "Fleetmaster",
+    "brand": "35e6eef9-990b-49f1-bc85-467eae9a3405"
+  },
+  {
+    "id": "c3aae7a6-7397-444e-80ab-44382aa57d8e",
+    "name": "Haulmaster",
+    "brand": "35e6eef9-990b-49f1-bc85-467eae9a3405"
+  },
+  {
+    "id": "99054518-5791-4026-bf88-7f6ae5f4275d",
+    "name": "PV",
+    "brand": "35e6eef9-990b-49f1-bc85-467eae9a3405"
+  },
+  {
+    "id": "be39b8cf-d6b9-413e-a764-ca3668104772",
+    "name": "S18",
+    "brand": "35e6eef9-990b-49f1-bc85-467eae9a3405"
+  },
+  {
+    "id": "f7976108-2b38-4095-97eb-b65dfc9e12aa",
+    "name": "S20",
+    "brand": "35e6eef9-990b-49f1-bc85-467eae9a3405"
+  },
+  {
+    "id": "026d7ded-f52b-4ef4-951d-4f33f9b74dad",
+    "name": "S21",
+    "brand": "35e6eef9-990b-49f1-bc85-467eae9a3405"
+  },
+  {
+    "id": "9e1ecf94-1464-4d6e-8d93-91eed80c3070",
+    "name": "S24",
+    "brand": "35e6eef9-990b-49f1-bc85-467eae9a3405"
+  },
+  {
+    "id": "32f5df26-eb8e-47c0-8054-de126fe33729",
+    "name": "S32",
+    "brand": "35e6eef9-990b-49f1-bc85-467eae9a3405"
+  },
+  {
+    "id": "588db9f0-4e57-40ba-b169-c655b4b27ce9",
+    "name": "S36",
+    "brand": "35e6eef9-990b-49f1-bc85-467eae9a3405"
+  },
+  {
+    "id": "bc1cdc76-3eeb-4b18-bb7e-6c8554336912",
+    "name": "S39",
+    "brand": "35e6eef9-990b-49f1-bc85-467eae9a3405"
+  },
+  {
+    "id": "b1bc1416-721d-4567-b8f3-1d84e3c36882",
+    "name": "S40",
+    "brand": "35e6eef9-990b-49f1-bc85-467eae9a3405"
+  },
+  {
+    "id": "c02ca517-4768-4839-9b8a-3b0051ea97bc",
+    "name": "S50",
+    "brand": "35e6eef9-990b-49f1-bc85-467eae9a3405"
+  },
+  {
+    "id": "c3eb71d4-3020-4ffb-89f8-6314866af763",
+    "name": "S60",
+    "brand": "35e6eef9-990b-49f1-bc85-467eae9a3405"
+  },
+  {
+    "id": "e31cdc23-9dd7-40b5-baa1-0b406846d409",
+    "name": "S70",
+    "brand": "35e6eef9-990b-49f1-bc85-467eae9a3405"
+  },
+  {
+    "id": "db91bfca-7abf-4763-bc6a-13bbbb2bd4b0",
+    "name": "S80",
+    "brand": "35e6eef9-990b-49f1-bc85-467eae9a3405"
+  },
+  {
+    "id": "0d76eb10-3266-4518-9f0e-7ba7a9f0125e",
+    "name": "S83",
+    "brand": "35e6eef9-990b-49f1-bc85-467eae9a3405"
+  },
+  {
+    "id": "07d3a755-3371-4d60-b48c-06acb54a1e15",
+    "name": "S85",
+    "brand": "35e6eef9-990b-49f1-bc85-467eae9a3405"
+  }
+]

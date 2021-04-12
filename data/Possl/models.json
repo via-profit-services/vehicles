@@ -1,0 +1,57 @@
+[
+  {
+    "id": "784fe469-93e3-480d-bef7-6a5cd26fa559",
+    "name": "2WIN",
+    "brand": "c027c70e-c44c-4b13-b9a0-350f1a4cc27a"
+  },
+  {
+    "id": "b0df172c-081e-4671-96a4-b9abd28c2696",
+    "name": "4-Family",
+    "brand": "c027c70e-c44c-4b13-b9a0-350f1a4cc27a"
+  },
+  {
+    "id": "047b4e6a-ff38-4574-888c-6556ba5091a4",
+    "name": "Campster",
+    "brand": "c027c70e-c44c-4b13-b9a0-350f1a4cc27a"
+  },
+  {
+    "id": "f80d038e-d0aa-41bc-9ec0-775d5a030f41",
+    "name": "Concorde",
+    "brand": "c027c70e-c44c-4b13-b9a0-350f1a4cc27a"
+  },
+  {
+    "id": "5d111ccb-ee6a-42dc-a3b1-c8c5b1f6d93f",
+    "name": "P2 Relax",
+    "brand": "c027c70e-c44c-4b13-b9a0-350f1a4cc27a"
+  },
+  {
+    "id": "2f57cd76-2842-4a7a-87a0-e57328048a72",
+    "name": "Roadcamp",
+    "brand": "c027c70e-c44c-4b13-b9a0-350f1a4cc27a"
+  },
+  {
+    "id": "c382ae26-bd2d-44f2-a0dc-773be2c63177",
+    "name": "Roadcruiser",
+    "brand": "c027c70e-c44c-4b13-b9a0-350f1a4cc27a"
+  },
+  {
+    "id": "8071ac39-2e96-49ab-b44e-55a548c968f6",
+    "name": "Roadmaster",
+    "brand": "c027c70e-c44c-4b13-b9a0-350f1a4cc27a"
+  },
+  {
+    "id": "3dbbae3e-89cf-4913-8f2e-dd83f2ff0a05",
+    "name": "Roadstar",
+    "brand": "c027c70e-c44c-4b13-b9a0-350f1a4cc27a"
+  },
+  {
+    "id": "79a626ef-66d7-4e34-98ce-86208239db67",
+    "name": "Summit",
+    "brand": "c027c70e-c44c-4b13-b9a0-350f1a4cc27a"
+  },
+  {
+    "id": "8a258ce2-9aae-4f9c-af70-548990d8276a",
+    "name": "Vario",
+    "brand": "c027c70e-c44c-4b13-b9a0-350f1a4cc27a"
+  }
+]

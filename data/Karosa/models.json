@@ -1,0 +1,22 @@
+[
+  {
+    "id": "29d179d2-c02a-48bd-a4bd-122c58981c03",
+    "name": "700-Series",
+    "brand": "a5703df6-0d54-4dbc-8303-c83410108d2b"
+  },
+  {
+    "id": "77ba96c5-a7cd-4ec5-9fdf-c0f468367872",
+    "name": "900-Series",
+    "brand": "a5703df6-0d54-4dbc-8303-c83410108d2b"
+  },
+  {
+    "id": "824ab4ae-ebf0-4790-a554-009c0d1ae190",
+    "name": "S-Series",
+    "brand": "a5703df6-0d54-4dbc-8303-c83410108d2b"
+  },
+  {
+    "id": "7fefd5dc-ccf6-4043-bdee-750e334bbec6",
+    "name": "T500 HB",
+    "brand": "a5703df6-0d54-4dbc-8303-c83410108d2b"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "41b07605-a8a8-47df-8656-5c3bb3af02dd",
+    "name": "1½-Litre",
+    "brand": "35f6619a-2620-42c9-a84a-39cf159e37a0"
+  },
+  {
+    "id": "960f6e94-746f-43df-8a60-d4b42b71710a",
+    "name": "10",
+    "brand": "35f6619a-2620-42c9-a84a-39cf159e37a0"
+  },
+  {
+    "id": "bcf28979-b1aa-41a9-8776-bd1af24ddad2",
+    "name": "4AD",
+    "brand": "35f6619a-2620-42c9-a84a-39cf159e37a0"
+  },
+  {
+    "id": "d7f015ba-8897-4437-916f-c0bbd103349c",
+    "name": "Chamois",
+    "brand": "35f6619a-2620-42c9-a84a-39cf159e37a0"
+  },
+  {
+    "id": "6e7c8b8c-6615-466e-8d91-a722ff460a4f",
+    "name": "Gazelle",
+    "brand": "35f6619a-2620-42c9-a84a-39cf159e37a0"
+  },
+  {
+    "id": "8e7719bf-4338-4746-9cc3-055c7b1fa00c",
+    "name": "Hunter",
+    "brand": "35f6619a-2620-42c9-a84a-39cf159e37a0"
+  },
+  {
+    "id": "7b507f28-2fef-4d10-92a6-bad7f48b147e",
+    "name": "Junior",
+    "brand": "35f6619a-2620-42c9-a84a-39cf159e37a0"
+  },
+  {
+    "id": "c3bab793-a0da-4b7e-a303-4f2873616078",
+    "name": "SM1500",
+    "brand": "35f6619a-2620-42c9-a84a-39cf159e37a0"
+  },
+  {
+    "id": "bf55afa8-5c18-4256-9efa-3786a58db9d6",
+    "name": "Vogue",
+    "brand": "35f6619a-2620-42c9-a84a-39cf159e37a0"
+  }
+]

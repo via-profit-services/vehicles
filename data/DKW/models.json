@@ -1,0 +1,87 @@
+[
+  {
+    "id": "5eb54234-fcf4-4f7b-8fca-fdd1b92c4741",
+    "name": "3=6",
+    "brand": "81dad5a6-6a61-4cf6-bd64-4131d6ef1fe4"
+  },
+  {
+    "id": "c4bd2461-8bee-43cf-bd85-961ebc40df2c",
+    "name": "F1",
+    "brand": "81dad5a6-6a61-4cf6-bd64-4131d6ef1fe4"
+  },
+  {
+    "id": "e02fde61-a3ff-48aa-96ba-f4a04de3880f",
+    "name": "F102",
+    "brand": "81dad5a6-6a61-4cf6-bd64-4131d6ef1fe4"
+  },
+  {
+    "id": "e6be151e-f5df-4dec-9939-026970fd8056",
+    "name": "F12",
+    "brand": "81dad5a6-6a61-4cf6-bd64-4131d6ef1fe4"
+  },
+  {
+    "id": "783f6cd8-9a1b-4f5f-98d5-6001ce4bcd6c",
+    "name": "F5",
+    "brand": "81dad5a6-6a61-4cf6-bd64-4131d6ef1fe4"
+  },
+  {
+    "id": "cabcca43-09cb-47b6-9b44-48a7a4c3d554",
+    "name": "F7",
+    "brand": "81dad5a6-6a61-4cf6-bd64-4131d6ef1fe4"
+  },
+  {
+    "id": "68e66f1c-26c4-499d-8ef5-97959166afe2",
+    "name": "F8",
+    "brand": "81dad5a6-6a61-4cf6-bd64-4131d6ef1fe4"
+  },
+  {
+    "id": "7778ae2b-0922-418e-86c1-1884675af838",
+    "name": "F89",
+    "brand": "81dad5a6-6a61-4cf6-bd64-4131d6ef1fe4"
+  },
+  {
+    "id": "31ccd43a-fea4-4831-9040-89c7f3b9fb5e",
+    "name": "F91",
+    "brand": "81dad5a6-6a61-4cf6-bd64-4131d6ef1fe4"
+  },
+  {
+    "id": "e4be54f8-9936-4f23-8463-4dbb50a40f75",
+    "name": "F93",
+    "brand": "81dad5a6-6a61-4cf6-bd64-4131d6ef1fe4"
+  },
+  {
+    "id": "f60db357-bc30-474c-bf8f-91d18918f259",
+    "name": "F94",
+    "brand": "81dad5a6-6a61-4cf6-bd64-4131d6ef1fe4"
+  },
+  {
+    "id": "2ec0bf3c-fb45-4f64-88b0-671cb3f77098",
+    "name": "Junior",
+    "brand": "81dad5a6-6a61-4cf6-bd64-4131d6ef1fe4"
+  },
+  {
+    "id": "1d0be07d-9284-4ead-904f-c14307ca10b9",
+    "name": "Malzoni GT",
+    "brand": "81dad5a6-6a61-4cf6-bd64-4131d6ef1fe4"
+  },
+  {
+    "id": "f80524a1-a69d-4b48-ba7d-61c094c55808",
+    "name": "Munga",
+    "brand": "81dad5a6-6a61-4cf6-bd64-4131d6ef1fe4"
+  },
+  {
+    "id": "8b4b4454-f682-4a84-9a92-afeaa811761d",
+    "name": "Schnellaster",
+    "brand": "81dad5a6-6a61-4cf6-bd64-4131d6ef1fe4"
+  },
+  {
+    "id": "0850ff8d-d3aa-4dd3-9741-1ee21372161b",
+    "name": "Stromlinien Spezial",
+    "brand": "81dad5a6-6a61-4cf6-bd64-4131d6ef1fe4"
+  },
+  {
+    "id": "4286666d-1558-4037-a577-9d41d3ff420b",
+    "name": "Typ P",
+    "brand": "81dad5a6-6a61-4cf6-bd64-4131d6ef1fe4"
+  }
+]

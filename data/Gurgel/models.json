@@ -1,0 +1,52 @@
+[
+  {
+    "id": "e4e3ef8a-e4b1-4291-9828-363d7556ea40",
+    "name": "BR-800",
+    "brand": "bd735065-df67-4707-a561-2ffb134dd74f"
+  },
+  {
+    "id": "702f4841-e5b3-4f06-9d77-da27c3f557fa",
+    "name": "BR-SLX",
+    "brand": "bd735065-df67-4707-a561-2ffb134dd74f"
+  },
+  {
+    "id": "9f97d89f-7da5-4cbc-9af6-592f6bb2505e",
+    "name": "Carajas",
+    "brand": "bd735065-df67-4707-a561-2ffb134dd74f"
+  },
+  {
+    "id": "54d07123-45d8-45f8-8ef5-06d7c8b0ef11",
+    "name": "G-15",
+    "brand": "bd735065-df67-4707-a561-2ffb134dd74f"
+  },
+  {
+    "id": "9a8a149e-e849-484e-99cd-3c8cabc97ae1",
+    "name": "G-800",
+    "brand": "bd735065-df67-4707-a561-2ffb134dd74f"
+  },
+  {
+    "id": "2c6f850d-8e3c-48b1-a165-283fc19948ec",
+    "name": "Itaipu",
+    "brand": "bd735065-df67-4707-a561-2ffb134dd74f"
+  },
+  {
+    "id": "5599553e-48d1-4105-85e9-16607762849c",
+    "name": "X-12",
+    "brand": "bd735065-df67-4707-a561-2ffb134dd74f"
+  },
+  {
+    "id": "0d701448-f976-48f2-8d88-566c1d02bdc0",
+    "name": "X-15",
+    "brand": "bd735065-df67-4707-a561-2ffb134dd74f"
+  },
+  {
+    "id": "ad60a827-77e0-4720-8e18-0070d3da971d",
+    "name": "Xavante",
+    "brand": "bd735065-df67-4707-a561-2ffb134dd74f"
+  },
+  {
+    "id": "ae304324-1584-4723-aef8-e293f1c844ab",
+    "name": "XEF",
+    "brand": "bd735065-df67-4707-a561-2ffb134dd74f"
+  }
+]

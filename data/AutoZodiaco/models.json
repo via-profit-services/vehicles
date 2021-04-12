@@ -1,0 +1,32 @@
+[
+  {
+    "id": "d77476df-8975-4e45-893d-80063072b96b",
+    "name": "California",
+    "brand": "12ad526a-82de-4e17-9de3-09e6d41807b9"
+  },
+  {
+    "id": "a8de67bf-b3eb-4081-ba68-6bf568f53972",
+    "name": "Damaca",
+    "brand": "12ad526a-82de-4e17-9de3-09e6d41807b9"
+  },
+  {
+    "id": "c430f48e-4b41-41fa-b1a6-5475f992d2f9",
+    "name": "Deserter",
+    "brand": "12ad526a-82de-4e17-9de3-09e6d41807b9"
+  },
+  {
+    "id": "5cf0e0cd-2e0f-4781-a233-68590dab2e59",
+    "name": "Deserter Neve",
+    "brand": "12ad526a-82de-4e17-9de3-09e6d41807b9"
+  },
+  {
+    "id": "eea20d8c-cfbd-44fe-9c12-aa78f8eaa902",
+    "name": "Kirby",
+    "brand": "12ad526a-82de-4e17-9de3-09e6d41807b9"
+  },
+  {
+    "id": "7f372944-441c-481c-bc8f-37ee9b550eba",
+    "name": "Squalo",
+    "brand": "12ad526a-82de-4e17-9de3-09e6d41807b9"
+  }
+]

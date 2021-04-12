@@ -1,0 +1,132 @@
+[
+  {
+    "id": "2620a95e-dbbe-4de6-bfc8-8b407d804384",
+    "name": "Acco",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "dd138cbf-4369-431d-9f90-1b75a902dd77",
+    "name": "Afriway",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "bd73bf13-c040-43a0-94ad-2fcd193dffb3",
+    "name": "Campagnola",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "7153d12e-4f31-4606-a6f3-75a6ce1a31a9",
+    "name": "Cavallino",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "0807c66f-d2ba-47aa-b13d-0da7e78a624c",
+    "name": "CityClass",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "9942a12f-7020-40ac-bc85-075794df2c05",
+    "name": "Crealis 18",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "77aec477-bb67-4d26-8a87-10d2e59ab676",
+    "name": "Crossway",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "f96851ac-4c27-4b1f-9e88-3be20508995e",
+    "name": "Cursor",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "d05273f2-b737-4732-9ed9-521f3e7eed1f",
+    "name": "Daily",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "fce6c547-08c1-47d7-bff0-c4476e15f8ba",
+    "name": "EuroCargo",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "6f9131bb-088a-463a-bd61-937d341f4287",
+    "name": "EuroRider",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "743cf77c-e493-4bcb-83e1-ddff834bb654",
+    "name": "EuroStar",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "4681c5ce-377a-4ac5-b4f1-e344f9c8e132",
+    "name": "EuroTech",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "5c511178-de4f-4c4c-95cb-5e41a2b2fb52",
+    "name": "EuroTrakker",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "40cb06da-be1e-46c5-95a8-6f6ead33a9e0",
+    "name": "Evadys",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "0a1fa61e-b75d-437c-8e10-3ca468aad3e2",
+    "name": "Magelys",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "8ccd0524-c9d5-479f-b970-a2547eb3af3c",
+    "name": "Massif",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "42eff8de-0a25-4b92-8b27-d323822ea1fe",
+    "name": "PowerStar",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "29b34931-d235-4028-a1e0-aea50304fbec",
+    "name": "S-WAY",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "7e949a26-0836-4ee7-94cb-51d5ffbc5917",
+    "name": "Stralis",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "ed48227b-bdda-4fc4-9df8-0ec76e64b88a",
+    "name": "Sunrise",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "fb0f0e2c-973b-43f5-98a3-8e1803ce80fe",
+    "name": "Tector",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "2a9f1881-621a-405e-b7fd-d37e427e82c7",
+    "name": "Trakker",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "24ccda76-e60e-4797-b7dc-df531f66f16a",
+    "name": "Urbanway",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "a9c29f39-3918-4a41-9515-cc11d6257a0f",
+    "name": "Vertis",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  },
+  {
+    "id": "6702420c-2b07-47ef-8bd4-38f293c35afc",
+    "name": "Zeta",
+    "brand": "b2080122-e9c1-4079-8b1a-425e5138d483"
+  }
+]

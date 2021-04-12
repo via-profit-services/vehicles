@@ -1,0 +1,87 @@
+[
+  {
+    "id": "61c6e5e1-930f-43a6-8b7b-727fffe33354",
+    "name": "Adventurer",
+    "brand": "b89a3052-e9b2-400e-8815-c936130efe25"
+  },
+  {
+    "id": "28c96868-5343-4664-a197-d656dae2616e",
+    "name": "Airflow",
+    "brand": "b89a3052-e9b2-400e-8815-c936130efe25"
+  },
+  {
+    "id": "a7dc1184-fa9e-448d-8607-5aa4ed907913",
+    "name": "Airstream",
+    "brand": "b89a3052-e9b2-400e-8815-c936130efe25"
+  },
+  {
+    "id": "dcb9dc1c-2d94-445e-af9e-9b7b870b2dd1",
+    "name": "Custom",
+    "brand": "b89a3052-e9b2-400e-8815-c936130efe25"
+  },
+  {
+    "id": "f5b7fe42-5f21-42d2-b068-25c61c7a0eaa",
+    "name": "Deluxe",
+    "brand": "b89a3052-e9b2-400e-8815-c936130efe25"
+  },
+  {
+    "id": "d5906076-c42f-4fd9-907e-5fc569fd1142",
+    "name": "Diplomat",
+    "brand": "b89a3052-e9b2-400e-8815-c936130efe25"
+  },
+  {
+    "id": "b03188d1-7ed6-4cae-a528-a0539b4803f4",
+    "name": "Firedome",
+    "brand": "b89a3052-e9b2-400e-8815-c936130efe25"
+  },
+  {
+    "id": "6f0fe884-d28f-4a57-84a4-d1e795d3c833",
+    "name": "Fireflite",
+    "brand": "b89a3052-e9b2-400e-8815-c936130efe25"
+  },
+  {
+    "id": "2590b066-3727-4bcd-b104-aea564b32ce1",
+    "name": "Firesweep",
+    "brand": "b89a3052-e9b2-400e-8815-c936130efe25"
+  },
+  {
+    "id": "647341d7-da95-4753-ab61-b55336e90ea0",
+    "name": "Hardtop Coupe",
+    "brand": "b89a3052-e9b2-400e-8815-c936130efe25"
+  },
+  {
+    "id": "33f1fd37-8e61-48ea-b570-43cc54ffec9c",
+    "name": "Model K",
+    "brand": "b89a3052-e9b2-400e-8815-c936130efe25"
+  },
+  {
+    "id": "8bf638d5-3d73-4ffc-b493-16ed5f5669fe",
+    "name": "Model SA",
+    "brand": "b89a3052-e9b2-400e-8815-c936130efe25"
+  },
+  {
+    "id": "b6c9faae-a607-46f0-957a-d0f647a026a2",
+    "name": "Model SC",
+    "brand": "b89a3052-e9b2-400e-8815-c936130efe25"
+  },
+  {
+    "id": "92a7b7d6-fae5-485c-b62c-c4d8da5ffcaa",
+    "name": "Series AS",
+    "brand": "b89a3052-e9b2-400e-8815-c936130efe25"
+  },
+  {
+    "id": "7d156a54-e54f-4b21-981b-69a7a8fa1fd2",
+    "name": "Series S-3",
+    "brand": "b89a3052-e9b2-400e-8815-c936130efe25"
+  },
+  {
+    "id": "6005eb22-c753-40c2-9d09-7a29d1ce6b76",
+    "name": "Series S-5",
+    "brand": "b89a3052-e9b2-400e-8815-c936130efe25"
+  },
+  {
+    "id": "84f201f8-ae08-467e-a358-d91105c97fdd",
+    "name": "Standard Coupe",
+    "brand": "b89a3052-e9b2-400e-8815-c936130efe25"
+  }
+]

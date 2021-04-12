@@ -1,0 +1,87 @@
+[
+  {
+    "id": "dcdc4a0c-3b52-4bce-9162-0d77601bf9b5",
+    "name": "108SD",
+    "brand": "ac5a22c7-285b-4746-95c4-79399c81e83a"
+  },
+  {
+    "id": "b3a3c831-f7c1-4ac4-a636-34806ec01e16",
+    "name": "114SD",
+    "brand": "ac5a22c7-285b-4746-95c4-79399c81e83a"
+  },
+  {
+    "id": "7e15029b-cea4-475b-86ff-c8f97c723425",
+    "name": "122SD",
+    "brand": "ac5a22c7-285b-4746-95c4-79399c81e83a"
+  },
+  {
+    "id": "7fe0980a-3aa4-41bd-82c3-f0c26f0d4cc6",
+    "name": "Argosy",
+    "brand": "ac5a22c7-285b-4746-95c4-79399c81e83a"
+  },
+  {
+    "id": "4ee22234-38f2-44bb-bedc-b63d65529ee4",
+    "name": "Business Class M2",
+    "brand": "ac5a22c7-285b-4746-95c4-79399c81e83a"
+  },
+  {
+    "id": "4c16ce90-a5e5-4156-b44a-9e105cc60f29",
+    "name": "Cascadia",
+    "brand": "ac5a22c7-285b-4746-95c4-79399c81e83a"
+  },
+  {
+    "id": "5125b1c2-fb84-4d6b-9459-0f0d56cc545a",
+    "name": "Century Class",
+    "brand": "ac5a22c7-285b-4746-95c4-79399c81e83a"
+  },
+  {
+    "id": "90ae40a0-5ea7-410f-9305-abe6f0e4b8c3",
+    "name": "Classic",
+    "brand": "ac5a22c7-285b-4746-95c4-79399c81e83a"
+  },
+  {
+    "id": "fc89cdb1-7b9b-4220-9e95-269dbdebb965",
+    "name": "Columbia",
+    "brand": "ac5a22c7-285b-4746-95c4-79399c81e83a"
+  },
+  {
+    "id": "c147a7d4-aff8-4302-8c31-f1cba00863cc",
+    "name": "Conventional",
+    "brand": "ac5a22c7-285b-4746-95c4-79399c81e83a"
+  },
+  {
+    "id": "570da01f-0d46-4c54-9740-e03f7962297c",
+    "name": "Coronado",
+    "brand": "ac5a22c7-285b-4746-95c4-79399c81e83a"
+  },
+  {
+    "id": "ff361e54-f72b-476f-8367-87ad69673d51",
+    "name": "FL",
+    "brand": "ac5a22c7-285b-4746-95c4-79399c81e83a"
+  },
+  {
+    "id": "15b1f83d-1f2f-4a3c-a7dd-be90dd779002",
+    "name": "FLA",
+    "brand": "ac5a22c7-285b-4746-95c4-79399c81e83a"
+  },
+  {
+    "id": "108f4cb9-3225-4364-9ea2-7d0451bbc051",
+    "name": "FLD",
+    "brand": "ac5a22c7-285b-4746-95c4-79399c81e83a"
+  },
+  {
+    "id": "43df1a84-78a6-4170-bae5-595eeae2b44b",
+    "name": "FLT",
+    "brand": "ac5a22c7-285b-4746-95c4-79399c81e83a"
+  },
+  {
+    "id": "1aea163a-ae4f-4705-b04f-9955fa36e6c1",
+    "name": "Sprinter",
+    "brand": "ac5a22c7-285b-4746-95c4-79399c81e83a"
+  },
+  {
+    "id": "36a96e8e-6929-4df3-8378-ad82a01ad8e7",
+    "name": "Unimog",
+    "brand": "ac5a22c7-285b-4746-95c4-79399c81e83a"
+  }
+]

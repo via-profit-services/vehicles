@@ -1,0 +1,27 @@
+[
+  {
+    "id": "a7540058-8311-4402-bcd9-a9edd31a2c24",
+    "name": "EMotion",
+    "brand": "17c1b49d-18fd-42a5-abe3-7667ab537cf4"
+  },
+  {
+    "id": "ea3cbdca-71ed-41b0-bc17-82dfcd8e4c9c",
+    "name": "Karma",
+    "brand": "17c1b49d-18fd-42a5-abe3-7667ab537cf4"
+  },
+  {
+    "id": "79916f4b-4f5d-4758-b4ea-cbf06098f705",
+    "name": "Latigo CS",
+    "brand": "17c1b49d-18fd-42a5-abe3-7667ab537cf4"
+  },
+  {
+    "id": "25fea975-4b94-48e9-ade3-2892b0231054",
+    "name": "Ocean",
+    "brand": "17c1b49d-18fd-42a5-abe3-7667ab537cf4"
+  },
+  {
+    "id": "27d8e144-6ac4-4952-880f-20f7e2241d8d",
+    "name": "Tramonto",
+    "brand": "17c1b49d-18fd-42a5-abe3-7667ab537cf4"
+  }
+]

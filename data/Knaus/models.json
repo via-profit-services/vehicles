@@ -1,0 +1,107 @@
+[
+  {
+    "id": "55307a4f-0d72-4277-af9e-114298c7e043",
+    "name": "BoxDrive",
+    "brand": "fe08d61a-7852-40a5-8c42-fe734875cf6e"
+  },
+  {
+    "id": "91a54962-76c0-4e5c-99d9-ebee64e4873d",
+    "name": "BoxLife",
+    "brand": "fe08d61a-7852-40a5-8c42-fe734875cf6e"
+  },
+  {
+    "id": "80bdde40-32e2-4448-84d7-17211b1df7b4",
+    "name": "BoxStar",
+    "brand": "fe08d61a-7852-40a5-8c42-fe734875cf6e"
+  },
+  {
+    "id": "af750286-18af-4086-8231-3c7ce652adca",
+    "name": "C-Liner",
+    "brand": "fe08d61a-7852-40a5-8c42-fe734875cf6e"
+  },
+  {
+    "id": "52e23252-1c7f-4f6c-bb7a-a4efbe018e0a",
+    "name": "L!ve TI",
+    "brand": "fe08d61a-7852-40a5-8c42-fe734875cf6e"
+  },
+  {
+    "id": "b45d06a9-e73d-412b-9437-d775d2e3d769",
+    "name": "L!ve Traveller",
+    "brand": "fe08d61a-7852-40a5-8c42-fe734875cf6e"
+  },
+  {
+    "id": "5f8a2f9c-4022-4a30-8f94-e0eda0d93ee4",
+    "name": "L!ve Wave",
+    "brand": "fe08d61a-7852-40a5-8c42-fe734875cf6e"
+  },
+  {
+    "id": "d523f23b-650c-43e8-92f5-1dcca00f20ad",
+    "name": "Sky i",
+    "brand": "fe08d61a-7852-40a5-8c42-fe734875cf6e"
+  },
+  {
+    "id": "0a3cbb1e-821a-4824-bd62-43a54acd2636",
+    "name": "Sky TI",
+    "brand": "fe08d61a-7852-40a5-8c42-fe734875cf6e"
+  },
+  {
+    "id": "d4c20bab-80ac-466e-83dc-a1e63eff8813",
+    "name": "Sky Traveller",
+    "brand": "fe08d61a-7852-40a5-8c42-fe734875cf6e"
+  },
+  {
+    "id": "5d8994d2-90e7-4c64-aeba-91da46036821",
+    "name": "Sky Wave",
+    "brand": "fe08d61a-7852-40a5-8c42-fe734875cf6e"
+  },
+  {
+    "id": "7d664129-f52f-45bf-8866-4b2f0fad1dca",
+    "name": "Sport Liner",
+    "brand": "fe08d61a-7852-40a5-8c42-fe734875cf6e"
+  },
+  {
+    "id": "d6bcdb24-9a86-43df-902d-72ef7f5ba828",
+    "name": "Sport TI",
+    "brand": "fe08d61a-7852-40a5-8c42-fe734875cf6e"
+  },
+  {
+    "id": "012bda43-6638-4d1d-94a2-07bb9a744519",
+    "name": "Sport Traveller",
+    "brand": "fe08d61a-7852-40a5-8c42-fe734875cf6e"
+  },
+  {
+    "id": "21f6e656-a202-4dba-9c4c-604b8becff47",
+    "name": "Sun i",
+    "brand": "fe08d61a-7852-40a5-8c42-fe734875cf6e"
+  },
+  {
+    "id": "5987d6cb-a66d-4e75-91f7-504afc87ea3a",
+    "name": "Sun Liner",
+    "brand": "fe08d61a-7852-40a5-8c42-fe734875cf6e"
+  },
+  {
+    "id": "3d2302ec-a5c0-487d-b8e9-bd6846ae5e53",
+    "name": "Sun TI",
+    "brand": "fe08d61a-7852-40a5-8c42-fe734875cf6e"
+  },
+  {
+    "id": "e96d762a-0561-4828-a4b4-6f0e7e935c17",
+    "name": "Sun Traveller",
+    "brand": "fe08d61a-7852-40a5-8c42-fe734875cf6e"
+  },
+  {
+    "id": "a88e4d0b-4378-4887-93c2-dcca21f7d008",
+    "name": "Traveller",
+    "brand": "fe08d61a-7852-40a5-8c42-fe734875cf6e"
+  },
+  {
+    "id": "da4e242a-6b4c-441f-8917-fc225ae99fa0",
+    "name": "Van i",
+    "brand": "fe08d61a-7852-40a5-8c42-fe734875cf6e"
+  },
+  {
+    "id": "f730cb48-ffbb-4b31-9e16-d509e16ac3a5",
+    "name": "Van TI",
+    "brand": "fe08d61a-7852-40a5-8c42-fe734875cf6e"
+  }
+]

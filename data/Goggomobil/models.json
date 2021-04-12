@@ -1,0 +1,47 @@
+[
+  {
+    "id": "7687acf8-7324-4124-8ede-98b8535ca2f6",
+    "name": "Dart",
+    "brand": "a658226c-db88-4c56-8d95-a7ac6a90c108"
+  },
+  {
+    "id": "1b017e38-8fac-49d0-9f6c-d493aadd522c",
+    "name": "T 250",
+    "brand": "a658226c-db88-4c56-8d95-a7ac6a90c108"
+  },
+  {
+    "id": "d1d78e7e-534c-4f5d-a30b-8de6102076d7",
+    "name": "T 300",
+    "brand": "a658226c-db88-4c56-8d95-a7ac6a90c108"
+  },
+  {
+    "id": "8cf16426-3d55-4c2f-9a96-274e63ea2226",
+    "name": "T 700",
+    "brand": "a658226c-db88-4c56-8d95-a7ac6a90c108"
+  },
+  {
+    "id": "94d00ab2-84e7-4416-b501-4afe04503a69",
+    "name": "TL 250/400",
+    "brand": "a658226c-db88-4c56-8d95-a7ac6a90c108"
+  },
+  {
+    "id": "34ec230d-df1b-4d26-9495-fab9891dcfce",
+    "name": "TL 400",
+    "brand": "a658226c-db88-4c56-8d95-a7ac6a90c108"
+  },
+  {
+    "id": "4da6caf7-15e1-4bf5-b9dd-4f61f663705a",
+    "name": "TS 250",
+    "brand": "a658226c-db88-4c56-8d95-a7ac6a90c108"
+  },
+  {
+    "id": "ec10dac9-dc8e-4e94-97da-be07cb080684",
+    "name": "TS 300",
+    "brand": "a658226c-db88-4c56-8d95-a7ac6a90c108"
+  },
+  {
+    "id": "9cd75a19-7d56-4726-a42a-41ac099e8c41",
+    "name": "TS 400",
+    "brand": "a658226c-db88-4c56-8d95-a7ac6a90c108"
+  }
+]

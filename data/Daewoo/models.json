@@ -1,0 +1,237 @@
+[
+  {
+    "id": "e9c4c0a0-8b9b-4644-afaf-2e0f3c672d70",
+    "name": "Alpheon",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "428eae1e-46e8-4a4b-9ce8-284e0bd020e8",
+    "name": "Aranos",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "ca2913bb-0393-472a-a30c-94ea94a3096a",
+    "name": "Arcadia",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "c8f84aa3-405b-48aa-82d9-9f9377d382ed",
+    "name": "Avia D-Line",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "056fdcc0-f858-4e1e-85ee-8ca70f9f39f3",
+    "name": "BC-Series",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "ad561f4f-5cbc-4f77-80de-4f299ff04628",
+    "name": "BF-Series",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "4c0d6606-6fb2-4624-9923-8685932ab1c9",
+    "name": "BH-Series",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "cc9d893b-19df-44dd-83a6-07df93cc4b12",
+    "name": "BM-Series",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "99409809-97c6-41ed-810a-f6e882db28bf",
+    "name": "BS-Series",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "09b3b278-f86e-4d4a-9c43-17755f3b5864",
+    "name": "BV-Series",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "1a1bb4a4-6f14-4d44-a4cd-21e6a667fe03",
+    "name": "BX-Series",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "61b378f6-2c82-4c4a-a7b5-1cbee855aff3",
+    "name": "Chairman",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "c14c25d4-d576-4c5c-9f42-884239610978",
+    "name": "Cielo",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "3f5dcf10-356c-47f5-bc5a-bfbedaf31241",
+    "name": "Damas",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "219bfec5-f2b6-4ec2-bad7-364f5d050600",
+    "name": "Espero",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "35f2bf46-794b-4356-a202-ce0f6ce75698",
+    "name": "Evanda",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "cd96f78e-3edc-4771-9ff6-507b10a3ec78",
+    "name": "FX-Series",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "6b7df763-bc84-4c18-9fa4-90a11e564663",
+    "name": "G2X",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "9280c8b0-2e1e-4b0f-9910-61ff6f855426",
+    "name": "GDW-Series",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "b91477a2-0190-4435-850b-591fd7e7c447",
+    "name": "Gentra",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "375172c1-c6b9-412d-993b-adace0e2d2c6",
+    "name": "Kalos",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "ffbeba6b-4bc3-4a75-8533-1fd3cddabdd3",
+    "name": "Korando",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "bd3c2fe4-e85f-4915-b576-78d746705c1a",
+    "name": "Labo",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "c6145e91-6139-4daa-912f-7b188738c56e",
+    "name": "Lacetti",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "c286b11a-c293-4bcb-a063-b4b88427c127",
+    "name": "Lacetti Premiere",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "2ca98ebd-0b1d-4da5-bf97-cfda92ec9d96",
+    "name": "Lanos",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "c4306a80-e6b1-45ca-94db-cc5b2b3a2b5a",
+    "name": "LE Mans",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "96f9ebf4-fabe-41c5-b4f1-630c17acaf1a",
+    "name": "Leganza",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "855e572e-6a38-4cef-a421-5de5393cd4aa",
+    "name": "Lestar",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "71c9ebb3-9f9c-4105-aac5-48d063776546",
+    "name": "Lublin",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "cc424200-5ab2-477f-9b6a-c1270aefdc51",
+    "name": "Magnus",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "5ceb85df-cf49-49ab-8c4a-b08ed97f537a",
+    "name": "Matiz",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "a6582aff-d89a-4819-bdd5-fea03d7becfe",
+    "name": "Matiz Creative",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "7fdb2d70-ac19-4945-88e4-1dc56f095719",
+    "name": "Musso",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "65158e06-2721-4793-8bf7-237a50624432",
+    "name": "Nexia",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "e74eefa1-443a-41a2-9106-fbbe6da04c4e",
+    "name": "Nubira",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "0e0d60aa-4614-460d-ba0a-2bbf69f01091",
+    "name": "Prince",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "88ce4c76-5b75-48ca-bc54-74d07d703022",
+    "name": "Racer",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "0719bb43-a392-4cf0-a47d-a76d1070916e",
+    "name": "Rezzo",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "3db03741-fc86-43c7-9767-e9663877bd41",
+    "name": "Royale",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "0fd42cc8-542d-4de2-8657-2502e1260ac9",
+    "name": "Sens",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "04fc135e-cdb7-4a8b-8329-08a2cd3e6c43",
+    "name": "Statesman",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "3b3ad242-8e6b-4d9f-9744-fc96d1774ef0",
+    "name": "Tacuma",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "60e38b8b-84e9-4327-b6c7-ccaee429388d",
+    "name": "Tico",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "8a1a032d-aac1-419f-8a06-15e6b1446338",
+    "name": "Tosca",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "9cd42a28-1b62-4778-8c61-fef4dc00c218",
+    "name": "Veritas",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  },
+  {
+    "id": "942ae022-fe81-4fff-9f84-2d3c69c6d573",
+    "name": "Winstorm",
+    "brand": "ab2ca96b-d111-4d2b-b824-a261e4e1c7aa"
+  }
+]

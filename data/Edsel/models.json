@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ad0153b5-d098-45af-829d-789e0d1a1d3f",
+    "name": "Bermuda",
+    "brand": "e5c215a4-064b-47d8-ad78-0869c7102217"
+  },
+  {
+    "id": "b8a38be6-4046-47c5-9daf-c05642af6636",
+    "name": "Citation",
+    "brand": "e5c215a4-064b-47d8-ad78-0869c7102217"
+  },
+  {
+    "id": "f0f3a466-3223-4925-a89d-485464ad1f05",
+    "name": "Corsair",
+    "brand": "e5c215a4-064b-47d8-ad78-0869c7102217"
+  },
+  {
+    "id": "6c97b2e9-bbed-4bff-89ae-7a0a1212b017",
+    "name": "Pacer",
+    "brand": "e5c215a4-064b-47d8-ad78-0869c7102217"
+  },
+  {
+    "id": "629d2d1a-8a43-4392-807b-00221a473fe0",
+    "name": "Ranger",
+    "brand": "e5c215a4-064b-47d8-ad78-0869c7102217"
+  },
+  {
+    "id": "0057d8c4-bf94-4795-8e22-ca981fec07f6",
+    "name": "Roundup",
+    "brand": "e5c215a4-064b-47d8-ad78-0869c7102217"
+  },
+  {
+    "id": "39255951-43bf-474c-b02e-24aa49646da8",
+    "name": "Villager",
+    "brand": "e5c215a4-064b-47d8-ad78-0869c7102217"
+  }
+]

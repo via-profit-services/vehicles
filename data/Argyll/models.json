@@ -1,0 +1,27 @@
+[
+  {
+    "id": "52b5b597-cfb9-4601-9272-f6644044b4a6",
+    "name": "10 HP",
+    "brand": "a1624e20-40ec-4c6d-9f76-7d8d5f23b26e"
+  },
+  {
+    "id": "3e492a50-881b-4868-95f2-52dcd38537cb",
+    "name": "10/12 HP",
+    "brand": "a1624e20-40ec-4c6d-9f76-7d8d5f23b26e"
+  },
+  {
+    "id": "ecbf09d7-6d17-4f32-ada2-ba1b8611faca",
+    "name": "2.75 HP",
+    "brand": "a1624e20-40ec-4c6d-9f76-7d8d5f23b26e"
+  },
+  {
+    "id": "ee51adac-a316-4edb-b42c-33ec0710d370",
+    "name": "25 HP",
+    "brand": "a1624e20-40ec-4c6d-9f76-7d8d5f23b26e"
+  },
+  {
+    "id": "6458745b-c894-4d3a-a3a4-3af58c541e7a",
+    "name": "Turbo GT",
+    "brand": "a1624e20-40ec-4c6d-9f76-7d8d5f23b26e"
+  }
+]

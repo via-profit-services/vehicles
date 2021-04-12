@@ -1,0 +1,57 @@
+[
+  {
+    "id": "c9acea05-d4f7-4cd3-be0c-618b88089435",
+    "name": "CLA",
+    "brand": "894fa0ad-d366-4bcb-a2e9-079447d8073e"
+  },
+  {
+    "id": "77a93606-a610-4585-ab73-5e1c69b8fbc4",
+    "name": "F 2000",
+    "brand": "894fa0ad-d366-4bcb-a2e9-079447d8073e"
+  },
+  {
+    "id": "423683fa-99ae-466f-b18a-aa5489f9ef65",
+    "name": "L 2000",
+    "brand": "894fa0ad-d366-4bcb-a2e9-079447d8073e"
+  },
+  {
+    "id": "c4cbfc30-f3c2-438a-9a54-331fe48ba6fe",
+    "name": "Lion's City",
+    "brand": "894fa0ad-d366-4bcb-a2e9-079447d8073e"
+  },
+  {
+    "id": "8cae141f-1230-4f99-b1b7-e54b5496de30",
+    "name": "M 2000",
+    "brand": "894fa0ad-d366-4bcb-a2e9-079447d8073e"
+  },
+  {
+    "id": "f2e78def-0100-4e34-8a48-e841a712cd9a",
+    "name": "TGA",
+    "brand": "894fa0ad-d366-4bcb-a2e9-079447d8073e"
+  },
+  {
+    "id": "8df61501-2317-43e9-a309-6f03cd24d3d8",
+    "name": "TGE",
+    "brand": "894fa0ad-d366-4bcb-a2e9-079447d8073e"
+  },
+  {
+    "id": "8d330f7c-a8d4-4804-930d-47f12ef5ef87",
+    "name": "TGL",
+    "brand": "894fa0ad-d366-4bcb-a2e9-079447d8073e"
+  },
+  {
+    "id": "73cb8d73-4572-459a-a06b-84b7c9298292",
+    "name": "TGM",
+    "brand": "894fa0ad-d366-4bcb-a2e9-079447d8073e"
+  },
+  {
+    "id": "09732fe5-9a9f-4c97-be3f-67a125a2b319",
+    "name": "TGS",
+    "brand": "894fa0ad-d366-4bcb-a2e9-079447d8073e"
+  },
+  {
+    "id": "32bcfdc5-4efe-48a1-93b1-949e87e55a0f",
+    "name": "TGX",
+    "brand": "894fa0ad-d366-4bcb-a2e9-079447d8073e"
+  }
+]

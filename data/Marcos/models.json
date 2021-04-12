@@ -1,0 +1,62 @@
+[
+  {
+    "id": "c70b56e2-fd40-403e-afac-3bbcee4dd37c",
+    "name": "2000",
+    "brand": "9e0f9965-bf12-47ea-bb93-4d080fb0deae"
+  },
+  {
+    "id": "e5d50de8-28e3-4c50-8e3b-4e86ec83351d",
+    "name": "GTS",
+    "brand": "9e0f9965-bf12-47ea-bb93-4d080fb0deae"
+  },
+  {
+    "id": "fdf85a90-ca3d-4988-a0df-65a5794547d7",
+    "name": "LM 400",
+    "brand": "9e0f9965-bf12-47ea-bb93-4d080fb0deae"
+  },
+  {
+    "id": "7fa26f5a-663d-41a4-be35-bc1cf6bbe710",
+    "name": "LM 500",
+    "brand": "9e0f9965-bf12-47ea-bb93-4d080fb0deae"
+  },
+  {
+    "id": "7cdae0f9-0b09-4e22-b8a6-d3f81e8b49e6",
+    "name": "LM 600",
+    "brand": "9e0f9965-bf12-47ea-bb93-4d080fb0deae"
+  },
+  {
+    "id": "12ca3b6f-7251-4e46-aa21-25ce240663a8",
+    "name": "Mantara",
+    "brand": "9e0f9965-bf12-47ea-bb93-4d080fb0deae"
+  },
+  {
+    "id": "f2143e67-a561-4a48-9807-88f2eb41ae5c",
+    "name": "Mantaray",
+    "brand": "9e0f9965-bf12-47ea-bb93-4d080fb0deae"
+  },
+  {
+    "id": "e7938f78-91be-4580-9e41-de8ce93b688b",
+    "name": "Mantis",
+    "brand": "9e0f9965-bf12-47ea-bb93-4d080fb0deae"
+  },
+  {
+    "id": "8d201312-3ff9-4ca2-81a2-7549897e92f9",
+    "name": "Mantula",
+    "brand": "9e0f9965-bf12-47ea-bb93-4d080fb0deae"
+  },
+  {
+    "id": "1d2d9dfa-ab7f-4938-a143-fd623e3753c8",
+    "name": "Marcasite",
+    "brand": "9e0f9965-bf12-47ea-bb93-4d080fb0deae"
+  },
+  {
+    "id": "098399ba-9427-40bb-b399-e91cb913b2a6",
+    "name": "Mini GT",
+    "brand": "9e0f9965-bf12-47ea-bb93-4d080fb0deae"
+  },
+  {
+    "id": "44f20a29-6ae9-4c05-b12e-ebea9cfe2024",
+    "name": "TSO",
+    "brand": "9e0f9965-bf12-47ea-bb93-4d080fb0deae"
+  }
+]

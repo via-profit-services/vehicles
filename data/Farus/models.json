@@ -1,0 +1,22 @@
+[
+  {
+    "id": "911d9e91-f241-4acc-9f14-a32e537b20d8",
+    "name": "Beta",
+    "brand": "1649734f-9af0-4dfd-ab4f-2db2b5885078"
+  },
+  {
+    "id": "64674e7a-49c3-42e9-ac92-2c9848b0982d",
+    "name": "ML929",
+    "brand": "1649734f-9af0-4dfd-ab4f-2db2b5885078"
+  },
+  {
+    "id": "a037aef0-175d-4e30-b613-fe263ec9a1c3",
+    "name": "Quadro",
+    "brand": "1649734f-9af0-4dfd-ab4f-2db2b5885078"
+  },
+  {
+    "id": "dedb1639-0b37-40d4-bd67-2faa80cfd3ab",
+    "name": "TS",
+    "brand": "1649734f-9af0-4dfd-ab4f-2db2b5885078"
+  }
+]

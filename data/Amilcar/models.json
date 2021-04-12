@@ -1,0 +1,47 @@
+[
+  {
+    "id": "c4def387-1c19-44b1-9139-322e136ab063",
+    "name": "C4",
+    "brand": "f3441345-ea47-4990-85ec-9e5787bfe925"
+  },
+  {
+    "id": "5345face-0424-44d6-b610-8df778389b8f",
+    "name": "C6",
+    "brand": "f3441345-ea47-4990-85ec-9e5787bfe925"
+  },
+  {
+    "id": "d28a9a7f-215a-489e-9fb8-c8f1a1e609b7",
+    "name": "CGS",
+    "brand": "f3441345-ea47-4990-85ec-9e5787bfe925"
+  },
+  {
+    "id": "d70d5f3e-f81d-4d6e-8780-8f5963453b77",
+    "name": "CGS3",
+    "brand": "f3441345-ea47-4990-85ec-9e5787bfe925"
+  },
+  {
+    "id": "24f5dd1e-09cc-401d-9a44-f3b43aa59b7c",
+    "name": "CGSS",
+    "brand": "f3441345-ea47-4990-85ec-9e5787bfe925"
+  },
+  {
+    "id": "a9c8b722-1a53-45eb-8c1e-f5b6113c151f",
+    "name": "CS",
+    "brand": "f3441345-ea47-4990-85ec-9e5787bfe925"
+  },
+  {
+    "id": "da212b1c-d0f2-4fe9-ad7f-cdba3312de54",
+    "name": "CS8",
+    "brand": "f3441345-ea47-4990-85ec-9e5787bfe925"
+  },
+  {
+    "id": "fbae949f-03e9-4d66-b450-e315ffcafed3",
+    "name": "G",
+    "brand": "f3441345-ea47-4990-85ec-9e5787bfe925"
+  },
+  {
+    "id": "763bf4bf-b438-462f-8691-f8c73dd5efdd",
+    "name": "Pegase",
+    "brand": "f3441345-ea47-4990-85ec-9e5787bfe925"
+  }
+]

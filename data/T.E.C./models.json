@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ec3af330-b5fc-4c8b-985d-d50a7c427f13",
+    "name": "AdvanTEC",
+    "brand": "7f6a331e-fed7-44e3-823c-f64d54a11dcc"
+  },
+  {
+    "id": "633b220a-d9a4-4021-9e0f-f0b202d0e06a",
+    "name": "FreeTEC",
+    "brand": "7f6a331e-fed7-44e3-823c-f64d54a11dcc"
+  },
+  {
+    "id": "928eb8a9-f1fc-47cd-9fa1-b0dc7b18cccb",
+    "name": "i-TEC",
+    "brand": "7f6a331e-fed7-44e3-823c-f64d54a11dcc"
+  },
+  {
+    "id": "0909559c-c91f-4fc4-a0c6-2a9e492afcf9",
+    "name": "RoTEC",
+    "brand": "7f6a331e-fed7-44e3-823c-f64d54a11dcc"
+  },
+  {
+    "id": "0b04f6ce-8d5f-4e78-a1bf-b3057929c8b3",
+    "name": "TEC Star",
+    "brand": "7f6a331e-fed7-44e3-823c-f64d54a11dcc"
+  },
+  {
+    "id": "9eb6e3d3-9334-4d44-8004-829f755ce8e2",
+    "name": "Travel Style",
+    "brand": "7f6a331e-fed7-44e3-823c-f64d54a11dcc"
+  }
+]

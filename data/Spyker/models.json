@@ -1,0 +1,57 @@
+[
+  {
+    "id": "0fd67ba1-56c8-4cb6-b8d5-15099fe01acd",
+    "name": "15/22 HP",
+    "brand": "dc33ef7e-5608-4f71-9375-d5b8323f3a41"
+  },
+  {
+    "id": "ecc0745f-4c15-4a7c-9e6a-4f22a8cd00e2",
+    "name": "30/42 HP",
+    "brand": "dc33ef7e-5608-4f71-9375-d5b8323f3a41"
+  },
+  {
+    "id": "60afb02d-e279-4a24-ada1-6ccdbe90ae35",
+    "name": "60 HP",
+    "brand": "dc33ef7e-5608-4f71-9375-d5b8323f3a41"
+  },
+  {
+    "id": "0dcba276-989a-423d-aef7-854d20dcc5aa",
+    "name": "Ambulance",
+    "brand": "dc33ef7e-5608-4f71-9375-d5b8323f3a41"
+  },
+  {
+    "id": "c2bf0471-3435-4388-9516-ac49bf9a4702",
+    "name": "B6",
+    "brand": "dc33ef7e-5608-4f71-9375-d5b8323f3a41"
+  },
+  {
+    "id": "41e87d4c-3acf-46fa-b563-70812d069902",
+    "name": "C1",
+    "brand": "dc33ef7e-5608-4f71-9375-d5b8323f3a41"
+  },
+  {
+    "id": "3d40cf81-01a0-45f6-878d-0a702c3eff30",
+    "name": "C12",
+    "brand": "dc33ef7e-5608-4f71-9375-d5b8323f3a41"
+  },
+  {
+    "id": "6c741885-aeec-4502-97f5-f75b8cd26ffd",
+    "name": "C4",
+    "brand": "dc33ef7e-5608-4f71-9375-d5b8323f3a41"
+  },
+  {
+    "id": "1eb93294-4ee9-4d53-a82c-d36496197a19",
+    "name": "C8",
+    "brand": "dc33ef7e-5608-4f71-9375-d5b8323f3a41"
+  },
+  {
+    "id": "f4bf77cc-7337-40f0-8060-57077cdafdea",
+    "name": "D12",
+    "brand": "dc33ef7e-5608-4f71-9375-d5b8323f3a41"
+  },
+  {
+    "id": "3696bdf0-7a87-4cdb-9366-7003073677ed",
+    "name": "Runabout",
+    "brand": "dc33ef7e-5608-4f71-9375-d5b8323f3a41"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "8ec91d0f-70c1-4677-a0ec-8c08659cef02",
+    "name": "Avenger",
+    "brand": "e843d45f-9cae-4a70-8109-2cf32b2ef1d5"
+  },
+  {
+    "id": "c64fac04-ae2c-4a63-8cb8-7bf0e7a5611e",
+    "name": "Hunter",
+    "brand": "e843d45f-9cae-4a70-8109-2cf32b2ef1d5"
+  },
+  {
+    "id": "e48bb7d0-bf0f-4adb-87e7-6f61a600da4c",
+    "name": "Husky",
+    "brand": "e843d45f-9cae-4a70-8109-2cf32b2ef1d5"
+  },
+  {
+    "id": "5f31bee5-8336-44a6-b99b-6f4d231dcbb8",
+    "name": "Imp",
+    "brand": "e843d45f-9cae-4a70-8109-2cf32b2ef1d5"
+  },
+  {
+    "id": "3071bb6a-a08d-4882-ad0c-2a85caee6121",
+    "name": "Minx",
+    "brand": "e843d45f-9cae-4a70-8109-2cf32b2ef1d5"
+  },
+  {
+    "id": "590765dc-4293-47b8-8a52-8ef7aef69aab",
+    "name": "Zimp",
+    "brand": "e843d45f-9cae-4a70-8109-2cf32b2ef1d5"
+  }
+]

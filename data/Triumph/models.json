@@ -1,0 +1,122 @@
+[
+  {
+    "id": "de59c13a-9454-4007-ac6f-3e0bbda09a56",
+    "name": "1300",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "e4a7f514-756e-4d2c-a276-22394b2cc962",
+    "name": "1800",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "0ba3f9e2-9b9d-4141-8d53-68a0e73536eb",
+    "name": "2000",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "fe0d7f5d-98d3-4a37-ac84-4e45ea2d3298",
+    "name": "Acclaim",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "37c1b5f7-8199-4bfe-9855-e5624b4c5c92",
+    "name": "Dolomite",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "05a42afa-a138-4e4c-9e6b-92b0d6cfe398",
+    "name": "GT6",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "d4d09367-d675-4b1d-95d1-ff2f49c65c1a",
+    "name": "Herald",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "65f298ca-476c-40e3-94b0-731cf23d5b5f",
+    "name": "Italia 2000",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "121610a0-8601-4932-8c50-cb5a12a59355",
+    "name": "Mayflower",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "c7835a85-4eff-4f26-b03d-0fe01be80754",
+    "name": "Renown",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "329f4143-3e38-4865-8082-d30aba67d223",
+    "name": "Spitfire",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "93633e1d-d19b-4fbe-b109-fe099cc2d9f4",
+    "name": "Stag",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "5de97187-9ae2-474d-a686-55816af5bc1b",
+    "name": "Super Seven",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "bcfd351a-9fa1-41c7-8646-45f257b06fc0",
+    "name": "Toledo",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "9ffd8936-166b-466d-908d-f178a64a6f9d",
+    "name": "TR2",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "0282092d-2b7b-4a29-a4b5-45fc809d8220",
+    "name": "TR250",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "f4f6a954-acf8-4797-b92b-59b2fcedfd44",
+    "name": "TR3",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "e7fce78b-8fd6-49f3-9b5f-df27671480d5",
+    "name": "TR4",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "1a9ed133-aa2d-4e9a-a85c-22d7345b8038",
+    "name": "TR5",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "bcaa386d-5666-47ac-a15c-80578b286585",
+    "name": "TR6",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "805366fd-2d03-4e77-9476-4ecae150a1b7",
+    "name": "TR7",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "8b3a5808-f759-4939-bc96-6488a732817e",
+    "name": "TR8",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "2722bd9c-4359-49cf-88cb-220894b9ca6f",
+    "name": "TRS",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  },
+  {
+    "id": "085a7ead-80ec-46a1-b1ca-dc85654a79e6",
+    "name": "Vitesse",
+    "brand": "7f231c00-e73b-4534-a7b8-0f45f059872c"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "0c487491-6abd-4820-b15c-902c38f6ffea",
+    "name": "20 HP",
+    "brand": "21504020-4fad-4640-b7da-290505150801"
+  },
+  {
+    "id": "e71cb9b3-9b7d-4d3f-a290-88df41cfeaf8",
+    "name": "25",
+    "brand": "21504020-4fad-4640-b7da-290505150801"
+  },
+  {
+    "id": "1f2919ca-a434-4b46-9fd2-f15ab872d305",
+    "name": "AC",
+    "brand": "21504020-4fad-4640-b7da-290505150801"
+  },
+  {
+    "id": "0a779d05-1a72-46ea-86ee-3066ec8c625f",
+    "name": "Delivery Truck",
+    "brand": "21504020-4fad-4640-b7da-290505150801"
+  },
+  {
+    "id": "abb5b84b-15bb-4c2b-9949-9f505bc6f09d",
+    "name": "Model AA",
+    "brand": "21504020-4fad-4640-b7da-290505150801"
+  },
+  {
+    "id": "69b5cb11-1885-45c5-a7f8-ef2c5148ee1e",
+    "name": "Model H",
+    "brand": "21504020-4fad-4640-b7da-290505150801"
+  },
+  {
+    "id": "864af4c0-feec-47b0-b657-85ffbb43a11b",
+    "name": "Model L",
+    "brand": "21504020-4fad-4640-b7da-290505150801"
+  },
+  {
+    "id": "e1378805-7327-4631-8ff9-7d4d39314fc5",
+    "name": "Model LC",
+    "brand": "21504020-4fad-4640-b7da-290505150801"
+  },
+  {
+    "id": "1bf7ed95-8f57-48b1-82ff-9786f4b889c3",
+    "name": "Model N",
+    "brand": "21504020-4fad-4640-b7da-290505150801"
+  },
+  {
+    "id": "a4398e9a-ca42-4214-8d4e-7a377afe7ce8",
+    "name": "Model Q",
+    "brand": "21504020-4fad-4640-b7da-290505150801"
+  },
+  {
+    "id": "51bac8b4-6b62-4471-826f-73f8732eb260",
+    "name": "Model RL",
+    "brand": "21504020-4fad-4640-b7da-290505150801"
+  },
+  {
+    "id": "3e401f87-b0cf-4bf9-a14c-6742484b5bd2",
+    "name": "Special Race Car",
+    "brand": "21504020-4fad-4640-b7da-290505150801"
+  }
+]

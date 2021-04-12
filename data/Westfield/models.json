@@ -1,0 +1,57 @@
+[
+  {
+    "id": "b49bfbc5-731f-40d8-85b4-970be45b74e7",
+    "name": "1600 Sport",
+    "brand": "7ba4522e-ddc4-4bf5-bfa2-7596a3ad28ff"
+  },
+  {
+    "id": "76d381d7-63e4-469f-844f-53db451375cb",
+    "name": "Aerosport",
+    "brand": "7ba4522e-ddc4-4bf5-bfa2-7596a3ad28ff"
+  },
+  {
+    "id": "650b3bf4-b5f6-491d-b902-2061ffd2abf1",
+    "name": "Eleven",
+    "brand": "7ba4522e-ddc4-4bf5-bfa2-7596a3ad28ff"
+  },
+  {
+    "id": "79fb5e40-7b90-44f5-8e1c-010d5adbc742",
+    "name": "Megabusa",
+    "brand": "7ba4522e-ddc4-4bf5-bfa2-7596a3ad28ff"
+  },
+  {
+    "id": "32bd9d2f-6717-4a82-bc78-86a64d24e1a4",
+    "name": "MegaS2000",
+    "brand": "7ba4522e-ddc4-4bf5-bfa2-7596a3ad28ff"
+  },
+  {
+    "id": "3cc45896-7d20-4332-8f4e-c8f703fcabd5",
+    "name": "SE",
+    "brand": "7ba4522e-ddc4-4bf5-bfa2-7596a3ad28ff"
+  },
+  {
+    "id": "a48f1dd7-fc71-4092-866b-7e18fd3fcc52",
+    "name": "SEight",
+    "brand": "7ba4522e-ddc4-4bf5-bfa2-7596a3ad28ff"
+  },
+  {
+    "id": "aa454be0-8e37-48ff-bd89-420af79c479d",
+    "name": "Sport 250",
+    "brand": "7ba4522e-ddc4-4bf5-bfa2-7596a3ad28ff"
+  },
+  {
+    "id": "1d3f8242-1de9-414f-bd35-6d3510600e71",
+    "name": "Sport Turbo 3",
+    "brand": "7ba4522e-ddc4-4bf5-bfa2-7596a3ad28ff"
+  },
+  {
+    "id": "328c5f7b-2884-4eb6-80b8-7fb8512f058f",
+    "name": "Sport-E",
+    "brand": "7ba4522e-ddc4-4bf5-bfa2-7596a3ad28ff"
+  },
+  {
+    "id": "cabb7b6b-8a65-47ed-abb8-1361969f2e71",
+    "name": "XTR",
+    "brand": "7ba4522e-ddc4-4bf5-bfa2-7596a3ad28ff"
+  }
+]

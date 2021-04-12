@@ -1,0 +1,62 @@
+[
+  {
+    "id": "fb9bfb3e-97ee-4a08-82e5-ebef4ad09738",
+    "name": "Bigfoot",
+    "brand": "2959ae6f-2c71-47e3-bfd6-d2ee9e8a0b90"
+  },
+  {
+    "id": "193dedb9-b49a-43c3-82f3-5c8f01d0bb76",
+    "name": "CH",
+    "brand": "2959ae6f-2c71-47e3-bfd6-d2ee9e8a0b90"
+  },
+  {
+    "id": "a669e0e5-d826-487b-bdaf-405cc3fce8bd",
+    "name": "G-Series",
+    "brand": "2959ae6f-2c71-47e3-bfd6-d2ee9e8a0b90"
+  },
+  {
+    "id": "559377b2-f984-42b0-a818-9570db1244ba",
+    "name": "Granite",
+    "brand": "2959ae6f-2c71-47e3-bfd6-d2ee9e8a0b90"
+  },
+  {
+    "id": "b6d74493-4bff-4cf0-a5be-529473c0eb49",
+    "name": "Kerax",
+    "brand": "2959ae6f-2c71-47e3-bfd6-d2ee9e8a0b90"
+  },
+  {
+    "id": "43f66d83-d3c8-4b69-bf71-46be11a3b4cb",
+    "name": "Metro-Liner",
+    "brand": "2959ae6f-2c71-47e3-bfd6-d2ee9e8a0b90"
+  },
+  {
+    "id": "2d872a38-9a4a-4288-89bd-a23df327cb5f",
+    "name": "Quantum",
+    "brand": "2959ae6f-2c71-47e3-bfd6-d2ee9e8a0b90"
+  },
+  {
+    "id": "5a6cd4f5-1ba9-41e5-b124-c8eaba6f6c87",
+    "name": "RD",
+    "brand": "2959ae6f-2c71-47e3-bfd6-d2ee9e8a0b90"
+  },
+  {
+    "id": "d0189586-79a4-41fe-b518-de9fc4932ca9",
+    "name": "Super-Liner",
+    "brand": "2959ae6f-2c71-47e3-bfd6-d2ee9e8a0b90"
+  },
+  {
+    "id": "ae8daafb-a310-48c1-b01c-de5837e14bf8",
+    "name": "Titan",
+    "brand": "2959ae6f-2c71-47e3-bfd6-d2ee9e8a0b90"
+  },
+  {
+    "id": "639cd196-96cd-4d67-8717-cd511b8f8c98",
+    "name": "Trident",
+    "brand": "2959ae6f-2c71-47e3-bfd6-d2ee9e8a0b90"
+  },
+  {
+    "id": "da3c8383-a0d2-477b-a11e-e46ac499f800",
+    "name": "Vision",
+    "brand": "2959ae6f-2c71-47e3-bfd6-d2ee9e8a0b90"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "7daa5e2f-72bb-46b6-88a2-dba62768d2b9",
+    "name": "CC",
+    "brand": "a0c521e0-b07b-4cf6-9db3-b8a64ba3ab94"
+  },
+  {
+    "id": "8eb4590f-7887-4f8d-8b75-13dceea0c803",
+    "name": "D20",
+    "brand": "a0c521e0-b07b-4cf6-9db3-b8a64ba3ab94"
+  },
+  {
+    "id": "ffbc2b80-51f6-4e52-b8c8-8522ef782761",
+    "name": "D50",
+    "brand": "a0c521e0-b07b-4cf6-9db3-b8a64ba3ab94"
+  },
+  {
+    "id": "f85e9f2f-9c49-4deb-a82d-df4958b9355e",
+    "name": "D60",
+    "brand": "a0c521e0-b07b-4cf6-9db3-b8a64ba3ab94"
+  },
+  {
+    "id": "f9dfd883-2f78-4bd9-84e7-31416d3b8be0",
+    "name": "D70",
+    "brand": "a0c521e0-b07b-4cf6-9db3-b8a64ba3ab94"
+  },
+  {
+    "id": "4a32fd39-cabd-44f6-adaa-759d72a8a604",
+    "name": "D80",
+    "brand": "a0c521e0-b07b-4cf6-9db3-b8a64ba3ab94"
+  },
+  {
+    "id": "5c2e8064-3252-4b31-92d2-feec0673bcde",
+    "name": "X25",
+    "brand": "a0c521e0-b07b-4cf6-9db3-b8a64ba3ab94"
+  },
+  {
+    "id": "53862c79-60ae-4042-ae6b-e36f5ca0bc1e",
+    "name": "X35",
+    "brand": "a0c521e0-b07b-4cf6-9db3-b8a64ba3ab94"
+  },
+  {
+    "id": "f10bc9aa-9a86-40cd-9d49-90b041b43895",
+    "name": "X55",
+    "brand": "a0c521e0-b07b-4cf6-9db3-b8a64ba3ab94"
+  },
+  {
+    "id": "5e5f341a-afd1-4a17-8dc2-d9510c50b852",
+    "name": "X65",
+    "brand": "a0c521e0-b07b-4cf6-9db3-b8a64ba3ab94"
+  },
+  {
+    "id": "e1ff243c-6202-4f38-8327-2af795d09b82",
+    "name": "Zhidao",
+    "brand": "a0c521e0-b07b-4cf6-9db3-b8a64ba3ab94"
+  },
+  {
+    "id": "fc3f8fc9-293f-4e6e-9382-a48d0f564f0b",
+    "name": "Zhixing",
+    "brand": "a0c521e0-b07b-4cf6-9db3-b8a64ba3ab94"
+  }
+]

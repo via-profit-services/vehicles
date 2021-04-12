@@ -1,0 +1,22 @@
+[
+  {
+    "id": "8030b1f8-8900-4e7d-902f-b3acb2f38bbb",
+    "name": "1200",
+    "brand": "9be32c20-aa86-4a51-8001-b3ae1d2ba6c5"
+  },
+  {
+    "id": "6a1b35a1-8ff6-4ba2-88ea-00421df50085",
+    "name": "ProMaster",
+    "brand": "9be32c20-aa86-4a51-8001-b3ae1d2ba6c5"
+  },
+  {
+    "id": "41096809-292e-498c-b9ee-5be29ae89038",
+    "name": "ProMaster City",
+    "brand": "9be32c20-aa86-4a51-8001-b3ae1d2ba6c5"
+  },
+  {
+    "id": "afa4e6b0-0b03-4b75-8cb1-2fbe90a3dc9e",
+    "name": "ProMaster Rapid",
+    "brand": "9be32c20-aa86-4a51-8001-b3ae1d2ba6c5"
+  }
+]

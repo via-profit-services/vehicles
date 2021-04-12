@@ -1,121 +1,69 @@
 # Via Profit services / Vehicles
 
-![via-profit-services-cover](./assets/via-profit-services-cover.png)
-
-> Via Profit services / **Vehicles** - это пакет, который является частью сервиса, базирующегося на `via-profit-services` и представляет собой реализацию схемы работы с городами.
-
-![npm (scoped)](https://img.shields.io/npm/v/@via-profit-services/vehicles?color=blue)
-![Libraries.io dependency status for latest release, scoped npm package](https://img.shields.io/librariesio/release/npm/@via-profit-services/vehicles?color=red)
-
-
-## TODO
-
-- [ ] Описание методов класса сервиса
-- [ ] CONTRIBUTING docs
-- [ ] Тесты
-- [ ] Subscriptions
-
-## Содержание
-
-- [Установка и настройка](#setup)
-- [Как использовать](#how-to-use)
-- [Подключение](#integration)
-
-
-## <a name="setup"></a> Установка и настройка
-
-### Установка
-
-```bash
-yarn add @via-profit-services/vehicles
-```
-
-### Миграции
-
-1. После первой установки примените все необходимые миграции:
-
-```bash
-yarn knex:migrate:latest
-```
-
-После применения миграций будут созданы все необходимые таблицы в вашей базе данных
-
-Заполнение таблиц данными происходит в ручном режиме. Это сделано для того, чтобы ваши миграции не содержали список стран и городов всего мира, а только те страны, которые требуются в вашем проекте.
-
-2. Создайте файл миграций используя команду ниже:
-
-```bash
-yarn knex:migrate:make internal-vehicles-fill
-```
-
-3. Поместите код, указанный ниже, в созданный файл миграций. При необходимости скорректируйте набор стран, которые вы будете использовать
-
+Make migration (or seed) like this:
 ```ts
-/* eslint-disable */
-import { Knex } from '@via-profit-services/core';
-import vehicles from '@via-profit-services/vehicles/dist/vehicles';
+import fs from 'fs';
+import path from 'path';
+import { Knex } from 'knex';
 
-export async function up(knex: Knex): Promise<any> {
-  return new Promise(async (resolve) => {
-    await knex.raw(`
-      ${knex('vehiclesMakes').insert(vehicles.makes).toQuery()}
-      on conflict ("id") do update set
-      ${Object.keys(vehicles.makes[0]).map((field) => `"${field}" = excluded."${field}"`).join(',')}
-    `);
+/**
+ * Split array to chunks per size
+ */
+const arrayChunk = <T extends Record<string, any>>(array: Array<T>, size: number): T[][] => {
+  const results: T[][] = [];
+  while (array.length) {
+    results.push(array.splice(0, size));
+  }
 
-    await knex.raw(`
-      ${knex('vehiclesModels').insert(vehicles.models).toQuery()}
-      on conflict ("id") do update set
-      ${Object.keys(vehicles.models[0]).map((field) => `"${field}" = excluded."${field}"`).join(',')}
-    `);
-
-    resolve();
-  });
+  return results;
 }
 
-export async function down(knex: Knex): Promise<unknown> {
-  return knex.raw(`
-    delete from "vehiclesModels";
-    delete from "vehiclesMakes";
-  `);
+/**
+ * Insert or update data for a specific type (brands or models)
+ */
+const insertOrUpdate = async (
+  knex: Knex,
+  type: 'brands' | 'models',
+): Promise<void> => {
+
+  // Vehicles data must be in `<ProjectRoot>/.data/vehicles` directory
+  const dataDir = path.resolve(process.cwd(), '../.data/vehicles');
+
+  // Reading directory to get array of country codes
+  await fs.readdirSync(dataDir).reduce(async (prev, countryCode) => {
+    await prev;
+
+    const tableMap = {
+      brands: 'vehiclesBrands',
+      models: 'vehiclesModels',
+    };
+
+    const filename = path.resolve(dataDir, countryCode, `${type}.json`);
+    const tableName = tableMap[type];
+
+    // read and parse from JSON
+    const data = JSON.parse(fs.readFileSync(filename, { encoding: 'utf8' }));
+
+    // split into chunks because the length of the SQL query is limited
+    const chunks = arrayChunk(data, 1000);
+
+    // convert chunks to promises
+    const requests = chunks.map((chunk) => knex(tableName).insert(chunk).onConflict('id').merge());
+
+    await Promise.all(requests);
+
+  }, Promise.resolve());
 }
 
+
+export const up = async (knex: Knex) => {
+  // brands first, then models
+  await insertOrUpdate(knex, 'brands');
+  await insertOrUpdate(knex, 'models');
+}
+
+
+export const down = async (knex: Knex) => {
+  await knex.raw('truncate table "vehiclesBrands" cascade;');
+}
 ```
-
-
-
-## <a name="how-to-use"></a> Как использовать
-
-Soon
-
-
-### <a name="integration"></a> Подключение
-
-Для интеграции модуля требуется задействовать типы и резолверы модуля, затем необходимо подключить Express middleware, поставляемое пакетом. Так же необходимо сконфигурировать логгер.
-
-Модуль экспортирует наружу:
-
-  - typeDefs - служебные Типы
-  - resolvers - Служеюные Резолверы
-  - Vehicles - Класс, реализующий модель данного модуля
-
-Пример подключения:
-
-```ts
-import { App } from '@via-profit-services/core';
-import { typeDefs, resolvers } from '@via-profit-services/vehicles';
-
-const app = new App({
-  ...
-  typeDefs: [
-    typeDefs,
-  ],
-  resolvers: [
-    resolvers,
-  ],
-  ...
-});
-app.bootstrap();
-
-```
-

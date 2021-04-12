@@ -1,0 +1,27 @@
+[
+  {
+    "id": "387c52f1-9e69-457b-8239-bc56702643c6",
+    "name": "F3000",
+    "brand": "7d915230-2e2c-492a-a59f-e2b18adbc0e8"
+  },
+  {
+    "id": "a07218cc-5f79-4bd5-9785-e1aade6ef52a",
+    "name": "S2000",
+    "brand": "7d915230-2e2c-492a-a59f-e2b18adbc0e8"
+  },
+  {
+    "id": "6e8a72f8-de55-4c30-a898-fa973b731286",
+    "name": "Steyr Series",
+    "brand": "7d915230-2e2c-492a-a59f-e2b18adbc0e8"
+  },
+  {
+    "id": "c698a3ff-aeb5-47f7-b274-9de327804fc9",
+    "name": "SX-Series",
+    "brand": "7d915230-2e2c-492a-a59f-e2b18adbc0e8"
+  },
+  {
+    "id": "4a1bdf3c-5db7-45cc-9104-73a63fac8e07",
+    "name": "Yan'an",
+    "brand": "7d915230-2e2c-492a-a59f-e2b18adbc0e8"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "fcea8013-c308-4fa0-8e85-1af0c14453d6",
+    "name": "Eagle",
+    "brand": "4751bb1a-49bb-4fa0-9943-d0f93c61b6a9"
+  },
+  {
+    "id": "5dcbf8e8-9a42-4e75-935d-237273330633",
+    "name": "McLaren M6B",
+    "brand": "4751bb1a-49bb-4fa0-9943-d0f93c61b6a9"
+  },
+  {
+    "id": "e2c0dc4c-de2f-4291-8da3-4daf0c27084b",
+    "name": "McLaren M7A",
+    "brand": "4751bb1a-49bb-4fa0-9943-d0f93c61b6a9"
+  },
+  {
+    "id": "2b9030b9-57a0-43c4-895f-1317c836339e",
+    "name": "Plymouth",
+    "brand": "4751bb1a-49bb-4fa0-9943-d0f93c61b6a9"
+  }
+]

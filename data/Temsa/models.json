@@ -1,0 +1,72 @@
+[
+  {
+    "id": "dec9a89e-d7f5-4206-8094-1f64008dc85a",
+    "name": "Avenue",
+    "brand": "2bb38239-4ab4-4472-9822-1af28d5234ea"
+  },
+  {
+    "id": "aaec24e7-9b7e-47dc-b463-98a56bad5174",
+    "name": "Diamond",
+    "brand": "2bb38239-4ab4-4472-9822-1af28d5234ea"
+  },
+  {
+    "id": "55033085-4ebf-4e78-bcc2-9017cdd034b9",
+    "name": "HD",
+    "brand": "2bb38239-4ab4-4472-9822-1af28d5234ea"
+  },
+  {
+    "id": "e2b0ec59-8194-4f4f-8e57-b0e7d2217b4e",
+    "name": "LD",
+    "brand": "2bb38239-4ab4-4472-9822-1af28d5234ea"
+  },
+  {
+    "id": "abe1d152-a858-4b49-9324-a5f386e23369",
+    "name": "Maraton",
+    "brand": "2bb38239-4ab4-4472-9822-1af28d5234ea"
+  },
+  {
+    "id": "56e8b200-d72d-4e40-9b35-0e6022541f85",
+    "name": "MD7",
+    "brand": "2bb38239-4ab4-4472-9822-1af28d5234ea"
+  },
+  {
+    "id": "103bfe23-417f-4ecb-a615-5c2b434cbe2d",
+    "name": "MD9",
+    "brand": "2bb38239-4ab4-4472-9822-1af28d5234ea"
+  },
+  {
+    "id": "45436e96-571a-4cb1-bc59-2c7474c2846b",
+    "name": "Metropol",
+    "brand": "2bb38239-4ab4-4472-9822-1af28d5234ea"
+  },
+  {
+    "id": "51f51c4e-b231-4af5-a36d-3ee004a31ab0",
+    "name": "Opalin",
+    "brand": "2bb38239-4ab4-4472-9822-1af28d5234ea"
+  },
+  {
+    "id": "ceecdc26-221b-43d2-86cf-503b2cfaeeff",
+    "name": "Prestij",
+    "brand": "2bb38239-4ab4-4472-9822-1af28d5234ea"
+  },
+  {
+    "id": "70f7ab97-6273-40bf-8eb9-5cb6d622a0f2",
+    "name": "Safari",
+    "brand": "2bb38239-4ab4-4472-9822-1af28d5234ea"
+  },
+  {
+    "id": "df37b9f8-cd51-4814-aebd-1c1b35e6616b",
+    "name": "Safir",
+    "brand": "2bb38239-4ab4-4472-9822-1af28d5234ea"
+  },
+  {
+    "id": "629fdde7-699d-4227-a43d-6ad1c8da660f",
+    "name": "Tourmalin",
+    "brand": "2bb38239-4ab4-4472-9822-1af28d5234ea"
+  },
+  {
+    "id": "3c7cf53d-3423-4c2b-871d-ce5b53a79e2e",
+    "name": "TS",
+    "brand": "2bb38239-4ab4-4472-9822-1af28d5234ea"
+  }
+]

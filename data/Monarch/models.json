@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ca3afc7b-ef1a-4dbc-a2cc-d47556300fd1",
+    "name": "Convertible",
+    "brand": "a85545a4-90a6-407a-ab11-2f086cfef083"
+  },
+  {
+    "id": "c2e3a8d0-2d88-4f6c-a323-953315263e25",
+    "name": "Four-Door Phaeton Hardtop",
+    "brand": "a85545a4-90a6-407a-ab11-2f086cfef083"
+  },
+  {
+    "id": "e68a225b-013e-4218-a18d-2c6f0dabc336",
+    "name": "Lucerne",
+    "brand": "a85545a4-90a6-407a-ab11-2f086cfef083"
+  },
+  {
+    "id": "b688ed40-9ef8-47e6-98ef-8d95fb4ec7eb",
+    "name": "Richelieu",
+    "brand": "a85545a4-90a6-407a-ab11-2f086cfef083"
+  },
+  {
+    "id": "d27a0db6-8c22-437b-b4d5-61cb458de107",
+    "name": "Sport Sedan",
+    "brand": "a85545a4-90a6-407a-ab11-2f086cfef083"
+  },
+  {
+    "id": "2a00cf4b-a8b8-4e0c-93cd-55bcdf1e2286",
+    "name": "Station Wagon",
+    "brand": "a85545a4-90a6-407a-ab11-2f086cfef083"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "f3e5121f-35e8-464f-b05c-ccde2b1b0d6c",
+    "name": "H2",
+    "brand": "fba8caf2-dea2-4d55-bce5-f5cc2f345383"
+  },
+  {
+    "id": "0b3e3c99-3e97-477e-ba48-a7fe0f9ebf1d",
+    "name": "H3",
+    "brand": "fba8caf2-dea2-4d55-bce5-f5cc2f345383"
+  },
+  {
+    "id": "5e5254fd-7e18-49f3-92ba-b12eb32354c6",
+    "name": "H5",
+    "brand": "fba8caf2-dea2-4d55-bce5-f5cc2f345383"
+  },
+  {
+    "id": "e87c67d1-28a7-429f-bf6c-8b51807d977d",
+    "name": "H6",
+    "brand": "fba8caf2-dea2-4d55-bce5-f5cc2f345383"
+  },
+  {
+    "id": "979a2e49-358a-40fa-93cb-bccd02b5cd90",
+    "name": "S3",
+    "brand": "fba8caf2-dea2-4d55-bce5-f5cc2f345383"
+  },
+  {
+    "id": "31748407-4a79-4bff-b673-df7f0f73ed3f",
+    "name": "S5",
+    "brand": "fba8caf2-dea2-4d55-bce5-f5cc2f345383"
+  },
+  {
+    "id": "c0b5ce4a-6cb8-403c-b233-8950a45c6ed6",
+    "name": "S6",
+    "brand": "fba8caf2-dea2-4d55-bce5-f5cc2f345383"
+  },
+  {
+    "id": "4d80d0c2-b73d-4235-a334-e21b1257d07a",
+    "name": "S7",
+    "brand": "fba8caf2-dea2-4d55-bce5-f5cc2f345383"
+  }
+]

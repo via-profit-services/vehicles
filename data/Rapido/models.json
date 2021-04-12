@@ -1,0 +1,47 @@
+[
+  {
+    "id": "b1ef32a8-91ff-41f3-999a-ac4b5b491dd9",
+    "name": "Serie 10",
+    "brand": "cb427bef-233e-428f-ab03-18ce0280f562"
+  },
+  {
+    "id": "1f640d55-93bb-45ac-8a63-4752f277beb0",
+    "name": "Serie 6/6B/6FF",
+    "brand": "cb427bef-233e-428f-ab03-18ce0280f562"
+  },
+  {
+    "id": "bf916f2f-e2f0-468f-889b-bc93da07da5d",
+    "name": "Serie 7FF",
+    "brand": "cb427bef-233e-428f-ab03-18ce0280f562"
+  },
+  {
+    "id": "abc255da-9354-4a00-adb5-803cded4598d",
+    "name": "Serie 80dF",
+    "brand": "cb427bef-233e-428f-ab03-18ce0280f562"
+  },
+  {
+    "id": "7ce05c93-5470-4dbc-939e-3477a9393e2a",
+    "name": "Serie 8M/8F",
+    "brand": "cb427bef-233e-428f-ab03-18ce0280f562"
+  },
+  {
+    "id": "617b4b36-c7fb-4863-b3b6-40c548d97e55",
+    "name": "Serie 9/9dF/9F",
+    "brand": "cb427bef-233e-428f-ab03-18ce0280f562"
+  },
+  {
+    "id": "e037814b-bb9a-4f78-b861-36e8772ffd88",
+    "name": "Serie 90dF/dFH",
+    "brand": "cb427bef-233e-428f-ab03-18ce0280f562"
+  },
+  {
+    "id": "810552cc-8eff-49a7-990f-628eadbf2fb8",
+    "name": "Serie 9M/MH",
+    "brand": "cb427bef-233e-428f-ab03-18ce0280f562"
+  },
+  {
+    "id": "a201d10a-f741-4c95-a268-906669c99d8f",
+    "name": "Serie Distinction",
+    "brand": "cb427bef-233e-428f-ab03-18ce0280f562"
+  }
+]
