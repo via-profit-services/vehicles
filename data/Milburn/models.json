@@ -1,0 +1,22 @@
+[
+  {
+    "id": "0827b0e7-eff6-4f52-9a85-363ec80119df",
+    "name": "Light Brougham",
+    "brand": "65eabfe6-7db0-4f7e-9cdf-4e3c2be3ccab"
+  },
+  {
+    "id": "75e7705b-2b21-4924-9f42-2e0ea5331216",
+    "name": "Light Coupe",
+    "brand": "65eabfe6-7db0-4f7e-9cdf-4e3c2be3ccab"
+  },
+  {
+    "id": "d4f4c71a-0f7c-4869-8ef4-aa2b9476a882",
+    "name": "Model 22",
+    "brand": "65eabfe6-7db0-4f7e-9cdf-4e3c2be3ccab"
+  },
+  {
+    "id": "2a4f8086-7665-4a63-908a-28fef987eb91",
+    "name": "Model 27",
+    "brand": "65eabfe6-7db0-4f7e-9cdf-4e3c2be3ccab"
+  }
+]

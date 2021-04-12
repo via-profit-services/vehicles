@@ -1,0 +1,47 @@
+[
+  {
+    "id": "92f5b9c7-15dc-4cca-95f7-c675b85316cc",
+    "name": "America",
+    "brand": "92088cd2-df9b-4981-bd4e-53148ce0e32a"
+  },
+  {
+    "id": "49f6ffd8-ac60-4da2-bb02-717f7b5d58d2",
+    "name": "Europa",
+    "brand": "92088cd2-df9b-4981-bd4e-53148ce0e32a"
+  },
+  {
+    "id": "a16fa625-81a3-4aa0-a369-fb7daaf2ad64",
+    "name": "H 715",
+    "brand": "92088cd2-df9b-4981-bd4e-53148ce0e32a"
+  },
+  {
+    "id": "182066f9-5ca2-40a5-a146-907565c8c748",
+    "name": "H 720",
+    "brand": "92088cd2-df9b-4981-bd4e-53148ce0e32a"
+  },
+  {
+    "id": "f106f321-2da3-4983-9713-47c2e2b89c78",
+    "name": "M 681",
+    "brand": "92088cd2-df9b-4981-bd4e-53148ce0e32a"
+  },
+  {
+    "id": "bd8dd5f1-4637-4381-809b-606c77680250",
+    "name": "M 720",
+    "brand": "92088cd2-df9b-4981-bd4e-53148ce0e32a"
+  },
+  {
+    "id": "0f80664c-5afd-4924-8cf4-436332d87090",
+    "name": "M 725",
+    "brand": "92088cd2-df9b-4981-bd4e-53148ce0e32a"
+  },
+  {
+    "id": "ffc8fd0f-627b-49e8-b191-897d05fd6f4c",
+    "name": "P 697",
+    "brand": "92088cd2-df9b-4981-bd4e-53148ce0e32a"
+  },
+  {
+    "id": "c84f1b58-a358-43a3-bf2c-75613f6c80f2",
+    "name": "P 699",
+    "brand": "92088cd2-df9b-4981-bd4e-53148ce0e32a"
+  }
+]

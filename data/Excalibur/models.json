@@ -1,0 +1,37 @@
+[
+  {
+    "id": "d035d513-3a30-4c28-bb90-40e81703dc0f",
+    "name": "Hawk",
+    "brand": "d808abd6-c003-4272-9bc1-04ed3540047d"
+  },
+  {
+    "id": "83ec5f21-c251-43d6-b66d-e2ba510ebc23",
+    "name": "Series I",
+    "brand": "d808abd6-c003-4272-9bc1-04ed3540047d"
+  },
+  {
+    "id": "cc5b7e27-0beb-4a58-9262-bc8f1ff54c88",
+    "name": "Series II",
+    "brand": "d808abd6-c003-4272-9bc1-04ed3540047d"
+  },
+  {
+    "id": "6ac19620-ef30-4ced-8ac8-7e9bc2b3a4b7",
+    "name": "Series III",
+    "brand": "d808abd6-c003-4272-9bc1-04ed3540047d"
+  },
+  {
+    "id": "37e0380b-9c6f-43c0-bd3c-e47633f3e602",
+    "name": "Series IV",
+    "brand": "d808abd6-c003-4272-9bc1-04ed3540047d"
+  },
+  {
+    "id": "caa77a50-7d4f-4f98-8035-7da9afca7dbf",
+    "name": "Series V",
+    "brand": "d808abd6-c003-4272-9bc1-04ed3540047d"
+  },
+  {
+    "id": "627634e5-fd5c-403e-a5ab-09c1ae2cf679",
+    "name": "Series VI",
+    "brand": "d808abd6-c003-4272-9bc1-04ed3540047d"
+  }
+]

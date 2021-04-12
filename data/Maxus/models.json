@@ -1,0 +1,37 @@
+[
+  {
+    "id": "7a032abe-a1f9-49d5-a08b-f9172a8371ac",
+    "name": "D60",
+    "brand": "4af3f583-a5f8-424f-8c88-dd4a8cfd12a9"
+  },
+  {
+    "id": "9e5fec47-32a4-4bdc-81a1-737260673f8a",
+    "name": "D90",
+    "brand": "4af3f583-a5f8-424f-8c88-dd4a8cfd12a9"
+  },
+  {
+    "id": "544d3b09-7d1f-406b-a510-dc134d156af5",
+    "name": "EV30",
+    "brand": "4af3f583-a5f8-424f-8c88-dd4a8cfd12a9"
+  },
+  {
+    "id": "a2004301-6152-428d-9a33-fed5e0d1b035",
+    "name": "G10",
+    "brand": "4af3f583-a5f8-424f-8c88-dd4a8cfd12a9"
+  },
+  {
+    "id": "c2371228-256e-4a2d-885d-047015677406",
+    "name": "G50",
+    "brand": "4af3f583-a5f8-424f-8c88-dd4a8cfd12a9"
+  },
+  {
+    "id": "491f8f0d-4934-42e8-8726-646f43146c8b",
+    "name": "T60",
+    "brand": "4af3f583-a5f8-424f-8c88-dd4a8cfd12a9"
+  },
+  {
+    "id": "79ed309c-35f3-4efe-be46-724fca2289ec",
+    "name": "V80",
+    "brand": "4af3f583-a5f8-424f-8c88-dd4a8cfd12a9"
+  }
+]

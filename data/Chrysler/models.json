@@ -1,0 +1,177 @@
+[
+  {
+    "id": "0011b45d-3a2b-4dd3-89d0-9dd9699ba1f7",
+    "name": "180",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "e6330da6-8d41-4d3c-ab64-669deb6afd3b",
+    "name": "200",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "6bf68084-515e-4ad7-af91-02edf8483f26",
+    "name": "300",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "beb06c21-a496-4aeb-afff-11a4bbcc30df",
+    "name": "300 Letter Series",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "9b473f8b-0976-45eb-b790-35b77a62cf27",
+    "name": "300C",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "0931e1f4-2512-4c1a-9f4a-a3ac8711f08d",
+    "name": "300C SRT8",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "74ce3f12-70fd-496a-8889-d990194bb9e6",
+    "name": "300M",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "2e1f6289-a55c-43e0-a0f4-0eced0af20fc",
+    "name": "Aspen",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "d1d18a4a-0af2-435a-8d44-c1dbab878724",
+    "name": "Cirrus",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "ed319153-fd00-4c81-819c-e444930ec6b5",
+    "name": "Concorde",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "f3820fcb-5f33-4ef7-9abe-cc43c8ceaa12",
+    "name": "Cordoba",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "ebf86a8f-1076-4f9f-b429-8ecd6d46491b",
+    "name": "Crossfire",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "a7f7992b-d7c6-48af-9a43-528e342cd642",
+    "name": "Dynasty",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "19257851-2c8d-44a3-9d79-b0332cfa0d87",
+    "name": "Fifth Avenue",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "913e6d61-dbed-4915-a8f7-973d2b225b87",
+    "name": "Imperial",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "fa839cc9-470c-4726-a572-05c7b00427a8",
+    "name": "Imperial Crown",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "642c3590-76cd-48af-880a-01ebcb114e9b",
+    "name": "Intrepid",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "fd741ce7-c904-477b-bf76-48da345941d8",
+    "name": "Le Baron",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "70565a84-b8fc-4918-b704-589055cf7559",
+    "name": "LHS",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "0d5ac01c-ba4f-481f-ae2f-a670dc3d6534",
+    "name": "Nassau",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "229c33b4-cd2b-4740-8cb3-b3d686eca5ad",
+    "name": "Neon",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "5edfc976-2c7d-4a77-a129-0eadaf26f99a",
+    "name": "NEW Yorker",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "345f14e5-fe5f-44cb-96c5-e4787ed741ad",
+    "name": "Newport",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "47a9b9d4-eb4e-4214-aaad-3aa374adc47e",
+    "name": "Pacifica",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "61e49e7c-63bb-4b23-b253-3ae35a946683",
+    "name": "Prowler",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "a0d654e1-c15b-4dc6-86d4-1432f4f5cb5b",
+    "name": "PT Cruiser",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "cdb9c4d6-8e0d-4a9e-a564-f73583676fb1",
+    "name": "Saratoga",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "80e037ca-7af3-4b7b-91cd-75977edd6165",
+    "name": "Sebring",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "df6dbfce-3708-48d1-ac8b-80e08f918c02",
+    "name": "Stratus",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "d47b7b9d-5af7-4c81-9570-448b8794c923",
+    "name": "TC by Maserati",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "a62f1d87-a896-4a48-b2b6-1b7cf2a57e78",
+    "name": "Town & Country",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "3ec4afa5-aa33-4a5f-9265-3985c36f9631",
+    "name": "Viper",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "282a6dcf-59e7-45d2-82e6-3bb764aa466d",
+    "name": "Vision",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "a5071ea4-6fc2-4282-a49a-0703de4689bf",
+    "name": "Voyager",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  },
+  {
+    "id": "370861f8-2043-4e21-b088-5aa336669b2d",
+    "name": "Windsor",
+    "brand": "edea492b-c2fa-4925-9f2f-59abede3aaf5"
+  }
+]

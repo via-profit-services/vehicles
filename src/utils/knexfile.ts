@@ -1,30 +1,22 @@
-/* eslint-disable import/no-extraneous-dependencies */
-import 'graphql-import-node';
+import dotenv from 'dotenv';
+import { Knex } from 'knex';
 
-import { configureApp } from './configureApp';
+const env = dotenv.config().parsed as NodeJS.ProcessEnv;
 
-const { database } = configureApp();
-const { timezone, ...dbConfig } = database;
-
-const CHARSET = 'UTF8';
-const CLIENT = 'pg';
-
-const config = {
-  client: CLIENT,
-  ...dbConfig,
-  pool: {
-    afterCreate: (conn: any, done: any) => {
-      conn.query(
-        `
-          SET TIMEZONE = '${timezone}';
-          SET CLIENT_ENCODING = ${CHARSET};
-        `,
-        (err: Error) => {
-          done(err, conn);
-        },
-      );
-    },
+const config: Knex.Config = {
+  client: 'pg',
+  connection: {
+    user: env.DB_USER,
+    database: env.DB_NAME,
+    password: env.DB_PASSWORD,
+    host: env.DB_HOST,
+  },
+  seeds: {
+    directory: './seeds',
+  },
+  migrations: {
+    directory: './migrations',
   },
 };
 
-module.exports = config;
+export default config;

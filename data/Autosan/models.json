@@ -1,0 +1,77 @@
+[
+  {
+    "id": "60e5f8a8-d26c-49ef-8df9-8ef797553b1e",
+    "name": "A0909L",
+    "brand": "5226b1e4-bb79-48d8-9dc7-3b13e0a5db13"
+  },
+  {
+    "id": "5eb1c0a4-73e8-4995-ac8e-772bcebf9c9b",
+    "name": "A1010T",
+    "brand": "5226b1e4-bb79-48d8-9dc7-3b13e0a5db13"
+  },
+  {
+    "id": "ca7d2665-ed24-4ac8-bd54-36918dc077c0",
+    "name": "A1112T",
+    "brand": "5226b1e4-bb79-48d8-9dc7-3b13e0a5db13"
+  },
+  {
+    "id": "31cbafe3-5ff0-4823-a634-9c5e53ddaa79",
+    "name": "A8V",
+    "brand": "5226b1e4-bb79-48d8-9dc7-3b13e0a5db13"
+  },
+  {
+    "id": "77269ad8-3a32-450b-8cc5-ef646b091feb",
+    "name": "Eagle",
+    "brand": "5226b1e4-bb79-48d8-9dc7-3b13e0a5db13"
+  },
+  {
+    "id": "b4d1169b-f866-403b-9562-983557970268",
+    "name": "Eurolider",
+    "brand": "5226b1e4-bb79-48d8-9dc7-3b13e0a5db13"
+  },
+  {
+    "id": "15754d49-7416-46e8-bd6a-eb0089d71c23",
+    "name": "Gemini",
+    "brand": "5226b1e4-bb79-48d8-9dc7-3b13e0a5db13"
+  },
+  {
+    "id": "573039d1-0b35-496c-a158-21bbc45d6899",
+    "name": "H01",
+    "brand": "5226b1e4-bb79-48d8-9dc7-3b13e0a5db13"
+  },
+  {
+    "id": "70290d67-73aa-454a-8d3a-edb1c98899a4",
+    "name": "H10",
+    "brand": "5226b1e4-bb79-48d8-9dc7-3b13e0a5db13"
+  },
+  {
+    "id": "4a943801-61d3-4d89-b61f-33f3c7f24fb2",
+    "name": "H100",
+    "brand": "5226b1e4-bb79-48d8-9dc7-3b13e0a5db13"
+  },
+  {
+    "id": "e7d8b7ea-2c1f-4bf0-875a-8e90324c4bc8",
+    "name": "H25B",
+    "brand": "5226b1e4-bb79-48d8-9dc7-3b13e0a5db13"
+  },
+  {
+    "id": "14e25f75-6fff-40cc-a8b1-b9c4e1137b04",
+    "name": "H9",
+    "brand": "5226b1e4-bb79-48d8-9dc7-3b13e0a5db13"
+  },
+  {
+    "id": "5d4b5f84-2a81-4b8a-ae7a-89f2ca78a72f",
+    "name": "Lider",
+    "brand": "5226b1e4-bb79-48d8-9dc7-3b13e0a5db13"
+  },
+  {
+    "id": "1709278b-1e18-470e-96a1-d8b841abb3f8",
+    "name": "Sancity",
+    "brand": "5226b1e4-bb79-48d8-9dc7-3b13e0a5db13"
+  },
+  {
+    "id": "92c1e62e-824e-428b-9a23-5ca91a5c8269",
+    "name": "Solina",
+    "brand": "5226b1e4-bb79-48d8-9dc7-3b13e0a5db13"
+  }
+]

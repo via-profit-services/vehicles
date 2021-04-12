@@ -1,0 +1,167 @@
+[
+  {
+    "id": "f458b383-7f39-4d0f-b3a9-c687c5d79df3",
+    "name": "Adam",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "0c09e12e-ba4c-42d3-8f52-d4bd5dd6d73c",
+    "name": "Agila",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "5081e400-4cec-468e-9a8d-e1c003a534bd",
+    "name": "Ampera",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "b394410e-400c-4011-a91a-cc913e35612e",
+    "name": "Antara",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "cabbe4ec-a86a-4c59-b4ed-bc86a5b010fd",
+    "name": "Arena",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "923983a4-1f4e-47ac-a969-598fa7f2c851",
+    "name": "Astra",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "909bd735-7b54-4263-8eba-04a95dc74be5",
+    "name": "Carlton",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "b35ebb73-ddec-4db1-84a2-eb8c26ce1955",
+    "name": "Cascada",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "f42e6b17-60a3-4a78-8d04-5d943c944071",
+    "name": "Chevette",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "4cf2f268-1ee2-43d9-af13-a7e6e2adea57",
+    "name": "Combo",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "2835dcce-5826-46f1-8590-c42ea3036b69",
+    "name": "Corsa",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "fab00784-818b-4787-8b1e-a9f892d59596",
+    "name": "Crossland X",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "931354ba-0c37-4ec5-8eeb-e593318f6df5",
+    "name": "Firenza",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "0a9278a6-a6ce-4279-87d0-4e5f75397bfa",
+    "name": "Frontera",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "73447607-2951-4dd9-b0a2-e3803bfbd3c8",
+    "name": "Insignia",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "4014ca5d-31f4-47f9-9f5f-ba2cff10d573",
+    "name": "Karl",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "aa4404a0-a67b-4c5c-8168-e8b08746b350",
+    "name": "Meriva",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "5400172b-67a9-4d37-8e32-eaee908edfd8",
+    "name": "Mokka",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "3bfaf537-ba16-4da4-89c7-b555553419e9",
+    "name": "Monaro",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "c12910a2-cf84-4a51-b45c-73a8edabd2d2",
+    "name": "Movano",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "30ed7739-fdc3-4a80-9d69-43f43621bc37",
+    "name": "Omega",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "d3e0fbd4-edff-4e02-bd8f-6f768ab8536a",
+    "name": "Royale",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "35652c2d-28dd-4ae3-8d3c-537ed89d9e08",
+    "name": "Signum",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "b1fc45c4-05a7-4ba1-aee2-980066e15ac2",
+    "name": "Tigra",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "7f4918ef-d566-4bca-bcae-c914044170a9",
+    "name": "Vectra",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "5b5c3a51-8c4a-43e1-9400-52cd9f06071a",
+    "name": "Ventora",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "ebf8fbd5-f86f-4979-ab39-01817d20696e",
+    "name": "Viceroy",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "bf28f07e-828d-4eaf-8569-8e7c27623469",
+    "name": "Victor",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "43ddead0-d304-4caf-a43e-5665cbb6d95d",
+    "name": "Viva",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "93dfb743-634f-4cbf-9746-210318377bcb",
+    "name": "Vivaro",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "fc1b9f30-3570-4f44-bcd5-6cc423a10c7e",
+    "name": "VX220",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "b2db2dee-576a-41b4-9744-f2cb6b6e9c8a",
+    "name": "VXR8",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  },
+  {
+    "id": "2ccaef8a-5068-4bf7-a01a-a784b1a325e3",
+    "name": "Zafira",
+    "brand": "bac02d18-12e8-4dd9-a3cb-8759d29bc5e4"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "7ac1b742-bd6b-4e90-a6f4-7c6d11bd39ac",
+    "name": "2500",
+    "brand": "18899e28-2bc8-4ad9-8aca-81b9fa3cc51b"
+  },
+  {
+    "id": "820524c5-4061-495d-82a0-2b1421b29285",
+    "name": "A1",
+    "brand": "18899e28-2bc8-4ad9-8aca-81b9fa3cc51b"
+  },
+  {
+    "id": "40d03a07-032a-447b-a4b5-5061fe81010e",
+    "name": "A315",
+    "brand": "18899e28-2bc8-4ad9-8aca-81b9fa3cc51b"
+  },
+  {
+    "id": "6617ce11-f37f-43d8-a0e1-a8e70a1cd809",
+    "name": "A5",
+    "brand": "18899e28-2bc8-4ad9-8aca-81b9fa3cc51b"
+  },
+  {
+    "id": "ffc97a53-040a-4d62-b4c8-bae9f743b802",
+    "name": "Beijing BJ20",
+    "brand": "18899e28-2bc8-4ad9-8aca-81b9fa3cc51b"
+  },
+  {
+    "id": "9d80049d-c965-4677-bd2d-948a03347dce",
+    "name": "Beijing BJ40",
+    "brand": "18899e28-2bc8-4ad9-8aca-81b9fa3cc51b"
+  },
+  {
+    "id": "c8d8a15d-bfed-4ef9-a8f4-2d747dcbd1ba",
+    "name": "Beijing BJ80",
+    "brand": "18899e28-2bc8-4ad9-8aca-81b9fa3cc51b"
+  },
+  {
+    "id": "8642af8b-2d0c-479d-94c0-223ab72cc72b",
+    "name": "Beijing BJ90",
+    "brand": "18899e28-2bc8-4ad9-8aca-81b9fa3cc51b"
+  },
+  {
+    "id": "c7b2eb3c-da9b-43f8-8f54-227072a4a3d7",
+    "name": "BJ2020",
+    "brand": "18899e28-2bc8-4ad9-8aca-81b9fa3cc51b"
+  },
+  {
+    "id": "d7dcd297-78f9-44e5-8fda-44958fe2de18",
+    "name": "BJ212",
+    "brand": "18899e28-2bc8-4ad9-8aca-81b9fa3cc51b"
+  },
+  {
+    "id": "74d0d61c-bb38-43bd-9584-26e6942bfe03",
+    "name": "D20",
+    "brand": "18899e28-2bc8-4ad9-8aca-81b9fa3cc51b"
+  },
+  {
+    "id": "ded023b4-68ce-4e51-ae27-f54036f71f38",
+    "name": "E-Series",
+    "brand": "18899e28-2bc8-4ad9-8aca-81b9fa3cc51b"
+  },
+  {
+    "id": "a08a5fe0-7ad0-418d-8901-d76bbd91f672",
+    "name": "EV5",
+    "brand": "18899e28-2bc8-4ad9-8aca-81b9fa3cc51b"
+  },
+  {
+    "id": "01b91948-e29b-4f20-b470-d5f1538a2824",
+    "name": "Luba",
+    "brand": "18899e28-2bc8-4ad9-8aca-81b9fa3cc51b"
+  },
+  {
+    "id": "7fd8fa6e-da19-4c8b-bdab-821ae9bf4398",
+    "name": "MZ-Series",
+    "brand": "18899e28-2bc8-4ad9-8aca-81b9fa3cc51b"
+  },
+  {
+    "id": "36792f6a-69df-4476-a3cc-c6359b2ab12d",
+    "name": "MZ40",
+    "brand": "18899e28-2bc8-4ad9-8aca-81b9fa3cc51b"
+  },
+  {
+    "id": "4de98f41-94f5-4135-9b66-c3862885d834",
+    "name": "X-Series",
+    "brand": "18899e28-2bc8-4ad9-8aca-81b9fa3cc51b"
+  },
+  {
+    "id": "172a3428-972f-43a7-a9c5-e20047434223",
+    "name": "X25",
+    "brand": "18899e28-2bc8-4ad9-8aca-81b9fa3cc51b"
+  },
+  {
+    "id": "ec9a2727-3685-4da8-9bbd-2ce0be2ae94e",
+    "name": "X35",
+    "brand": "18899e28-2bc8-4ad9-8aca-81b9fa3cc51b"
+  },
+  {
+    "id": "0d61464a-e7d5-49f3-a5d4-0cc8fcf202e1",
+    "name": "X55",
+    "brand": "18899e28-2bc8-4ad9-8aca-81b9fa3cc51b"
+  }
+]

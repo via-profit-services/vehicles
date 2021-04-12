@@ -1,0 +1,37 @@
+[
+  {
+    "id": "79ef7d12-46f7-4cd9-bf69-db390fdb9ef5",
+    "name": "Battista",
+    "brand": "d7649cb6-985f-4098-bdf7-521009981e39"
+  },
+  {
+    "id": "6298c74a-b7a2-4cf8-9513-325e3a76811c",
+    "name": "CNR",
+    "brand": "d7649cb6-985f-4098-bdf7-521009981e39"
+  },
+  {
+    "id": "cfa0e116-0bd8-4a73-9bf4-a3b89c6fbce0",
+    "name": "Enjoy",
+    "brand": "d7649cb6-985f-4098-bdf7-521009981e39"
+  },
+  {
+    "id": "0c643baf-ca1c-4cc2-9edc-83677fc96041",
+    "name": "Ethos",
+    "brand": "d7649cb6-985f-4098-bdf7-521009981e39"
+  },
+  {
+    "id": "5ce43570-f292-4f09-a3de-c71e1ccd3700",
+    "name": "H2 Speed",
+    "brand": "d7649cb6-985f-4098-bdf7-521009981e39"
+  },
+  {
+    "id": "3fea5860-f32d-4ff8-9f31-beda6a82c4a0",
+    "name": "HF Lobo",
+    "brand": "d7649cb6-985f-4098-bdf7-521009981e39"
+  },
+  {
+    "id": "65beebc1-be7f-4360-92da-2109c45fc6fa",
+    "name": "Nido",
+    "brand": "d7649cb6-985f-4098-bdf7-521009981e39"
+  }
+]

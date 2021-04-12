@@ -1,0 +1,32 @@
+[
+  {
+    "id": "7493e977-cf54-446a-9d80-20dd450fb26e",
+    "name": "706",
+    "brand": "32fe4997-9741-4bc8-9ecf-367a17b23bdd"
+  },
+  {
+    "id": "81e13e91-7fef-4d9a-bb7d-42f4914d5226",
+    "name": "Series 100",
+    "brand": "32fe4997-9741-4bc8-9ecf-367a17b23bdd"
+  },
+  {
+    "id": "95ecfbec-4fe2-4b2b-a861-f1d2e8f43544",
+    "name": "Series 200",
+    "brand": "32fe4997-9741-4bc8-9ecf-367a17b23bdd"
+  },
+  {
+    "id": "3d202572-182b-4de1-a48b-78ac259f80ff",
+    "name": "Series 300",
+    "brand": "32fe4997-9741-4bc8-9ecf-367a17b23bdd"
+  },
+  {
+    "id": "86bb3c3b-1ea8-4713-9655-47b183acc6bf",
+    "name": "Series 400",
+    "brand": "32fe4997-9741-4bc8-9ecf-367a17b23bdd"
+  },
+  {
+    "id": "e3249757-6714-4b5a-b41d-2d770097dbbe",
+    "name": "Series FZ",
+    "brand": "32fe4997-9741-4bc8-9ecf-367a17b23bdd"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "9f280c06-f71c-45ab-b35b-adccfb5944bc",
+    "name": "B11",
+    "brand": "2b9bef04-b438-41ee-9cfa-05c8b3e2cbcf"
+  },
+  {
+    "id": "d739af6e-acc2-46ea-8d4f-1e2255001299",
+    "name": "B21",
+    "brand": "2b9bef04-b438-41ee-9cfa-05c8b3e2cbcf"
+  },
+  {
+    "id": "054bb6d5-1695-4e3a-ba6f-15178e010d95",
+    "name": "Boliger",
+    "brand": "2b9bef04-b438-41ee-9cfa-05c8b3e2cbcf"
+  },
+  {
+    "id": "a499b39e-8799-476d-ba24-41bf17271633",
+    "name": "EV160",
+    "brand": "2b9bef04-b438-41ee-9cfa-05c8b3e2cbcf"
+  },
+  {
+    "id": "7ea4f7a2-86a5-4c95-bb1e-ba90ad1d4616",
+    "name": "Laville",
+    "brand": "2b9bef04-b438-41ee-9cfa-05c8b3e2cbcf"
+  },
+  {
+    "id": "ce39c02b-c97f-43d7-9aa2-876a152a8edf",
+    "name": "Lusheng",
+    "brand": "2b9bef04-b438-41ee-9cfa-05c8b3e2cbcf"
+  },
+  {
+    "id": "871bea18-c93e-4ecc-8baf-a4397c926b31",
+    "name": "Santa Fe",
+    "brand": "2b9bef04-b438-41ee-9cfa-05c8b3e2cbcf"
+  },
+  {
+    "id": "e1ef17ae-8a1d-4202-ab5a-9e509eaff8f5",
+    "name": "Terracan",
+    "brand": "2b9bef04-b438-41ee-9cfa-05c8b3e2cbcf"
+  }
+]

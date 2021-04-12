@@ -1,0 +1,42 @@
+[
+  {
+    "id": "fe6d12c2-ff6e-4b45-bae0-c5828c525866",
+    "name": "7-Series",
+    "brand": "a2d10fca-72f1-468e-8857-736a533e4011"
+  },
+  {
+    "id": "897436ea-4464-4709-83d0-1fe9411d20f3",
+    "name": "BRT",
+    "brand": "a2d10fca-72f1-468e-8857-736a533e4011"
+  },
+  {
+    "id": "60cd9409-19bb-41c1-85d0-195580a6d98a",
+    "name": "Catch",
+    "brand": "a2d10fca-72f1-468e-8857-736a533e4011"
+  },
+  {
+    "id": "0148281e-c075-4a0b-9bb8-148c4e994588",
+    "name": "Climber",
+    "brand": "a2d10fca-72f1-468e-8857-736a533e4011"
+  },
+  {
+    "id": "b3803f13-3987-476f-8db3-8f3916a6761a",
+    "name": "LCK6125H-2",
+    "brand": "a2d10fca-72f1-468e-8857-736a533e4011"
+  },
+  {
+    "id": "7b468275-a7ed-4905-b4ea-2176165d1aa6",
+    "name": "LCK6798D4",
+    "brand": "a2d10fca-72f1-468e-8857-736a533e4011"
+  },
+  {
+    "id": "77f8aaaa-812b-4d25-b847-158c9159ce8a",
+    "name": "Navigator",
+    "brand": "a2d10fca-72f1-468e-8857-736a533e4011"
+  },
+  {
+    "id": "58abb359-5e92-48f9-bda0-71cddb6a29a3",
+    "name": "Sunny",
+    "brand": "a2d10fca-72f1-468e-8857-736a533e4011"
+  }
+]

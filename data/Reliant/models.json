@@ -1,0 +1,42 @@
+[
+  {
+    "id": "778d4bcd-c36a-4d9e-a8f0-25170ab13b72",
+    "name": "Fox",
+    "brand": "99fc82c1-8c77-44ba-8a32-0af4d468882c"
+  },
+  {
+    "id": "8d7408ab-638a-487c-988d-62f5c848c80a",
+    "name": "Kitten",
+    "brand": "99fc82c1-8c77-44ba-8a32-0af4d468882c"
+  },
+  {
+    "id": "5546420b-c988-42da-9c62-644f1f330373",
+    "name": "Metrocab",
+    "brand": "99fc82c1-8c77-44ba-8a32-0af4d468882c"
+  },
+  {
+    "id": "037b2d26-0dff-4c06-929b-dcb36a71af66",
+    "name": "Rebel",
+    "brand": "99fc82c1-8c77-44ba-8a32-0af4d468882c"
+  },
+  {
+    "id": "9096b371-41a1-4ee5-9a25-c34bd427cb4d",
+    "name": "Regal",
+    "brand": "99fc82c1-8c77-44ba-8a32-0af4d468882c"
+  },
+  {
+    "id": "17669e11-4fa9-4c67-b1d2-c907aef6e6f7",
+    "name": "Robin",
+    "brand": "99fc82c1-8c77-44ba-8a32-0af4d468882c"
+  },
+  {
+    "id": "1c7e13cb-2719-464d-bd3f-c27701154682",
+    "name": "Sabre",
+    "brand": "99fc82c1-8c77-44ba-8a32-0af4d468882c"
+  },
+  {
+    "id": "8f9ada93-52c1-4bb5-914d-c939ad2c568e",
+    "name": "Scimitar",
+    "brand": "99fc82c1-8c77-44ba-8a32-0af4d468882c"
+  }
+]

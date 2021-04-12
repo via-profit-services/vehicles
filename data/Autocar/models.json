@@ -1,0 +1,102 @@
+[
+  {
+    "id": "ab09fa98-d4b7-4334-982c-2b7eb410721b",
+    "name": "A10264",
+    "brand": "a10a1858-9d29-4852-ae0d-d343d75a3eb8"
+  },
+  {
+    "id": "96d53d16-db9d-4b6d-a385-7d1f2c367628",
+    "name": "A64B",
+    "brand": "a10a1858-9d29-4852-ae0d-d343d75a3eb8"
+  },
+  {
+    "id": "db93c8c4-8dbe-454c-a808-083fe080b2be",
+    "name": "A70T",
+    "brand": "a10a1858-9d29-4852-ae0d-d343d75a3eb8"
+  },
+  {
+    "id": "121b91d6-1bf4-40d7-a9e6-e6f7ebc67f97",
+    "name": "ACMD",
+    "brand": "a10a1858-9d29-4852-ae0d-d343d75a3eb8"
+  },
+  {
+    "id": "0f6db1c1-2d92-4075-a507-2a9f43616d7d",
+    "name": "ACX",
+    "brand": "a10a1858-9d29-4852-ae0d-d343d75a3eb8"
+  },
+  {
+    "id": "1eb1b4e9-c526-4a75-acc4-13459c055728",
+    "name": "AT-64",
+    "brand": "a10a1858-9d29-4852-ae0d-d343d75a3eb8"
+  },
+  {
+    "id": "a0425105-30d3-4e2f-95c1-f1458ace9c90",
+    "name": "C10064",
+    "brand": "a10a1858-9d29-4852-ae0d-d343d75a3eb8"
+  },
+  {
+    "id": "3115a829-a0b0-49f3-83a8-4b5f8760fe16",
+    "name": "C50T",
+    "brand": "a10a1858-9d29-4852-ae0d-d343d75a3eb8"
+  },
+  {
+    "id": "8bd09693-e4f1-4098-a3d4-fd5c2e226c65",
+    "name": "C60T",
+    "brand": "a10a1858-9d29-4852-ae0d-d343d75a3eb8"
+  },
+  {
+    "id": "e4c9bcb4-97d4-4276-a09f-855b858b8cef",
+    "name": "C70T",
+    "brand": "a10a1858-9d29-4852-ae0d-d343d75a3eb8"
+  },
+  {
+    "id": "3e715483-795f-412e-9513-f0c43844ffb8",
+    "name": "C90",
+    "brand": "a10a1858-9d29-4852-ae0d-d343d75a3eb8"
+  },
+  {
+    "id": "ab4e9b91-bbc4-437b-a6e9-91d639fe259d",
+    "name": "COE Truck",
+    "brand": "a10a1858-9d29-4852-ae0d-d343d75a3eb8"
+  },
+  {
+    "id": "04056b2a-53f1-4e71-b252-c534a0cc2088",
+    "name": "DC",
+    "brand": "a10a1858-9d29-4852-ae0d-d343d75a3eb8"
+  },
+  {
+    "id": "e6da7b6d-e1e1-4729-ac96-6c497e4f6f10",
+    "name": "DF",
+    "brand": "a10a1858-9d29-4852-ae0d-d343d75a3eb8"
+  },
+  {
+    "id": "b113c459-fff3-4c6c-a22d-26c134d012ed",
+    "name": "Dispatch",
+    "brand": "a10a1858-9d29-4852-ae0d-d343d75a3eb8"
+  },
+  {
+    "id": "bcf5b4d9-f687-48db-85d7-0da38e76e9b1",
+    "name": "Harwick",
+    "brand": "a10a1858-9d29-4852-ae0d-d343d75a3eb8"
+  },
+  {
+    "id": "267011be-fd2a-4123-bcee-d4836d0c4794",
+    "name": "Runabout",
+    "brand": "a10a1858-9d29-4852-ae0d-d343d75a3eb8"
+  },
+  {
+    "id": "481ad52d-8063-4b34-b96d-e7728ce7f449",
+    "name": "Type 10",
+    "brand": "a10a1858-9d29-4852-ae0d-d343d75a3eb8"
+  },
+  {
+    "id": "d61b2615-db58-4eb8-972b-44a6e2d2882c",
+    "name": "Type 8",
+    "brand": "a10a1858-9d29-4852-ae0d-d343d75a3eb8"
+  },
+  {
+    "id": "5ec94499-f6a0-4848-9c4f-9a1005e2a8be",
+    "name": "U",
+    "brand": "a10a1858-9d29-4852-ae0d-d343d75a3eb8"
+  }
+]

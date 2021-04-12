@@ -1,0 +1,27 @@
+[
+  {
+    "id": "d7787f28-c283-4114-b13d-4cfdfdcfd9b1",
+    "name": "A-Line",
+    "brand": "62379fed-50fa-415b-ae5d-ba9e9fa50537"
+  },
+  {
+    "id": "74a83720-e92c-4585-93f4-b37aba421d66",
+    "name": "Access",
+    "brand": "62379fed-50fa-415b-ae5d-ba9e9fa50537"
+  },
+  {
+    "id": "46f46a7c-b576-4219-959c-81f0f0e75bd9",
+    "name": "Cinco",
+    "brand": "62379fed-50fa-415b-ae5d-ba9e9fa50537"
+  },
+  {
+    "id": "d0a63efc-b9c3-4cd6-a978-e3cd382aaf48",
+    "name": "V-Line",
+    "brand": "62379fed-50fa-415b-ae5d-ba9e9fa50537"
+  },
+  {
+    "id": "5be155ba-644e-4ac1-bf83-7f0b586eac18",
+    "name": "W-Line",
+    "brand": "62379fed-50fa-415b-ae5d-ba9e9fa50537"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "44faa32e-a8b7-4105-bdf6-02699c9ab7ff",
+    "name": "Cherokee",
+    "brand": "a418b231-2a1d-4ac1-a4fe-4a78bcfb0110"
+  },
+  {
+    "id": "09cab239-b7b8-48ac-b219-09232a5d3b64",
+    "name": "CJ",
+    "brand": "a418b231-2a1d-4ac1-a4fe-4a78bcfb0110"
+  },
+  {
+    "id": "dafc4879-875b-401d-8525-8d53b3b52e45",
+    "name": "Commander",
+    "brand": "a418b231-2a1d-4ac1-a4fe-4a78bcfb0110"
+  },
+  {
+    "id": "e10d909a-0dc6-4405-99a5-55defcc0be84",
+    "name": "Compass",
+    "brand": "a418b231-2a1d-4ac1-a4fe-4a78bcfb0110"
+  },
+  {
+    "id": "755bd97e-afea-41d5-9dcd-414dd810c354",
+    "name": "Gladiator",
+    "brand": "a418b231-2a1d-4ac1-a4fe-4a78bcfb0110"
+  },
+  {
+    "id": "b6a064ed-eb3a-46f3-8a46-9dd56b643f87",
+    "name": "Grand Cherokee",
+    "brand": "a418b231-2a1d-4ac1-a4fe-4a78bcfb0110"
+  },
+  {
+    "id": "e3f6bc68-fdac-41f4-9ec2-3208b624b75e",
+    "name": "Grand Cherokee SRT8",
+    "brand": "a418b231-2a1d-4ac1-a4fe-4a78bcfb0110"
+  },
+  {
+    "id": "d187e3f0-a686-4385-b8d0-5c45c11be59c",
+    "name": "Grand Commander",
+    "brand": "a418b231-2a1d-4ac1-a4fe-4a78bcfb0110"
+  },
+  {
+    "id": "276c4610-d451-4152-aa8d-31c481f7a250",
+    "name": "Grand Wagoneer",
+    "brand": "a418b231-2a1d-4ac1-a4fe-4a78bcfb0110"
+  },
+  {
+    "id": "55f50d6f-9e74-4f70-ab2a-08e20a037ba3",
+    "name": "Liberty (North America)",
+    "brand": "a418b231-2a1d-4ac1-a4fe-4a78bcfb0110"
+  },
+  {
+    "id": "6e1ba191-ef48-4cb8-b31b-72185730bdfb",
+    "name": "Liberty (Patriot)",
+    "brand": "a418b231-2a1d-4ac1-a4fe-4a78bcfb0110"
+  },
+  {
+    "id": "b1bfd19b-cb4c-4cb1-8d4f-e0fa40c0849d",
+    "name": "Renegade",
+    "brand": "a418b231-2a1d-4ac1-a4fe-4a78bcfb0110"
+  },
+  {
+    "id": "2e530f71-393a-47dd-bac2-6bda4b9fe85b",
+    "name": "Wagoneer",
+    "brand": "a418b231-2a1d-4ac1-a4fe-4a78bcfb0110"
+  },
+  {
+    "id": "3b68396e-0034-40f3-9fc7-35b6052d87ca",
+    "name": "Wrangler",
+    "brand": "a418b231-2a1d-4ac1-a4fe-4a78bcfb0110"
+  }
+]

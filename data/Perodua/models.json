@@ -1,0 +1,67 @@
+[
+  {
+    "id": "9a0c5c73-7216-4624-934f-813f3c3d1d2b",
+    "name": "Alza",
+    "brand": "e4b433af-109e-49a6-95b4-62d3248395c2"
+  },
+  {
+    "id": "38eb6ed9-6f47-43c2-a5f7-a082e321effa",
+    "name": "Aruz",
+    "brand": "e4b433af-109e-49a6-95b4-62d3248395c2"
+  },
+  {
+    "id": "255129bc-99f3-43cd-9a8b-2d34ee4e5da2",
+    "name": "Axia",
+    "brand": "e4b433af-109e-49a6-95b4-62d3248395c2"
+  },
+  {
+    "id": "cbc94e4b-eb92-4789-a0ab-2660edf36bc1",
+    "name": "Bezza",
+    "brand": "e4b433af-109e-49a6-95b4-62d3248395c2"
+  },
+  {
+    "id": "f8a136a4-7f4c-45aa-9015-4dcd09e42fc5",
+    "name": "Kancil",
+    "brand": "e4b433af-109e-49a6-95b4-62d3248395c2"
+  },
+  {
+    "id": "b6e2138f-c88c-42cf-a58c-3bc1bb64c534",
+    "name": "Kelisa",
+    "brand": "e4b433af-109e-49a6-95b4-62d3248395c2"
+  },
+  {
+    "id": "08b5f51d-2437-4926-9e92-afcebd514c4b",
+    "name": "Kembara",
+    "brand": "e4b433af-109e-49a6-95b4-62d3248395c2"
+  },
+  {
+    "id": "9b7bec37-4111-4e8f-b109-a72baab47d1f",
+    "name": "Kenari",
+    "brand": "e4b433af-109e-49a6-95b4-62d3248395c2"
+  },
+  {
+    "id": "c1b5618e-d798-4813-bec4-9b4c79700e5c",
+    "name": "MyVi",
+    "brand": "e4b433af-109e-49a6-95b4-62d3248395c2"
+  },
+  {
+    "id": "38846313-bc86-4188-a795-a19a7f2afa21",
+    "name": "Nautica",
+    "brand": "e4b433af-109e-49a6-95b4-62d3248395c2"
+  },
+  {
+    "id": "a738b13b-4dd1-4d0f-b8ab-16b3ae6ed153",
+    "name": "Nippa",
+    "brand": "e4b433af-109e-49a6-95b4-62d3248395c2"
+  },
+  {
+    "id": "97f0d177-350a-4c71-84ea-99999c2ded4c",
+    "name": "Rusa",
+    "brand": "e4b433af-109e-49a6-95b4-62d3248395c2"
+  },
+  {
+    "id": "16bc72be-3da9-42f6-ae02-c0c1802bba69",
+    "name": "Viva",
+    "brand": "e4b433af-109e-49a6-95b4-62d3248395c2"
+  }
+]

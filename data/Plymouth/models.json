@@ -1,0 +1,77 @@
+[
+  {
+    "id": "77b312f0-a658-4b3e-a496-e45067b97904",
+    "name": "Acclaim",
+    "brand": "bf95746d-9641-48b9-a269-6e666898ece5"
+  },
+  {
+    "id": "8d90e125-17ac-4263-8fa4-a8f0b9f3597c",
+    "name": "Barracuda",
+    "brand": "bf95746d-9641-48b9-a269-6e666898ece5"
+  },
+  {
+    "id": "411e5956-243f-4dc7-ad09-f636e9ea517a",
+    "name": "Breeze",
+    "brand": "bf95746d-9641-48b9-a269-6e666898ece5"
+  },
+  {
+    "id": "40a78581-8047-4b2b-b95d-8474563db384",
+    "name": "Caravelle",
+    "brand": "bf95746d-9641-48b9-a269-6e666898ece5"
+  },
+  {
+    "id": "4b1c118b-3e6c-4462-914d-3bfa6245ea26",
+    "name": "Fury",
+    "brand": "bf95746d-9641-48b9-a269-6e666898ece5"
+  },
+  {
+    "id": "3316a6ee-8e27-428d-a0a4-ae2165f63aa2",
+    "name": "Horizon",
+    "brand": "bf95746d-9641-48b9-a269-6e666898ece5"
+  },
+  {
+    "id": "fe43443b-53aa-4d3f-b883-a870aff7e329",
+    "name": "Laser",
+    "brand": "bf95746d-9641-48b9-a269-6e666898ece5"
+  },
+  {
+    "id": "ef5a7063-bf56-4f1c-a064-5324d3a2a382",
+    "name": "Neon",
+    "brand": "bf95746d-9641-48b9-a269-6e666898ece5"
+  },
+  {
+    "id": "bd99b01f-9010-4cbf-aca0-bb72e1783b3d",
+    "name": "Prowler",
+    "brand": "bf95746d-9641-48b9-a269-6e666898ece5"
+  },
+  {
+    "id": "7956d72a-cafd-4b3e-afe2-34c3a9444fba",
+    "name": "Reliant",
+    "brand": "bf95746d-9641-48b9-a269-6e666898ece5"
+  },
+  {
+    "id": "d3c124dd-2b70-41ae-b901-bd2cc6a0a34d",
+    "name": "Road Runner",
+    "brand": "bf95746d-9641-48b9-a269-6e666898ece5"
+  },
+  {
+    "id": "4940a253-5447-4ac7-b9ad-f55d2efedac8",
+    "name": "Sundance",
+    "brand": "bf95746d-9641-48b9-a269-6e666898ece5"
+  },
+  {
+    "id": "d4803f00-997e-4088-b9dc-24b3dca3906e",
+    "name": "Turismo",
+    "brand": "bf95746d-9641-48b9-a269-6e666898ece5"
+  },
+  {
+    "id": "cbeacf00-74d4-41c6-baa6-ae15df7c4791",
+    "name": "Valiant",
+    "brand": "bf95746d-9641-48b9-a269-6e666898ece5"
+  },
+  {
+    "id": "6a163564-7fd9-4a1e-9e8b-6af06c21fae0",
+    "name": "Voyager",
+    "brand": "bf95746d-9641-48b9-a269-6e666898ece5"
+  }
+]

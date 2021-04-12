@@ -1,0 +1,22 @@
+[
+  {
+    "id": "4deab563-2b5b-4e9e-83b1-2430b0779534",
+    "name": "C-Series",
+    "brand": "1e58f8c9-c6fa-466e-bde4-98dd3fa6f807"
+  },
+  {
+    "id": "0fad107a-4dec-4bd5-ab2a-e1bf9a0921c5",
+    "name": "G-Series",
+    "brand": "1e58f8c9-c6fa-466e-bde4-98dd3fa6f807"
+  },
+  {
+    "id": "4582d552-172f-4952-8ce0-c0f86b609151",
+    "name": "HD-Series",
+    "brand": "1e58f8c9-c6fa-466e-bde4-98dd3fa6f807"
+  },
+  {
+    "id": "1659b75b-a76d-4317-8c14-5a32fff51f97",
+    "name": "X-Series",
+    "brand": "1e58f8c9-c6fa-466e-bde4-98dd3fa6f807"
+  }
+]

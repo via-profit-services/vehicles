@@ -1,0 +1,67 @@
+[
+  {
+    "id": "82be2e0b-6e73-4f7f-aeb0-e3d250325b87",
+    "name": "Almaz",
+    "brand": "38473e44-c29d-49d5-b5bf-2f05e227fbbc"
+  },
+  {
+    "id": "8c80970f-b27f-4a9a-b52d-121a2a1bbac3",
+    "name": "Confero S",
+    "brand": "38473e44-c29d-49d5-b5bf-2f05e227fbbc"
+  },
+  {
+    "id": "dca92904-75bc-499a-94d6-4b876c22bad0",
+    "name": "Cortez",
+    "brand": "38473e44-c29d-49d5-b5bf-2f05e227fbbc"
+  },
+  {
+    "id": "13f66235-e18e-4960-8a91-82900924952f",
+    "name": "Formo",
+    "brand": "38473e44-c29d-49d5-b5bf-2f05e227fbbc"
+  },
+  {
+    "id": "7f1e2536-4aa3-400f-9ee0-7f14aba614c1",
+    "name": "Hongguang",
+    "brand": "38473e44-c29d-49d5-b5bf-2f05e227fbbc"
+  },
+  {
+    "id": "804fd248-0687-42ff-b393-baf9b6e18fd8",
+    "name": "HongTu",
+    "brand": "38473e44-c29d-49d5-b5bf-2f05e227fbbc"
+  },
+  {
+    "id": "ac8b6188-0c14-405b-b88c-936a0527bc80",
+    "name": "LZ110G",
+    "brand": "38473e44-c29d-49d5-b5bf-2f05e227fbbc"
+  },
+  {
+    "id": "5f297296-c3fd-440e-b7c9-28f9d3aaac37",
+    "name": "Q490",
+    "brand": "38473e44-c29d-49d5-b5bf-2f05e227fbbc"
+  },
+  {
+    "id": "bbcaa888-63b2-4e04-a2cd-2ba715c81908",
+    "name": "Rongguang",
+    "brand": "38473e44-c29d-49d5-b5bf-2f05e227fbbc"
+  },
+  {
+    "id": "8dad489f-f78e-4b69-bddf-5f97402ce966",
+    "name": "Sunshine",
+    "brand": "38473e44-c29d-49d5-b5bf-2f05e227fbbc"
+  },
+  {
+    "id": "b518af28-b8b4-4c68-bd5b-fc56a67733af",
+    "name": "Xingwang",
+    "brand": "38473e44-c29d-49d5-b5bf-2f05e227fbbc"
+  },
+  {
+    "id": "1d7a0448-5a8b-449e-8fbb-f775e5dea730",
+    "name": "Yangguang",
+    "brand": "38473e44-c29d-49d5-b5bf-2f05e227fbbc"
+  },
+  {
+    "id": "4556b435-9442-4dba-93da-b9a7a5c203b2",
+    "name": "Zhengcheng",
+    "brand": "38473e44-c29d-49d5-b5bf-2f05e227fbbc"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "7b874f52-5331-4373-9a0e-9cc2584dd914",
+    "name": "Breezer",
+    "brand": "f6635170-ed51-48f1-864c-cc936f9095f0"
+  },
+  {
+    "id": "5e5f28c7-ab4f-4638-bd9f-c2516c55dae5",
+    "name": "Cruiser",
+    "brand": "f6635170-ed51-48f1-864c-cc936f9095f0"
+  },
+  {
+    "id": "4a240341-44e1-4e53-ac26-ebeea3d84849",
+    "name": "Explorer",
+    "brand": "f6635170-ed51-48f1-864c-cc936f9095f0"
+  },
+  {
+    "id": "d9e113e3-dd46-4475-b5e4-3de99871df67",
+    "name": "Liberty 6400",
+    "brand": "f6635170-ed51-48f1-864c-cc936f9095f0"
+  },
+  {
+    "id": "b454e073-4bf5-4985-a07d-30a3bbca2efc",
+    "name": "Liberty A",
+    "brand": "f6635170-ed51-48f1-864c-cc936f9095f0"
+  },
+  {
+    "id": "7c365b68-35d5-48ad-a738-40188020ba05",
+    "name": "Liberty Finish",
+    "brand": "f6635170-ed51-48f1-864c-cc936f9095f0"
+  },
+  {
+    "id": "c1981382-da37-41d2-998d-6ae179de3d4e",
+    "name": "Liberty I",
+    "brand": "f6635170-ed51-48f1-864c-cc936f9095f0"
+  },
+  {
+    "id": "11689d94-5338-467f-a62a-7475e43c95aa",
+    "name": "Liberty Tourer",
+    "brand": "f6635170-ed51-48f1-864c-cc936f9095f0"
+  }
+]

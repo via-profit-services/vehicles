@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2c2b3f6a-65ba-4ac6-9ea6-fa83d6ca4b2f",
+    "name": "12 HP",
+    "brand": "b06ecb3a-2850-4c86-99b3-29e140021b2c"
+  },
+  {
+    "id": "6b4d457e-a71e-423d-8eac-f42d748e2606",
+    "name": "20 HP",
+    "brand": "b06ecb3a-2850-4c86-99b3-29e140021b2c"
+  },
+  {
+    "id": "60c9c89a-9551-4e53-b805-48ad2b91a8d1",
+    "name": "28 HP",
+    "brand": "b06ecb3a-2850-4c86-99b3-29e140021b2c"
+  },
+  {
+    "id": "d984723d-e359-482d-8950-174bb6f8b629",
+    "name": "38 HP",
+    "brand": "b06ecb3a-2850-4c86-99b3-29e140021b2c"
+  },
+  {
+    "id": "b71f427a-08e1-4ec1-8f26-e987c55d4444",
+    "name": "40 HP",
+    "brand": "b06ecb3a-2850-4c86-99b3-29e140021b2c"
+  },
+  {
+    "id": "73b41317-acf0-4ad7-840e-30abb430f3e5",
+    "name": "Landaulet",
+    "brand": "b06ecb3a-2850-4c86-99b3-29e140021b2c"
+  }
+]

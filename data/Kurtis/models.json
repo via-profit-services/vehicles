@@ -1,0 +1,47 @@
+[
+  {
+    "id": "92574da2-e31d-4653-bbab-7d471f0bbb4c",
+    "name": "500C",
+    "brand": "286aa0f7-3d63-47c1-9cbe-22d7ffccd352"
+  },
+  {
+    "id": "0c96afaf-c31c-4bc9-8c05-7c462766d8cf",
+    "name": "500KK",
+    "brand": "286aa0f7-3d63-47c1-9cbe-22d7ffccd352"
+  },
+  {
+    "id": "1a8beb92-78ab-49b8-afb9-d475e207d132",
+    "name": "500M",
+    "brand": "286aa0f7-3d63-47c1-9cbe-22d7ffccd352"
+  },
+  {
+    "id": "70c18238-bf4b-439e-bca9-d95c5ae117a3",
+    "name": "500S",
+    "brand": "286aa0f7-3d63-47c1-9cbe-22d7ffccd352"
+  },
+  {
+    "id": "9814a84a-079d-455f-ba2c-10ea985d57d5",
+    "name": "500SX",
+    "brand": "286aa0f7-3d63-47c1-9cbe-22d7ffccd352"
+  },
+  {
+    "id": "5f3bd1a8-9fc6-42a1-9a0a-6145c1dfa809",
+    "name": "Aguila",
+    "brand": "286aa0f7-3d63-47c1-9cbe-22d7ffccd352"
+  },
+  {
+    "id": "9277450b-7668-456f-9d89-70904f4742f9",
+    "name": "Kraft",
+    "brand": "286aa0f7-3d63-47c1-9cbe-22d7ffccd352"
+  },
+  {
+    "id": "3f383d70-1157-4803-b806-4cd90b83588c",
+    "name": "Sports Car",
+    "brand": "286aa0f7-3d63-47c1-9cbe-22d7ffccd352"
+  },
+  {
+    "id": "3cf032e7-e259-4298-9dd0-65f1dd951a21",
+    "name": "Tommy Lee Special",
+    "brand": "286aa0f7-3d63-47c1-9cbe-22d7ffccd352"
+  }
+]

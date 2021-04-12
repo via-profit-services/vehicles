@@ -1,0 +1,157 @@
+[
+  {
+    "id": "3391d300-b360-4219-a457-46c8b938255b",
+    "name": "1000",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "3f0a5f92-ce82-4f20-b248-009b9e3023ba",
+    "name": "1000 Spider Sport",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "4bd9d3d6-15f6-49b4-aa15-14b1a503ead5",
+    "name": "1000SP",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "3a5ddbee-2ad9-471f-8d72-f0b9a9e269ea",
+    "name": "124",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "bca0c846-4d6d-4bba-9426-92627b246841",
+    "name": "128",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "9c63a00b-4252-4bb2-9ac0-a9ce5929bf8b",
+    "name": "131",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "0380e351-6663-4d03-9e12-44657d6762dd",
+    "name": "2000 SE027",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "255feff5-470e-41c8-80e1-34ebedb9f774",
+    "name": "2000 Sport Spider",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "357a3843-5939-41e2-a903-2aa619eaff50",
+    "name": "205A Berlinetta",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "41ef7675-be28-4390-8c90-4daaff976fa0",
+    "name": "205A Sport",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "fd589e1a-6115-4099-80c5-24ac77019773",
+    "name": "207A Boano Spyder Corsa",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "67324a45-3050-4f72-aaf6-6d86b3724caf",
+    "name": "209A Boano Coupe",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "09fcffc6-11ed-4deb-9398-e22c2a458f98",
+    "name": "2200",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "6970df4e-9024-4f76-a914-ee40b49b10d9",
+    "name": "500",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "c65f19dd-8465-4598-bb20-d3dcc652ae9d",
+    "name": "595",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "abb4f585-c342-4240-85e8-a8a71e590cd9",
+    "name": "695",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "5b1d938e-5b4e-49bc-9e90-bc05b85d3816",
+    "name": "750",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "08ff7796-3550-4520-be66-c400c35b6859",
+    "name": "850",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "3753dbbd-422f-462a-9a0a-2b1d842d8133",
+    "name": "850 TC Corsa",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "c7cd71fc-8e71-43f2-bc7f-6ec68db64c91",
+    "name": "Monomille",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "a5f85c3e-32a3-48fb-9a78-1159de2366fe",
+    "name": "O.T.R. 1000",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "575b7b9e-7661-4ac3-ad41-9bf06eb62cc0",
+    "name": "Osella 2000",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "47387df9-2754-4970-93a2-a19d93452d46",
+    "name": "Osella PA1",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "84054a06-bcfb-46c5-a765-891c259fe4d5",
+    "name": "Osella PA2",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "1159410e-c27f-42df-90f4-692afb137fbb",
+    "name": "OT 1000",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "c990b122-a6ae-48bf-a5f1-d8b0b1bed704",
+    "name": "OT 1300",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "bf8b9490-880c-4564-bcd9-32052a6c6876",
+    "name": "OT 1600",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "dcee296a-6328-427c-8871-df7009e677d1",
+    "name": "OT 2000",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "6f9c79f7-a0a4-4760-aa28-2df3998adcdf",
+    "name": "Punto",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "1ec88e3f-2b76-42d8-abba-b27929ff5b77",
+    "name": "Scorpione",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  },
+  {
+    "id": "2fbcf917-c003-4a3e-a51a-449e77ad06c2",
+    "name": "SE030",
+    "brand": "98020812-bf98-45e5-99a9-c9e4eedecf6a"
+  }
+]

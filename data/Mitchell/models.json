@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1dd7b362-5b38-4d94-89b2-7ba7b0af2a1a",
+    "name": "Light Six",
+    "brand": "1bb59f0c-95a2-4c7a-88cf-76de59e716ab"
+  },
+  {
+    "id": "52b7939d-e4b4-4b54-a4a4-21c167b3651c",
+    "name": "Model 5-6",
+    "brand": "1bb59f0c-95a2-4c7a-88cf-76de59e716ab"
+  },
+  {
+    "id": "c05ddcca-aa5a-4e15-8f95-215116ba673c",
+    "name": "Model D-40",
+    "brand": "1bb59f0c-95a2-4c7a-88cf-76de59e716ab"
+  },
+  {
+    "id": "c29ff43b-ad8d-4a90-bad6-b1ab62cf3d27",
+    "name": "Model E-40",
+    "brand": "1bb59f0c-95a2-4c7a-88cf-76de59e716ab"
+  },
+  {
+    "id": "12ba56b6-7523-4654-8a96-5477b00d5a46",
+    "name": "Model F-50",
+    "brand": "1bb59f0c-95a2-4c7a-88cf-76de59e716ab"
+  },
+  {
+    "id": "2a3abc44-6723-497e-bd43-3b3c6028177b",
+    "name": "Model J",
+    "brand": "1bb59f0c-95a2-4c7a-88cf-76de59e716ab"
+  },
+  {
+    "id": "88513b99-bbaa-4924-a303-eb2965ecd3b9",
+    "name": "Model S",
+    "brand": "1bb59f0c-95a2-4c7a-88cf-76de59e716ab"
+  }
+]

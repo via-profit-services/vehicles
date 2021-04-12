@@ -1,27 +1,45 @@
-/* eslint-disable no-console */
+/* eslint-disable arrow-body-style */
 /* eslint-disable @typescript-eslint/no-var-requires */
 /* eslint-disable import/no-extraneous-dependencies */
-
-const { spawn } = require('child_process');
+const { exec } = require('child_process');
 const fs = require('fs');
 const path = require('path');
-const chalk = require('chalk');
 
-const files = fs.readdirSync(path.resolve('./src/vehicles'));
-const formatVehicles = async (make) => new Promise((resolve) => {
-    spawn('yarn', ['prettier', '--write', `./src/vehicles/${make}/makes.json`]);
-    const ex = spawn('yarn', ['prettier', '--write', `./src/vehicles/${make}/models.json`]);
-    ex.on('exit', () => {
-      resolve();
-      console.log(chalk.yellow(`${make} was formatted`));
-    });
+
+const files = fs.readdirSync(path.resolve('./data'));
+
+const formatCountry = async (brandName) => {
+  return new Promise((resolve) => {
+    let state = 0;
+    const brandsFilename = `./data/${brandName}/brands.json`;
+    const modelsFilename = `./data/${brandName}/models.json`;
+
+    const brands = exec(`cat <<< $(jq . ${brandsFilename}) > ${brandsFilename}`);
+    const models = exec(`cat <<< $(jq . ${modelsFilename}) > ${modelsFilename}`);
+
+    const endEvent = () => {
+      state += 1;
+      if (state === 2) {
+        console.log(`${brandName} formatted`);
+        resolve();
+      }
+    }
+
+    brands.on('exit', endEvent);
+    models.on('exit', endEvent);
   });
+};
+
+
 const bootstrap = async () => {
-  console.log(chalk.yellow('Start'));
+  console.log('Start');
   await files.reduce(async (prev, current) => {
     await prev;
-    await formatVehicles(current);
+    await formatCountry(current);
   }, Promise.resolve());
-  console.log(chalk.green('Finish'));
+
+  console.log('Finish');
 };
+
+
 bootstrap();

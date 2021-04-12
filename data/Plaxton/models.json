@@ -1,0 +1,72 @@
+[
+  {
+    "id": "dda4e33b-f13f-4cc4-9ab7-b65ebe584b1a",
+    "name": "Centro",
+    "brand": "979a698c-d41b-4098-a5ef-bcc239b0fcb2"
+  },
+  {
+    "id": "6e477d7b-cd63-4935-9e63-493d3b825193",
+    "name": "Cheetah",
+    "brand": "979a698c-d41b-4098-a5ef-bcc239b0fcb2"
+  },
+  {
+    "id": "f99ab433-626c-4945-bf6d-9d095aed8914",
+    "name": "Cheetah XL",
+    "brand": "979a698c-d41b-4098-a5ef-bcc239b0fcb2"
+  },
+  {
+    "id": "d6e2a0b9-f17c-4441-9f19-6a81c7b61042",
+    "name": "Consort",
+    "brand": "979a698c-d41b-4098-a5ef-bcc239b0fcb2"
+  },
+  {
+    "id": "92defa5b-f050-4241-be9a-d4ffced0f767",
+    "name": "Elite",
+    "brand": "979a698c-d41b-4098-a5ef-bcc239b0fcb2"
+  },
+  {
+    "id": "e4b99627-6df0-4121-8243-18cae11d6dff",
+    "name": "Embassy",
+    "brand": "979a698c-d41b-4098-a5ef-bcc239b0fcb2"
+  },
+  {
+    "id": "0dc7e0df-0d47-460d-8506-914ad12b1d22",
+    "name": "Leopard",
+    "brand": "979a698c-d41b-4098-a5ef-bcc239b0fcb2"
+  },
+  {
+    "id": "77046401-e825-4989-ba93-9f229477c7e0",
+    "name": "Mini Supreme",
+    "brand": "979a698c-d41b-4098-a5ef-bcc239b0fcb2"
+  },
+  {
+    "id": "4ee05f23-3173-46f2-ad85-210784feeeff",
+    "name": "Panorama",
+    "brand": "979a698c-d41b-4098-a5ef-bcc239b0fcb2"
+  },
+  {
+    "id": "eb2eeaa1-ced8-4a43-bc8c-22b0540dcbe7",
+    "name": "Panther",
+    "brand": "979a698c-d41b-4098-a5ef-bcc239b0fcb2"
+  },
+  {
+    "id": "3ce0d0ad-f208-49b0-a4b0-4a2e6f42a578",
+    "name": "Paragon",
+    "brand": "979a698c-d41b-4098-a5ef-bcc239b0fcb2"
+  },
+  {
+    "id": "5698982a-0ed1-465f-8e00-78084006da48",
+    "name": "Primo",
+    "brand": "979a698c-d41b-4098-a5ef-bcc239b0fcb2"
+  },
+  {
+    "id": "d9716cea-4c7e-49ec-b7de-ec5eda90628d",
+    "name": "Profile",
+    "brand": "979a698c-d41b-4098-a5ef-bcc239b0fcb2"
+  },
+  {
+    "id": "462b65d2-2403-4689-92d7-0b661cb522bf",
+    "name": "Venturer",
+    "brand": "979a698c-d41b-4098-a5ef-bcc239b0fcb2"
+  }
+]

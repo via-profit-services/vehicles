@@ -1,0 +1,62 @@
+[
+  {
+    "id": "e687e76f-6ac1-4d76-8f4a-89c5b3fdb03a",
+    "name": "Baili",
+    "brand": "aa283f7c-f695-4986-8bd4-8b88fd0f639f"
+  },
+  {
+    "id": "8957df64-07ac-4395-ae70-28c6e26a68b9",
+    "name": "Brio",
+    "brand": "aa283f7c-f695-4986-8bd4-8b88fd0f639f"
+  },
+  {
+    "id": "cbecc81a-49ac-4dd2-b6a1-a51cbb82f911",
+    "name": "Junyi",
+    "brand": "aa283f7c-f695-4986-8bd4-8b88fd0f639f"
+  },
+  {
+    "id": "bdf5f082-05e6-46c3-887f-e2b61b9aa443",
+    "name": "Luzun",
+    "brand": "aa283f7c-f695-4986-8bd4-8b88fd0f639f"
+  },
+  {
+    "id": "99ef8491-9bc9-406b-b660-54537b488b01",
+    "name": "Minyi",
+    "brand": "aa283f7c-f695-4986-8bd4-8b88fd0f639f"
+  },
+  {
+    "id": "810013f8-81c4-4ecb-b45b-f89039ac63c2",
+    "name": "Princip",
+    "brand": "aa283f7c-f695-4986-8bd4-8b88fd0f639f"
+  },
+  {
+    "id": "0d895ff3-f033-4e81-b7d0-5b13108e1f93",
+    "name": "Ruiyi",
+    "brand": "aa283f7c-f695-4986-8bd4-8b88fd0f639f"
+  },
+  {
+    "id": "f67504c9-8456-41cd-a8da-b0d72d048389",
+    "name": "Saibao",
+    "brand": "aa283f7c-f695-4986-8bd4-8b88fd0f639f"
+  },
+  {
+    "id": "cb4a676a-e733-4ba6-b0c7-d991163420a9",
+    "name": "Sigma",
+    "brand": "aa283f7c-f695-4986-8bd4-8b88fd0f639f"
+  },
+  {
+    "id": "606dc2b0-1b6e-49c7-8e41-4478b33c7d58",
+    "name": "Simbo",
+    "brand": "aa283f7c-f695-4986-8bd4-8b88fd0f639f"
+  },
+  {
+    "id": "2d1fa998-c54e-49e4-8478-36820322322a",
+    "name": "Towner",
+    "brand": "aa283f7c-f695-4986-8bd4-8b88fd0f639f"
+  },
+  {
+    "id": "927aa91c-35c5-4cb1-935c-8cd817bc1a4c",
+    "name": "Zhongyi",
+    "brand": "aa283f7c-f695-4986-8bd4-8b88fd0f639f"
+  }
+]

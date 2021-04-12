@@ -1,0 +1,47 @@
+[
+  {
+    "id": "e4d88c5e-04fe-4ff2-871d-981ea5893079",
+    "name": "600",
+    "brand": "f61c48ac-3a6c-4d0a-9a3b-96026ee40e79"
+  },
+  {
+    "id": "d3433d45-fd63-4562-8795-72414dc4f7dc",
+    "name": "Optima",
+    "brand": "f61c48ac-3a6c-4d0a-9a3b-96026ee40e79"
+  },
+  {
+    "id": "16e10483-92e6-47e9-8a52-7334ffb1b128",
+    "name": "Premium Drive",
+    "brand": "f61c48ac-3a6c-4d0a-9a3b-96026ee40e79"
+  },
+  {
+    "id": "52ce7823-eda9-4029-b714-1992420e9503",
+    "name": "Premium Van",
+    "brand": "f61c48ac-3a6c-4d0a-9a3b-96026ee40e79"
+  },
+  {
+    "id": "5ddbff78-3fd8-4060-bf14-05e53263d427",
+    "name": "Siesta",
+    "brand": "f61c48ac-3a6c-4d0a-9a3b-96026ee40e79"
+  },
+  {
+    "id": "7065a695-c0ef-4ee1-af36-ccec53915d5a",
+    "name": "Sphinx",
+    "brand": "f61c48ac-3a6c-4d0a-9a3b-96026ee40e79"
+  },
+  {
+    "id": "eee7c3ac-d9d0-4210-9d9e-0949b24f4e6b",
+    "name": "Toskana",
+    "brand": "f61c48ac-3a6c-4d0a-9a3b-96026ee40e79"
+  },
+  {
+    "id": "5007c932-d6e0-4e6b-a4e4-51d278fa05f0",
+    "name": "Van",
+    "brand": "f61c48ac-3a6c-4d0a-9a3b-96026ee40e79"
+  },
+  {
+    "id": "ba5afc11-6324-46ee-b857-cd6a7a86b8d3",
+    "name": "Vantana",
+    "brand": "f61c48ac-3a6c-4d0a-9a3b-96026ee40e79"
+  }
+]

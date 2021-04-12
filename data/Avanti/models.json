@@ -1,0 +1,32 @@
+[
+  {
+    "id": "27509694-d167-43b0-b608-081256507638",
+    "name": "Convertible",
+    "brand": "ff99b9a6-e4c5-4880-aaaa-c98ac8f79357"
+  },
+  {
+    "id": "f24cad1d-aa09-449b-88c3-dd2d13344130",
+    "name": "Coupe",
+    "brand": "ff99b9a6-e4c5-4880-aaaa-c98ac8f79357"
+  },
+  {
+    "id": "ce615628-3907-4b12-b9cc-04e61e74c2a2",
+    "name": "II",
+    "brand": "ff99b9a6-e4c5-4880-aaaa-c98ac8f79357"
+  },
+  {
+    "id": "b9d02f8f-53af-4ad9-bc56-7f18860922cc",
+    "name": "Luxury Sports",
+    "brand": "ff99b9a6-e4c5-4880-aaaa-c98ac8f79357"
+  },
+  {
+    "id": "16e99a21-859c-42bd-8969-78aa31ddae23",
+    "name": "SVO",
+    "brand": "ff99b9a6-e4c5-4880-aaaa-c98ac8f79357"
+  },
+  {
+    "id": "2369a900-11b4-49d3-b58b-00bfe6739842",
+    "name": "Touring",
+    "brand": "ff99b9a6-e4c5-4880-aaaa-c98ac8f79357"
+  }
+]

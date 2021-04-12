@@ -1,0 +1,67 @@
+[
+  {
+    "id": "8e05faa7-7c76-4329-9fb2-8aeaf8c29285",
+    "name": "2245",
+    "brand": "35e74f09-8820-4a76-bf39-73245aeb9c7b"
+  },
+  {
+    "id": "d26e37af-f323-4bfd-9d5e-75ac19f1abc4",
+    "name": "Beijing",
+    "brand": "35e74f09-8820-4a76-bf39-73245aeb9c7b"
+  },
+  {
+    "id": "5de720e8-92fa-4af6-8239-1d541287e1e6",
+    "name": "Gladiator",
+    "brand": "35e74f09-8820-4a76-bf39-73245aeb9c7b"
+  },
+  {
+    "id": "29522477-0a46-401e-b42a-b623b9aa18e6",
+    "name": "Haice",
+    "brand": "35e74f09-8820-4a76-bf39-73245aeb9c7b"
+  },
+  {
+    "id": "313223a4-f000-4c71-96c7-7b974bba2adb",
+    "name": "Luba",
+    "brand": "35e74f09-8820-4a76-bf39-73245aeb9c7b"
+  },
+  {
+    "id": "d671ca2d-67dc-40f4-a591-c15bedb530f2",
+    "name": "Luling",
+    "brand": "35e74f09-8820-4a76-bf39-73245aeb9c7b"
+  },
+  {
+    "id": "50510364-ed21-4655-8d57-eb92ec7f2327",
+    "name": "Qishi",
+    "brand": "35e74f09-8820-4a76-bf39-73245aeb9c7b"
+  },
+  {
+    "id": "e8069565-6649-45fa-9e73-ea1834822ed7",
+    "name": "Sasuka",
+    "brand": "35e74f09-8820-4a76-bf39-73245aeb9c7b"
+  },
+  {
+    "id": "ff976b1b-51e2-48d7-aad0-4ae006457af3",
+    "name": "Tonik",
+    "brand": "35e74f09-8820-4a76-bf39-73245aeb9c7b"
+  },
+  {
+    "id": "40535d84-5269-4043-9947-14fe5e46a669",
+    "name": "Warrior",
+    "brand": "35e74f09-8820-4a76-bf39-73245aeb9c7b"
+  },
+  {
+    "id": "dfa80c57-055c-4bb9-b0fc-a50adc2291bc",
+    "name": "Yueling",
+    "brand": "35e74f09-8820-4a76-bf39-73245aeb9c7b"
+  },
+  {
+    "id": "071e5122-c62f-44e4-9d93-a83ecfa47980",
+    "name": "ZhanQi",
+    "brand": "35e74f09-8820-4a76-bf39-73245aeb9c7b"
+  },
+  {
+    "id": "5cb5e56c-a22c-4401-8050-7216a5ae7e3e",
+    "name": "Фenix",
+    "brand": "35e74f09-8820-4a76-bf39-73245aeb9c7b"
+  }
+]

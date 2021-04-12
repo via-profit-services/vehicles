@@ -1,0 +1,22 @@
+[
+  {
+    "id": "fa123f7d-521f-426a-bf87-6d7f5aa25c88",
+    "name": "12 HP",
+    "brand": "bf4fed7a-d08f-42cc-873e-01b5208fea9f"
+  },
+  {
+    "id": "27b86fcb-03be-4539-8d4f-1fe61e2db19d",
+    "name": "15-Litre Grand Prix",
+    "brand": "bf4fed7a-d08f-42cc-873e-01b5208fea9f"
+  },
+  {
+    "id": "ad9a3492-fa0e-4ebb-916b-cf2a7711fff6",
+    "name": "Race Car",
+    "brand": "bf4fed7a-d08f-42cc-873e-01b5208fea9f"
+  },
+  {
+    "id": "a2b763ed-858f-4d5c-befe-49ae316e2a3b",
+    "name": "Type B3-6",
+    "brand": "bf4fed7a-d08f-42cc-873e-01b5208fea9f"
+  }
+]

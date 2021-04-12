@@ -1,0 +1,327 @@
+[
+  {
+    "id": "a4b59f8f-0310-4d29-8e2d-1dd75687e14a",
+    "name": "AG",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "69c00c32-7ea2-4667-a8f6-687467c3c033",
+    "name": "Chappy",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "a20b83a7-6098-4ab3-92bd-2528a064ddb3",
+    "name": "CP250",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "82a474c3-5c99-465f-8a0a-56e7b791e75a",
+    "name": "Crypton",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "8c3bfba2-2d9f-44eb-9683-96e6c257c521",
+    "name": "DT",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "b7f164a4-15d1-4668-8c53-248a17cb5e68",
+    "name": "Factor",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "3936b72d-39da-45cb-9b6b-6ccbbfef2bbe",
+    "name": "Fazer",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "0ed18478-c80a-46ed-8eec-c8b68bf31f82",
+    "name": "FJ",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "cb7443b9-7be0-40b5-9326-7789399d5c8d",
+    "name": "FJR",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "5866b421-795f-4741-b641-1d379b7d6fc4",
+    "name": "FZ",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "64790ab2-4823-4e1a-bf8c-0f48ac902c95",
+    "name": "FZR",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "ef8a4298-1e8a-4e99-b2e2-9605b8e0429c",
+    "name": "FZX",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "a7a50f31-8657-4f05-81ef-48955f005933",
+    "name": "Grizzly",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "f955a9d1-bc1f-420a-8a15-926e56a30c9a",
+    "name": "GT",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "297347f6-f94b-45a0-b869-7316680486f2",
+    "name": "GTS",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "6943f6a7-c74e-4bbf-9961-59816825df59",
+    "name": "Kodiak",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "cbbd7703-a824-4964-a7c4-a0cf188b564a",
+    "name": "MT",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "83167b95-682c-4d85-b776-3f1b1eed77b4",
+    "name": "MX",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "77dce0aa-2d12-48d1-ba84-f341693e4511",
+    "name": "Neo",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "8ac174a1-893f-4a18-84ea-30f8d748bb67",
+    "name": "Niken",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "116866ac-7578-44b8-9241-9a94b7636f91",
+    "name": "OX99-11",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "a1d70583-dd01-47a1-8e41-b9cf92f99fde",
+    "name": "Passol",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "77a5725a-bc76-43e7-adc8-dd69bedfd092",
+    "name": "PW",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "f7e68b25-3d85-4b34-a7da-4a366b12542c",
+    "name": "RD",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "2603c43c-a3db-47f7-9159-a8e525306d2c",
+    "name": "Royal Star Venture",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "9ea7bcc8-5cae-49ea-a66a-95b34c78861e",
+    "name": "RT",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "82bf1af9-1b45-4b66-bcf8-607f9fcc865b",
+    "name": "SCR",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "1fc81ceb-a468-4647-aa56-dd3e591991af",
+    "name": "Serow",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "9dfb5b97-f147-4af8-ac41-a2c8a0f05eb2",
+    "name": "SR",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "c1f4b982-ff97-4d41-a795-a0bdde846a72",
+    "name": "SZR660",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "88e1d1c1-3ba2-4569-8ced-54ed966fe9e9",
+    "name": "T-Max",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "c3b10a32-2487-4dbf-a13f-1620c1f1a61c",
+    "name": "TDM",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "6b74f0de-3b5f-45e1-b800-873d2cfa26b2",
+    "name": "TR",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "64224ad0-255b-4585-a879-1d1e08149d3a",
+    "name": "Tricity",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "0327132e-d589-4e62-a01a-ccea5974448d",
+    "name": "TRX",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "e689be78-c671-46f9-8b59-60464abdfbc1",
+    "name": "TX",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "252ee9ab-136d-4abb-ab43-b605486bc2f2",
+    "name": "TZ",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "457ce4ae-294c-42f0-8dd0-081f40e8cf06",
+    "name": "TZM",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "2cf75f1f-c3cf-4bb0-8064-ed7b437a2711",
+    "name": "TZR",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "aaa9deb3-ea88-401d-ab49-d7f148543581",
+    "name": "V Star",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "37c95e48-5499-423d-a08b-ac44721fa49e",
+    "name": "V-Max",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "eb5d95d8-e7d7-41bb-a26d-ec0f82f3f092",
+    "name": "WR",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "9386f43f-508b-44b4-bc1d-0a25fd097bc6",
+    "name": "X-MAX",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "d17b317e-604c-442f-a806-296cd593cb9d",
+    "name": "XJ",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "9b935b0a-a8bc-4553-9a43-23bc41873af4",
+    "name": "XJR",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "0a8e19c2-f943-4efd-93b9-3872402a9c26",
+    "name": "XS",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "271bcf0f-f5d4-4707-9f90-5c70368d10b7",
+    "name": "XSR",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "1fb9f14f-6461-4ce8-90a2-7052f0df93d8",
+    "name": "XT",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "58f04907-e46c-43a3-8742-d0bd8e90e1bb",
+    "name": "XTZ",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "adee186f-5e97-4979-8ef7-bf6957426445",
+    "name": "XV",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "323d95a3-ec8c-4948-8362-17355e0212b3",
+    "name": "XVS",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "b4b53bb3-6b7d-4c34-8d6d-828a00b0bafb",
+    "name": "XVZ",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "5652261f-1421-4403-9db5-9d15d9a9e644",
+    "name": "YA-1",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "04e0fadc-fc82-4b86-9524-558e673bd758",
+    "name": "YBR",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "09286ca4-7603-4608-829d-b3cb87cc02a2",
+    "name": "YC-1",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "d92fd281-ccc5-4dab-a411-4b97568ecd59",
+    "name": "YD",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "7b7abf51-f65f-4420-a19e-816c53e3f85a",
+    "name": "YDS",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "bd7a418e-35d5-45c7-ac7a-9aed6dda0664",
+    "name": "YFA",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "b06dd481-064d-4434-8c80-ec4f2aa27a18",
+    "name": "YFM",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "c0af5c87-0558-4e05-b82f-1d797512cd77",
+    "name": "YFZ",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "b349c82f-bfbd-4819-8969-99879a23023f",
+    "name": "YZ",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "1108f9e2-9985-4694-a3a1-582dbd829b54",
+    "name": "YZF",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "937b1928-51e6-4cad-aa53-5b21afdf0d2f",
+    "name": "YZM",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "6b0d6d36-2bec-4a26-b94e-54f03ae806d4",
+    "name": "YZR",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  },
+  {
+    "id": "95abc07e-e313-40b6-9e96-a9d1bceb8c85",
+    "name": "YZT",
+    "brand": "a0c42138-03fb-46e4-b4e8-daa8c55eda12"
+  }
+]

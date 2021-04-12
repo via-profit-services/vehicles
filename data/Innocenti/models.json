@@ -1,0 +1,77 @@
+[
+  {
+    "id": "457e0ddc-7837-49ac-ab15-d503cd04d26d",
+    "name": "3 Cilindri",
+    "brand": "13d013a6-6a4c-4c35-8c2e-e81a3f20940c"
+  },
+  {
+    "id": "709d426e-e4e2-42cb-a384-dc9483b3f78f",
+    "name": "500",
+    "brand": "13d013a6-6a4c-4c35-8c2e-e81a3f20940c"
+  },
+  {
+    "id": "a28ce1d9-0952-42a7-bf80-2f63e9891d0b",
+    "name": "90",
+    "brand": "13d013a6-6a4c-4c35-8c2e-e81a3f20940c"
+  },
+  {
+    "id": "679cd84e-efbf-4b81-a3d4-6fb99b26b954",
+    "name": "950",
+    "brand": "13d013a6-6a4c-4c35-8c2e-e81a3f20940c"
+  },
+  {
+    "id": "692fbf7b-39b2-4b84-b61b-eecef0e3f6b0",
+    "name": "990",
+    "brand": "13d013a6-6a4c-4c35-8c2e-e81a3f20940c"
+  },
+  {
+    "id": "748b1420-45eb-4b6e-943f-63f7691ec4cb",
+    "name": "A40",
+    "brand": "13d013a6-6a4c-4c35-8c2e-e81a3f20940c"
+  },
+  {
+    "id": "39323299-8742-4f29-a4c9-1f1dac40316d",
+    "name": "C",
+    "brand": "13d013a6-6a4c-4c35-8c2e-e81a3f20940c"
+  },
+  {
+    "id": "12cd1747-9c26-468c-9cfe-33fdba800298",
+    "name": "Elba",
+    "brand": "13d013a6-6a4c-4c35-8c2e-e81a3f20940c"
+  },
+  {
+    "id": "86a2bc07-2319-4f5a-9daf-a4f48fe65768",
+    "name": "I4",
+    "brand": "13d013a6-6a4c-4c35-8c2e-e81a3f20940c"
+  },
+  {
+    "id": "d14b11e3-d4a3-4f5b-8b77-9cd20009c5af",
+    "name": "I5",
+    "brand": "13d013a6-6a4c-4c35-8c2e-e81a3f20940c"
+  },
+  {
+    "id": "ff0c9ea0-3e68-42c5-be3f-cdd46a0a9835",
+    "name": "IM3",
+    "brand": "13d013a6-6a4c-4c35-8c2e-e81a3f20940c"
+  },
+  {
+    "id": "21298619-d01c-4760-ac28-202199a50340",
+    "name": "Koral",
+    "brand": "13d013a6-6a4c-4c35-8c2e-e81a3f20940c"
+  },
+  {
+    "id": "b3d31d45-9620-45e2-8d81-c714f6105945",
+    "name": "Mille",
+    "brand": "13d013a6-6a4c-4c35-8c2e-e81a3f20940c"
+  },
+  {
+    "id": "19117033-b4a7-4f2a-b304-be6655f3ea83",
+    "name": "Mini",
+    "brand": "13d013a6-6a4c-4c35-8c2e-e81a3f20940c"
+  },
+  {
+    "id": "de7d29e9-9691-4227-af63-e5707db9c10b",
+    "name": "Regent",
+    "brand": "13d013a6-6a4c-4c35-8c2e-e81a3f20940c"
+  }
+]
