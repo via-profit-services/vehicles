@@ -32,7 +32,6 @@ class VehiclesService implements ServiceImplementation {
       .from<VehicleBrandsTableRecord, VehicleBrandsTableRecordResponse[]>('vehiclesBrands')
       .leftJoin('vehiclesModels', 'vehiclesModels.brand', 'vehiclesBrands.id')
       .groupBy('vehiclesBrands.id')
-      .groupBy('vehiclesModels.id')
       .limit(limit || 1)
       .offset(offset || 0)
       .where((builder) => convertWhereToKnex(builder, where, {
