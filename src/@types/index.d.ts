@@ -159,13 +159,13 @@ declare module '@via-profit-services/vehicles' {
 }
 
 declare module '@via-profit-services/core' {
-  import DataLoader from 'dataloader';
+  import DataLoader from '@via-profit/dataloader';
   import { VehicleModel, VehicleBrand, VehiclesService } from '@via-profit-services/vehicles';
 
   interface DataLoaderCollection {
     vehicles: {
-      brands: DataLoader<string, Node<VehicleBrand>>;
-      models: DataLoader<string,  Node<VehicleModel>>;
+      brands: DataLoader<VehicleBrand>; 
+      models: DataLoader<VehicleModel>;
     }
   }
 
