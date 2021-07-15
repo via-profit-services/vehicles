@@ -1836,8 +1836,10 @@ __metadata:
   peerDependencies:
     "@via-profit-services/core": ^1.1.1
     "@via-profit-services/knex": ^1.1.1
+    "@via-profit-services/redis": ^1.0.3
     "@via-profit/dataloader": ^1.0.0
     graphql: "*"
+    ioredis: ^4.27.3
     moment: "*"
     moment-timezone: "*"
     uuid: "*"

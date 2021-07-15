@@ -46,6 +46,19 @@ const vehiclesQuery: Resolvers['VehiclesQuery'] = {
 
     return model;
   },
+
+  search: async (_parent, args, context) => {
+    const { services } = context;
+    const { query } = args;
+
+    try {
+      const searchData = await services.vehicles.searchBrandModel(query);
+      return searchData;
+
+    } catch (err) {
+      throw new ServerError('Failed to search', { err });
+    }
+  },
 };
 
 export default vehiclesQuery;

@@ -11,7 +11,7 @@ import * as vehicles from '../index';
 
 dotenv.config();
 
-const PORT = 9005;
+const PORT = 9006;
 const app = express();
 const server = http.createServer(app);
 (async () => {

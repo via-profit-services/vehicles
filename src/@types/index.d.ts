@@ -24,6 +24,19 @@ declare module '@via-profit-services/vehicles' {
     };
   }
 
+
+  export type VehicleSearchRecord = {
+    id:string;
+    brand: {
+      id: string;
+      name: string;
+    }
+    model: {
+      id: string;
+      name: string;
+    }
+  }
+
   export type VehicleBrandsTableRecord = {
     readonly id: string;
     readonly name: string;
@@ -48,6 +61,22 @@ declare module '@via-profit-services/vehicles' {
     readonly brand: string;
     readonly totalCount: number;
   }
+  export type VehicleSearchTableRecord = {
+    readonly id: string;
+    readonly name: string;
+    readonly brand: string;
+    readonly brandName: string;
+  }
+
+
+  export type VehicleSearchTableRecordResponse = {
+    readonly id: string;
+    readonly name: string;
+    readonly brand: string;
+    readonly brandName: string;
+  }
+
+
 
   /**
    * For VehiclesService.createBrand() method
@@ -129,6 +158,9 @@ declare module '@via-profit-services/vehicles' {
       model: GraphQLFieldResolver<unknown, Context, {
         id: string;
       }>;
+      search: GraphQLFieldResolver<unknown, Context, {
+        query: string;
+      }>;
     };
     VehicleBrand: VehicleBrandResolver;
     VehicleModel: VehicleModelResolver;
@@ -151,6 +183,7 @@ declare module '@via-profit-services/vehicles' {
     getModels(filter: Partial<OutputFilter>): Promise<ListResponse<VehicleModel>>;
     getModelsByIds(ids: string[]): Promise<VehicleModel[]>;
     getModel(id: string): Promise<VehicleModel | false>;
+    searchBrandModel(query: string): Promise<VehicleSearchRecord[]>;
   }
 
   export const typeDefs: string;
