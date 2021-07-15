@@ -1,7 +1,7 @@
 {
     "name": "@via-profit-services/vehicles",
     "support": "https://via-profit.ru",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "Via Profit Vehicles Schema",
     "main": "dist/index.js",
     "engines": {
@@ -54,10 +54,10 @@
     "peerDependencies": {
         "@via-profit-services/core": "^1.1.1",
         "@via-profit-services/knex": "^1.1.1",
-        "@via-profit/dataloader": "^1.0.0",
         "@via-profit-services/redis": "^1.0.3",
-        "ioredis": "^4.27.3",
+        "@via-profit/dataloader": "^1.0.0",
         "graphql": "*",
+        "ioredis": "^4.27.3",
         "moment": "*",
         "moment-timezone": "*",
         "uuid": "*",
