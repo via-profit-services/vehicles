@@ -1,5 +1,5 @@
 import { buildCursorConnection, ServerError, buildQueryFilter, CursorConnection } from '@via-profit-services/core';
-import { Resolvers } from '@via-profit-services/vehicles';
+import { Resolvers,VehicleSearchProps } from '@via-profit-services/vehicles';
 
 const vehiclesQuery: Resolvers['VehiclesQuery'] = {
   brands: async (_parent, args, context) => {
@@ -49,11 +49,9 @@ const vehiclesQuery: Resolvers['VehiclesQuery'] = {
 
   search: async (_parent, args, context) => {
     const { services } = context;
-    const { query } = args;
-
     try {
-      const searchData = await services.vehicles.searchBrandModel(query);
-      return searchData;
+      const searchData = await services.vehicles.searchBrandModel(args);
+      return searchData;args
 
     } catch (err) {
       throw new ServerError('Failed to search', { err });

@@ -15,6 +15,7 @@ import type {
   VehicleSearchRecord,
   VehicleSearchTableRecordResponse,
   VehicleSearchTableRecord,
+  VehicleSearchProps
 } from '@via-profit-services/vehicles';
 import {
   convertOrderByToKnex,
@@ -165,9 +166,12 @@ class VehiclesService implements ServiceImplementation {
     return builder;
   }
 
-  public async searchBrandModel(query: string): Promise<VehicleSearchRecord[]> {
+
+  //TODO dataloader
+  public async searchBrandModel(props:VehicleSearchProps): Promise<VehicleSearchRecord[]> {
     const { context } = this.props;
     const { knex } = context;
+    const {query, limit, offset} = props;
 
     const queryArray = query.trim().split(' ');
 
@@ -177,9 +181,11 @@ class VehiclesService implements ServiceImplementation {
       .leftJoin('vehiclesBrands', 'vehiclesBrands.id', 'vehiclesModels.brand')
       .where(builder => this.compileSearchQuery(builder, queryArray))
       .orderBy('summary', 'desc')
+      .limit(limit || 20)
+      .offset(offset || 0)
       .then(nodes =>
         nodes.map(node => ({
-          id: `${node.id}|${node.brand}`,
+          id: `${node.brand}|${node.id}`,
           brand: {
             id: node.brand,
             name: node.brandName,

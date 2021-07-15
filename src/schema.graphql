@@ -57,7 +57,11 @@ type VehiclesQuery {
   """
   Returns vehicle records if found
   """
-  search(query: String!):  [VehicleSearchData!]
+  search(
+    query: String!
+    offset: Int
+    limit: Int
+  ):  [VehicleSearchData!]
 }
 
 input VehicleBrandInputCreate {

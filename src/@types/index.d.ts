@@ -160,6 +160,8 @@ declare module '@via-profit-services/vehicles' {
       }>;
       search: GraphQLFieldResolver<unknown, Context, {
         query: string;
+        limit?: number;
+        offset?: number;
       }>;
     };
     VehicleBrand: VehicleBrandResolver;
@@ -174,6 +176,12 @@ declare module '@via-profit-services/vehicles' {
     id: string;
   }, Context>>;
 
+  export type VehicleSearchProps = {
+    query:string;
+    limit?: number;
+    offset?: number;
+  } 
+
   class VehiclesService {
     props: VehiclesServiceProps;
     constructor(props: VehiclesServiceProps);
@@ -183,7 +191,7 @@ declare module '@via-profit-services/vehicles' {
     getModels(filter: Partial<OutputFilter>): Promise<ListResponse<VehicleModel>>;
     getModelsByIds(ids: string[]): Promise<VehicleModel[]>;
     getModel(id: string): Promise<VehicleModel | false>;
-    searchBrandModel(query: string): Promise<VehicleSearchRecord[]>;
+    searchBrandModel(props:VehicleSearchProps): Promise<VehicleSearchRecord[]>;
   }
 
   export const typeDefs: string;
