@@ -15,7 +15,7 @@ import type {
   VehicleSearchRecord,
   VehicleSearchTableRecordResponse,
   VehicleSearchTableRecord,
-  VehicleSearchProps
+  VehicleSearchProps,
 } from '@via-profit-services/vehicles';
 import {
   convertOrderByToKnex,
@@ -35,7 +35,7 @@ class VehiclesService implements ServiceImplementation {
   public async getBrands(filter: Partial<OutputFilter>): Promise<ListResponse<VehicleBrand>> {
     const { context } = this.props;
     const { knex } = context;
-    const { limit, offset, orderBy, where, search } = filter;
+    const { limit, offset, orderBy, where, search, revert } = filter;
 
     const response = await knex
       .select([
@@ -71,6 +71,7 @@ class VehiclesService implements ServiceImplementation {
         limit,
         orderBy,
         where,
+        revert,
       }));
 
     return response;
@@ -95,7 +96,7 @@ class VehiclesService implements ServiceImplementation {
   public async getModels(filter: Partial<OutputFilter>): Promise<ListResponse<VehicleModel>> {
     const { context } = this.props;
     const { knex } = context;
-    const { limit, offset, orderBy, where, search } = filter;
+    const { limit, offset, orderBy, where, search, revert } = filter;
 
     const response = await knex
       .select([knex.raw('*'), knex.raw('count(*) over() as "totalCount"')])
@@ -127,6 +128,7 @@ class VehiclesService implements ServiceImplementation {
         limit,
         orderBy,
         where,
+        revert,
       }));
 
     return response;
@@ -149,14 +151,14 @@ class VehiclesService implements ServiceImplementation {
   }
 
   public compileSearchQuery(builder: Knex.QueryBuilder, queryArray: string[]): Knex.QueryBuilder {
-    const fieldsArray = ["vehiclesModels.name", "vehiclesBrands.name"];
+    const fieldsArray = ['vehiclesModels.name', 'vehiclesBrands.name'];
     let i = 1;
 
-    queryArray.forEach((queryPart) => {
-      fieldsArray.forEach((field) => {
-        if (i === 1){
+    queryArray.forEach(queryPart => {
+      fieldsArray.forEach(field => {
+        if (i === 1) {
           builder.where(field, 'ilike', `%${queryPart}%`);
-        }else{
+        } else {
           builder.orWhere(field, 'ilike', `%${queryPart}%`);
         }
         i++;
@@ -166,17 +168,22 @@ class VehiclesService implements ServiceImplementation {
     return builder;
   }
 
-
   //TODO dataloader
-  public async searchBrandModel(props:VehicleSearchProps): Promise<VehicleSearchRecord[]> {
+  public async searchBrandModel(props: VehicleSearchProps): Promise<VehicleSearchRecord[]> {
     const { context } = this.props;
     const { knex } = context;
-    const {query, limit, offset} = props;
+    const { query, limit, offset } = props;
 
     const queryArray = query.trim().split(' ');
 
     const response = await knex
-      .select([knex.raw('"vehiclesModels".*'), knex.raw('"vehiclesBrands".name' as 'brandName'), knex.raw(`similarity("vehiclesBrands"."name", '${query}') + similarity("vehiclesModels"."name", '${query}') as "summary"`)])
+      .select([
+        knex.raw('"vehiclesModels".*'),
+        knex.raw('"vehiclesBrands".name' as 'brandName'),
+        knex.raw(
+          `similarity("vehiclesBrands"."name", '${query}') + similarity("vehiclesModels"."name", '${query}') as "summary"`,
+        ),
+      ])
       .from<VehicleSearchTableRecord, VehicleSearchTableRecordResponse[]>('vehiclesModels')
       .leftJoin('vehiclesBrands', 'vehiclesBrands.id', 'vehiclesModels.brand')
       .where(builder => this.compileSearchQuery(builder, queryArray))

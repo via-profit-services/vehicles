@@ -1689,16 +1689,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@via-profit-services/core@npm:^1.1.1":
-  version: 1.1.1
-  resolution: "@via-profit-services/core@npm:1.1.1"
+"@via-profit-services/core@npm:^1.2.4":
+  version: 1.2.4
+  resolution: "@via-profit-services/core@npm:1.2.4"
   dependencies:
     bufferutil: ^4.0.2
     content-type: ^1.0.4
     raw-body: ^2.4.1
     utf-8-validate: ^5.0.3
   peerDependencies:
-    dataloader: ^2.0.0
+    "@via-profit/dataloader": ^1.0.1
     express: ^4.17.1
     graphql: ^15.4.0
     moment: ^2.29.1
@@ -1710,7 +1710,16 @@ __metadata:
       optional: true
     utf-8-validate:
       optional: true
-  checksum: 484be0ad0ab211aad484ebf80c706ca3725423566277cf0b7fda743d08f79440af3bbdbdda861cac4f8c78eae05c1844ccbbb3c41cd52cadc09ed424183f1c87
+  checksum: cba1a3864e9eb23accd846fbdc1a2eea6cac3bc9921bc602e4930abb1c642e2a5c9fb1f5f0451e69b25e0233a86f2bd7ea3af40189dafb97165daaa8622074c9
+  languageName: node
+  linkType: hard
+
+"@via-profit-services/dataloader@npm:^2.0.1":
+  version: 2.0.1
+  resolution: "@via-profit-services/dataloader@npm:2.0.1"
+  peerDependencies:
+    ioredis: ^4.27.2
+  checksum: f3361377974b0c3181a413b5982ca7f689bce7cec504f039ed565e16819d39031dbda8dc72ab74e6aca1b3496febd8f00d79dc1fe1a1ab2883fb81bc7ae9a291
   languageName: node
   linkType: hard
 
@@ -1774,11 +1783,11 @@ __metadata:
     "@types/webpack-node-externals": ^1.7.0
     "@typescript-eslint/eslint-plugin": ^4.6.1
     "@typescript-eslint/parser": ^4.6.1
-    "@via-profit-services/core": ^1.1.1
+    "@via-profit-services/core": ^1.2.4
+    "@via-profit-services/dataloader": ^2.0.1
     "@via-profit-services/eslint-config": ^0.1.11
     "@via-profit-services/knex": ^1.1.1
     "@via-profit-services/redis": ^1.0.3
-    "@via-profit/dataloader": ^1.0.0
     "@zerollup/ts-transform-paths": ^1.7.11
     chalk: ^4.1.0
     clean-webpack-plugin: ^3.0.0
@@ -1834,10 +1843,9 @@ __metadata:
     winston: ^3.3.3
     winston-daily-rotate-file: ^4.5.2
   peerDependencies:
-    "@via-profit-services/core": ^1.1.1
+    "@via-profit-services/core": ^1.2.4
     "@via-profit-services/knex": ^1.1.1
     "@via-profit-services/redis": ^1.0.3
-    "@via-profit/dataloader": ^1.0.0
     graphql: "*"
     ioredis: ^4.27.3
     moment: "*"
@@ -1847,15 +1855,6 @@ __metadata:
     winston-daily-rotate-file: "*"
   languageName: unknown
   linkType: soft
-
-"@via-profit/dataloader@npm:^1.0.0":
-  version: 1.0.0
-  resolution: "@via-profit/dataloader@npm:1.0.0"
-  peerDependencies:
-    ioredis: ^4.27.2
-  checksum: b2d9436ed6c0ab2f785b1401928089f084e0e2c88a215ac295db09d59a562a25891b5b632e9b9f9f0adc13eb05ede9b14bda5bbfdbb7e3160cc96ae144b9f95f
-  languageName: node
-  linkType: hard
 
 "@webassemblyjs/ast@npm:1.11.0":
   version: 1.11.0
