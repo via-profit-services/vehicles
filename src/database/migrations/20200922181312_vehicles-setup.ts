@@ -19,6 +19,8 @@ export async function up(knex: Knex): Promise<any> {
       CONSTRAINT "vehiclesModels_pk" PRIMARY KEY (id)
     );
 
+    CREATE EXTENSION pg_trgm;
+
     ALTER TABLE "vehiclesModels" ADD CONSTRAINT "vehiclesModels_fk_vehiclesBrands" FOREIGN KEY ("brand") REFERENCES "vehiclesBrands"(id) ON DELETE CASCADE on update cascade;
 
   `);
@@ -27,6 +29,7 @@ export async function up(knex: Knex): Promise<any> {
 
 export async function down(knex: Knex): Promise<any> {
   return knex.raw(`
+    DROP EXTENSION pg_trgm;
     drop table if exists "vehiclesModels" cascade;
     drop table if exists "vehiclesBrands" cascade;
   `);

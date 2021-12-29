@@ -14,6 +14,12 @@ type VehicleModel implements Node {
   brand: VehicleBrand!
 }
 
+type VehicleSearchData implements Node{
+  id: ID!
+  brand: VehicleBrand!
+  model: VehicleModel!
+}
+
 type VehiclesQuery {
   """
   Returns VehicleBrands list bundle
@@ -47,6 +53,15 @@ type VehiclesQuery {
   Returns vehicle model if exists
   """
   model(id: ID!): VehicleModel
+
+  """
+  Returns vehicle records if found
+  """
+  search(
+    query: String!
+    offset: Int
+    limit: Int
+  ):  [VehicleSearchData!]
 }
 
 input VehicleBrandInputCreate {
@@ -184,3 +199,7 @@ type VehiclesModelsListConnection implements Connection {
   pageInfo: PageInfo!
   edges: [VehicleModelEdge!]!
 }
+
+
+
+

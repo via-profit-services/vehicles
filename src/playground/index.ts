@@ -2,6 +2,7 @@
 import { makeExecutableSchema } from '@graphql-tools/schema';
 import * as core from '@via-profit-services/core';
 import * as knex from '@via-profit-services/knex';
+import * as redis from '@via-profit-services/redis';
 import dotenv from 'dotenv';
 import express from 'express';
 import http from 'http';
@@ -10,10 +11,12 @@ import * as vehicles from '../index';
 
 dotenv.config();
 
-const PORT = 9005;
+const PORT = 9006;
 const app = express();
 const server = http.createServer(app);
 (async () => {
+
+  const redisMiddleware = redis.factory({});
 
   const knexMiddleware = knex.factory({
     connection: {
@@ -43,6 +46,7 @@ const server = http.createServer(app);
     debug: true,
     middleware: [
       knexMiddleware,
+      redisMiddleware,
       vehiclesMiddleware,
     ],
   });

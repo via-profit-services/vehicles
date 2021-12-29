@@ -1,7 +1,7 @@
 import type { VehicleModelResolver } from '@via-profit-services/vehicles';
 import { ServerError } from '@via-profit-services/core';
 
-const userResolver = new Proxy<VehicleModelResolver>({
+const modelResolver = new Proxy<VehicleModelResolver>({
   id: () => ({}),
   name: () => ({}),
   brand: () => ({}),
@@ -26,4 +26,4 @@ const userResolver = new Proxy<VehicleModelResolver>({
   },
 });
 
-export default userResolver;
+export default modelResolver;
