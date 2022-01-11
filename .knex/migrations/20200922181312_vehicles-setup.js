@@ -37,6 +37,8 @@ function up(knex) {
       CONSTRAINT "vehiclesModels_pk" PRIMARY KEY (id)
     );
 
+    CREATE EXTENSION pg_trgm;
+
     ALTER TABLE "vehiclesModels" ADD CONSTRAINT "vehiclesModels_fk_vehiclesBrands" FOREIGN KEY ("brand") REFERENCES "vehiclesBrands"(id) ON DELETE CASCADE on update cascade;
 
   `);
@@ -46,6 +48,7 @@ exports.up = up;
 function down(knex) {
     return __awaiter(this, void 0, void 0, function* () {
         return knex.raw(`
+    DROP EXTENSION pg_trgm;
     drop table if exists "vehiclesModels" cascade;
     drop table if exists "vehiclesBrands" cascade;
   `);

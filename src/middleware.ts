@@ -6,7 +6,6 @@ import VehiclesService from './VehiclesService';
 
 const vehiclesFactory: VehiclesMiddlewareFactory = () => {
   const middleware: Middleware = ({ context }) => {
-
     // Vehicle Service
     context.services.vehicles = new VehiclesService({ context });
 
@@ -41,9 +40,9 @@ const vehiclesFactory: VehiclesMiddlewareFactory = () => {
     return {
       context,
     };
-  }
+  };
 
-  return middleware
+  return middleware;
 };
 
 export default vehiclesFactory;

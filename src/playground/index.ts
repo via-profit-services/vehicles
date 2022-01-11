@@ -15,7 +15,6 @@ const PORT = 9006;
 const app = express();
 const server = http.createServer(app);
 (async () => {
-
   const redisMiddleware = redis.factory({});
 
   const knexMiddleware = knex.factory({
@@ -30,30 +29,19 @@ const server = http.createServer(app);
   const vehiclesMiddleware = vehicles.factory();
 
   const schema = makeExecutableSchema({
-    typeDefs: [
-      core.typeDefs,
-      vehicles.typeDefs,
-    ],
-    resolvers: [
-      core.resolvers,
-      vehicles.resolvers,
-    ],
-  })
+    typeDefs: [core.typeDefs, vehicles.typeDefs],
+    resolvers: [core.resolvers, vehicles.resolvers],
+  });
 
   const { graphQLExpress } = await core.factory({
     schema,
     server,
     debug: true,
-    middleware: [
-      knexMiddleware,
-      redisMiddleware,
-      vehiclesMiddleware,
-    ],
+    middleware: [knexMiddleware, redisMiddleware, vehiclesMiddleware],
   });
 
   app.use(graphQLExpress);
   server.listen(PORT, () => {
     console.log(`GraphQL server started at http://localhost:${PORT}/graphql`);
   });
-
 })();

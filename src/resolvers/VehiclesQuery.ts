@@ -1,5 +1,10 @@
-import { buildCursorConnection, ServerError, buildQueryFilter, CursorConnection } from '@via-profit-services/core';
-import { Resolvers,VehicleSearchProps } from '@via-profit-services/vehicles';
+import {
+  buildCursorConnection,
+  ServerError,
+  buildQueryFilter,
+  CursorConnection,
+} from '@via-profit-services/core';
+import { Resolvers, VehicleSearchProps } from '@via-profit-services/vehicles';
 
 const vehiclesQuery: Resolvers['VehiclesQuery'] = {
   brands: async (_parent, args, context) => {
@@ -10,9 +15,8 @@ const vehiclesQuery: Resolvers['VehiclesQuery'] = {
       const brandsConnection = await services.vehicles.getBrands(filter);
       const connection = buildCursorConnection(brandsConnection, 'vehicle-brands');
       await dataloader.vehicles.brands.primeMany(brandsConnection.nodes);
-      
-      return connection;
 
+      return connection;
     } catch (err) {
       throw new ServerError('Failed to get vehicles brands list', { err });
     }
@@ -27,7 +31,6 @@ const vehiclesQuery: Resolvers['VehiclesQuery'] = {
       await dataloader.vehicles.models.primeMany(brandsConnection.nodes);
 
       return connection;
-
     } catch (err) {
       throw new ServerError('Failed to get vehicles brands list', { err });
     }
@@ -51,8 +54,9 @@ const vehiclesQuery: Resolvers['VehiclesQuery'] = {
     const { services } = context;
     try {
       const searchData = await services.vehicles.searchBrandModel(args);
-      return searchData;args
 
+      return searchData;
+      args;
     } catch (err) {
       throw new ServerError('Failed to search', { err });
     }

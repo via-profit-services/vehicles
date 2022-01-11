@@ -7,7 +7,6 @@ import { merge } from 'webpack-merge';
 import packageInfo from '../package.json';
 import webpackBaseConfig from './webpack-config-base';
 
-
 const webpackProdConfig: Configuration = merge(webpackBaseConfig, {
   entry: {
     index: path.resolve(__dirname, '../src/index.ts'),
@@ -38,9 +37,8 @@ Contact    ${packageInfo.support}
     {
       apply: (compiler: Compiler) => {
         compiler.hooks.beforeRun.tapAsync('WebpackBeforeBuild', (_, callback) => {
-
           if (fs.existsSync(path.join(__dirname, '../dist/'))) {
-            fs.rmdirSync(path.join(__dirname, '../dist/'), { recursive: true })
+            fs.rmdirSync(path.join(__dirname, '../dist/'), { recursive: true });
           }
 
           callback();
@@ -58,7 +56,6 @@ Contact    ${packageInfo.support}
           );
           callback();
         });
-
       },
     },
   ],
